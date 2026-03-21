@@ -1,0 +1,1482 @@
+[
+  {
+    "id": "loading-lazy-media",
+    "title": "Lazy loading via attribute for video & audio",
+    "type": "added",
+    "date": "2026-03-05T21:48:59-08:00",
+    "summary": "Add loading-lazy-media: lazy loading for <video> and <audio> elements (#7488)",
+    "usage": {
+      "fully_supported": 0,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "6e01139f6a5d72277eebd459b2040521e376ac07",
+      "url": "https://github.com/Fyrd/caniuse/commit/6e01139f6a5d72277eebd459b2040521e376ac07"
+    },
+    "improved_count": 0,
+    "changes": []
+  },
+  {
+    "id": "link-icon-svg",
+    "title": "SVG favicons",
+    "type": "support",
+    "date": "2026-02-28T15:45:04-08:00",
+    "summary": "link-icon-svg: update FF for Android support information (#7477)",
+    "usage": {
+      "fully_supported": 89.71,
+      "partially_supported": 0.03
+    },
+    "commit": {
+      "sha": "9429debac3b030b9a3add8e7f01f88993f78ee93",
+      "url": "https://github.com/Fyrd/caniuse/commit/9429debac3b030b9a3add8e7f01f88993f78ee93"
+    },
+    "improved_count": 1,
+    "changes": [
+      {
+        "browser": "and_ff",
+        "version": "147",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "webtransport",
+    "title": "WebTransport",
+    "type": "support",
+    "date": "2026-02-28T15:41:06-08:00",
+    "summary": "Fixing error in webtransport.json (#7481)",
+    "usage": {
+      "fully_supported": 80.71,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "934ed5854ed49c4a511974c308a79c68e59aee16",
+      "url": "https://github.com/Fyrd/caniuse/commit/934ed5854ed49c4a511974c308a79c68e59aee16"
+    },
+    "improved_count": 1,
+    "changes": [
+      {
+        "browser": "safari",
+        "version": "TP",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "css-overflow-anchor",
+    "title": "CSS overflow-anchor (Scroll Anchoring)",
+    "type": "support",
+    "date": "2026-02-28T15:40:30-08:00",
+    "summary": "Update css-overflow-anchor.json (#7484)",
+    "usage": {
+      "fully_supported": 80.93,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "d5ab6024690ed993e1092f8f2e3d17b43ea3a5a2",
+      "url": "https://github.com/Fyrd/caniuse/commit/d5ab6024690ed993e1092f8f2e3d17b43ea3a5a2"
+    },
+    "improved_count": 1,
+    "changes": [
+      {
+        "browser": "safari",
+        "version": "TP",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "customizable-select",
+    "title": "Customizable Select element",
+    "type": "support",
+    "date": "2026-02-28T15:40:00-08:00",
+    "summary": "Update customizable-select.json (#7485)",
+    "usage": {
+      "fully_supported": 66.63,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "a5526e0156071364e1dd8f532adb07cd5146003f",
+      "url": "https://github.com/Fyrd/caniuse/commit/a5526e0156071364e1dd8f532adb07cd5146003f"
+    },
+    "improved_count": 1,
+    "changes": [
+      {
+        "browser": "safari",
+        "version": "TP",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "css-grid-lanes",
+    "title": "CSS Grid Lanes",
+    "type": "support",
+    "date": "2026-02-21T19:52:38-08:00",
+    "summary": "Grid Lanes is supported in Safari 26.4 (#7474)",
+    "usage": {
+      "fully_supported": 0.02,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "0f1a97da02c242dd00def292d2e03b2a7e2d4d3b",
+      "url": "https://github.com/Fyrd/caniuse/commit/0f1a97da02c242dd00def292d2e03b2a7e2d4d3b"
+    },
+    "improved_count": 5,
+    "changes": [
+      {
+        "browser": "safari",
+        "version": "26.4",
+        "from": "p d #1",
+        "to": "y"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "16.4",
+        "from": "n",
+        "to": "p d #1"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "16.5",
+        "from": "n",
+        "to": "p d #1"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "16.6-16.7",
+        "from": "n",
+        "to": "p d #1"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "26.4",
+        "from": "p d #1",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "srcset",
+    "title": "Srcset and sizes attributes",
+    "type": "support",
+    "date": "2026-02-21T19:51:26-08:00",
+    "summary": "min(), max(), & clamp() now supported for `sizes` in Safari 26.4 (#7476)",
+    "usage": {
+      "fully_supported": 80.96,
+      "partially_supported": 16.25
+    },
+    "commit": {
+      "sha": "04bb071dfb46af809b8d905f6582d12bd85c6943",
+      "url": "https://github.com/Fyrd/caniuse/commit/04bb071dfb46af809b8d905f6582d12bd85c6943"
+    },
+    "improved_count": 1,
+    "changes": [
+      {
+        "browser": "ios_saf",
+        "version": "26.4",
+        "from": "a #4",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "zstd",
+    "title": "zstd (Zstandard) content-encoding",
+    "type": "support",
+    "date": "2026-02-05T22:16:47-08:00",
+    "summary": "Update Zstandard support for Safari (#7466)",
+    "usage": {
+      "fully_supported": 72.17,
+      "partially_supported": 8.53
+    },
+    "commit": {
+      "sha": "188bc05673b7c6bf83077982cbed0c2ec15df532",
+      "url": "https://github.com/Fyrd/caniuse/commit/188bc05673b7c6bf83077982cbed0c2ec15df532"
+    },
+    "improved_count": 1,
+    "changes": [
+      {
+        "browser": "ios_saf",
+        "version": "26.3",
+        "from": "a #2",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "background-attachment",
+    "title": "CSS background-attachment",
+    "type": "support",
+    "date": "2026-02-01T21:40:11-08:00",
+    "summary": "iOS Safari's `background-attachment: fixed` is partially implemented (#7465)",
+    "usage": {
+      "fully_supported": 81.77,
+      "partially_supported": 15.59
+    },
+    "commit": {
+      "sha": "7e288ac0094d69aeb4c95e6b53fca6bdab3b6e11",
+      "url": "https://github.com/Fyrd/caniuse/commit/7e288ac0094d69aeb4c95e6b53fca6bdab3b6e11"
+    },
+    "improved_count": 8,
+    "changes": [
+      {
+        "browser": "ios_saf",
+        "version": "13.0-13.1",
+        "from": "n #5",
+        "to": "a #5 #6"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "13.2",
+        "from": "n #5",
+        "to": "a #5 #6"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "13.3",
+        "from": "n #5",
+        "to": "a #5 #6"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "13.4-13.7",
+        "from": "n #5",
+        "to": "a #5 #6"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "14.0-14.4",
+        "from": "n #5",
+        "to": "a #5 #6"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "14.5-14.8",
+        "from": "n #5",
+        "to": "a #5 #6"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "15.0-15.1",
+        "from": "n #5",
+        "to": "a #5 #6"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "15.2-15.3",
+        "from": "n #5",
+        "to": "a #5 #6"
+      }
+    ]
+  },
+  {
+    "id": "css-text-indent",
+    "title": "CSS text-indent",
+    "type": "support",
+    "date": "2026-01-22T20:46:17-08:00",
+    "summary": "Update css-text-indent.json (#7461)",
+    "usage": {
+      "fully_supported": 17.56,
+      "partially_supported": 79.98
+    },
+    "commit": {
+      "sha": "333caf8fc73e074cd1988d3da4304b01bf4b50b3",
+      "url": "https://github.com/Fyrd/caniuse/commit/333caf8fc73e074cd1988d3da4304b01bf4b50b3"
+    },
+    "improved_count": 1,
+    "changes": [
+      {
+        "browser": "chrome",
+        "version": "146",
+        "from": "a #1 #2",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "css-scrollbar",
+    "title": "CSS scrollbar styling",
+    "type": "support",
+    "date": "2026-01-03T21:29:49-08:00",
+    "summary": "Update css-scrollbar.json (#7447)",
+    "usage": {
+      "fully_supported": 82.08,
+      "partially_supported": 9.75
+    },
+    "commit": {
+      "sha": "0296f64c0693f7e859080642bd21ae037b39a909",
+      "url": "https://github.com/Fyrd/caniuse/commit/0296f64c0693f7e859080642bd21ae037b39a909"
+    },
+    "improved_count": 5,
+    "changes": [
+      {
+        "browser": "safari",
+        "version": "26.2",
+        "from": "a x #2",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "26.3",
+        "from": "a x #2",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "TP",
+        "from": "a x #2",
+        "to": "y"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "26.2",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "26.3",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "css-text-justify",
+    "title": "CSS text-justify",
+    "type": "support",
+    "date": "2025-12-18T20:08:44-08:00",
+    "summary": "Update css-text-justify.json (#7438)",
+    "usage": {
+      "fully_supported": 51.63,
+      "partially_supported": 0.29
+    },
+    "commit": {
+      "sha": "30e9e49a1c667847b15959d83429e85dcaf36186",
+      "url": "https://github.com/Fyrd/caniuse/commit/30e9e49a1c667847b15959d83429e85dcaf36186"
+    },
+    "improved_count": 2,
+    "changes": [
+      {
+        "browser": "chrome",
+        "version": "145",
+        "from": "n d #2",
+        "to": "y"
+      },
+      {
+        "browser": "chrome",
+        "version": "146",
+        "from": "n d #2",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "css-anchor-positioning",
+    "title": "CSS Anchor Positioning",
+    "type": "support",
+    "date": "2025-12-02T22:08:47-08:00",
+    "summary": "Update css-anchor-positioning.json (#7428)",
+    "usage": {
+      "fully_supported": 82.16,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "1ec14a9a74c03eb38e4a371d48283e339eefe2dc",
+      "url": "https://github.com/Fyrd/caniuse/commit/1ec14a9a74c03eb38e4a371d48283e339eefe2dc"
+    },
+    "improved_count": 2,
+    "changes": [
+      {
+        "browser": "firefox",
+        "version": "147",
+        "from": "n d #2",
+        "to": "y"
+      },
+      {
+        "browser": "firefox",
+        "version": "148",
+        "from": "n d #2",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "link-rel-dns-prefetch",
+    "title": "Resource Hints: dns-prefetch",
+    "type": "support",
+    "date": "2025-11-05T18:55:31-08:00",
+    "summary": "iOS 26 and later support <link rel=dns-prefetch> (#7414)",
+    "usage": {
+      "fully_supported": 91.94,
+      "partially_supported": 0.2
+    },
+    "commit": {
+      "sha": "0ade790689bbd84a088a8eca0e18e1f112a00da9",
+      "url": "https://github.com/Fyrd/caniuse/commit/0ade790689bbd84a088a8eca0e18e1f112a00da9"
+    },
+    "improved_count": 2,
+    "changes": [
+      {
+        "browser": "ios_saf",
+        "version": "26.0",
+        "from": "u",
+        "to": "y"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "26.1",
+        "from": "u",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "css-cascade-scope",
+    "title": "Scoped Styles: the @scope rule",
+    "type": "support",
+    "date": "2025-11-01T23:14:58-07:00",
+    "summary": "Update css-cascade-scope.json (#7411)",
+    "usage": {
+      "fully_supported": 88.62,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "f6eb9e26ec95fcd3ad31be884bdbaf6a23821341",
+      "url": "https://github.com/Fyrd/caniuse/commit/f6eb9e26ec95fcd3ad31be884bdbaf6a23821341"
+    },
+    "improved_count": 1,
+    "changes": [
+      {
+        "browser": "firefox",
+        "version": "146",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "http-live-streaming",
+    "title": "HTTP Live Streaming (HLS)",
+    "type": "support",
+    "date": "2025-10-30T21:42:12-07:00",
+    "summary": "Change values for keys 142, 143, and 144 (#7410)",
+    "usage": {
+      "fully_supported": 79.3,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "a509b74c341d043ccc8ae51e87d611447adab334",
+      "url": "https://github.com/Fyrd/caniuse/commit/a509b74c341d043ccc8ae51e87d611447adab334"
+    },
+    "improved_count": 3,
+    "changes": [
+      {
+        "browser": "chrome",
+        "version": "142",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "chrome",
+        "version": "143",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "chrome",
+        "version": "144",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "temporal",
+    "title": "Temporal",
+    "type": "support",
+    "date": "2025-10-07T23:27:41-07:00",
+    "summary": "Chrome 144 is shipping Temporal (#7401)",
+    "usage": {
+      "fully_supported": 64.32,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "894ea7b72a742000cc1cbe1e8f04f47ff8df9e3d",
+      "url": "https://github.com/Fyrd/caniuse/commit/894ea7b72a742000cc1cbe1e8f04f47ff8df9e3d"
+    },
+    "improved_count": 1,
+    "changes": [
+      {
+        "browser": "chrome",
+        "version": "144",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "cross-document-view-transitions",
+    "title": "View Transitions (cross-document)",
+    "type": "support",
+    "date": "2025-08-30T14:52:29-07:00",
+    "summary": "Firefox is letting View Transitions ride the trains in 144 (#7374)",
+    "usage": {
+      "fully_supported": 83.06,
+      "partially_supported": 1.89
+    },
+    "commit": {
+      "sha": "bb48b93521036cf40ea313f070f3ad345452843e",
+      "url": "https://github.com/Fyrd/caniuse/commit/bb48b93521036cf40ea313f070f3ad345452843e"
+    },
+    "improved_count": 2,
+    "changes": [
+      {
+        "browser": "firefox",
+        "version": "144",
+        "from": "n d #1",
+        "to": "a #2"
+      },
+      {
+        "browser": "firefox",
+        "version": "145",
+        "from": "n d #1",
+        "to": "a #2"
+      }
+    ]
+  },
+  {
+    "id": "view-transitions",
+    "title": "View Transitions API (single-document)",
+    "type": "support",
+    "date": "2025-08-30T14:52:29-07:00",
+    "summary": "Firefox is letting View Transitions ride the trains in 144 (#7374)",
+    "usage": {
+      "fully_supported": 90.54,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "bb48b93521036cf40ea313f070f3ad345452843e",
+      "url": "https://github.com/Fyrd/caniuse/commit/bb48b93521036cf40ea313f070f3ad345452843e"
+    },
+    "improved_count": 2,
+    "changes": [
+      {
+        "browser": "firefox",
+        "version": "144",
+        "from": "n d #1",
+        "to": "y"
+      },
+      {
+        "browser": "firefox",
+        "version": "145",
+        "from": "n d #1",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "input-file-directory",
+    "title": "Directory selection from file input",
+    "type": "support",
+    "date": "2025-08-24T17:00:40-07:00",
+    "summary": "Update input-file-directory.json (#7369)",
+    "usage": {
+      "fully_supported": 91.72,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "ca8998d5529321ddad634e68d10ba08364d67096",
+      "url": "https://github.com/Fyrd/caniuse/commit/ca8998d5529321ddad634e68d10ba08364d67096"
+    },
+    "improved_count": 6,
+    "changes": [
+      {
+        "browser": "ios_saf",
+        "version": "18.4",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "18.5-18.6",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "26.0",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "android",
+        "version": "139",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "and_chr",
+        "version": "139",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "and_ff",
+        "version": "142",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "http3",
+    "title": "HTTP/3 protocol",
+    "type": "support",
+    "date": "2025-08-10T19:16:21-07:00",
+    "summary": "samsung browser: drop http/3 support based on real world data + device testing (#7355)",
+    "usage": {
+      "fully_supported": 94.17,
+      "partially_supported": 0.5
+    },
+    "commit": {
+      "sha": "29718f9f315e91b808bfe2f060d3270a69880527",
+      "url": "https://github.com/Fyrd/caniuse/commit/29718f9f315e91b808bfe2f060d3270a69880527"
+    },
+    "improved_count": 1,
+    "changes": [
+      {
+        "browser": "samsung",
+        "version": "7.2-7.4",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "css-if",
+    "title": "CSS if() function",
+    "type": "added",
+    "date": "2025-07-28T20:41:51-07:00",
+    "summary": "Create CSS if() function dataset (#7345)",
+    "usage": {
+      "fully_supported": 66.65,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "a1ebb7f0ea920a438cde8a6c7197a3c1e354f853",
+      "url": "https://github.com/Fyrd/caniuse/commit/a1ebb7f0ea920a438cde8a6c7197a3c1e354f853"
+    },
+    "improved_count": 0,
+    "changes": []
+  },
+  {
+    "id": "createimagebitmap",
+    "title": "createImageBitmap",
+    "type": "support",
+    "date": "2025-07-28T20:39:42-07:00",
+    "summary": "Align createImageBitmap with web-features (#7348)",
+    "usage": {
+      "fully_supported": 95.67,
+      "partially_supported": 1.23
+    },
+    "commit": {
+      "sha": "61a25039174b0b9c434eda855346dca02f5dbca7",
+      "url": "https://github.com/Fyrd/caniuse/commit/61a25039174b0b9c434eda855346dca02f5dbca7"
+    },
+    "improved_count": 47,
+    "changes": [
+      {
+        "browser": "firefox",
+        "version": "98",
+        "from": "a #7",
+        "to": "y #7"
+      },
+      {
+        "browser": "firefox",
+        "version": "99",
+        "from": "a #7",
+        "to": "y #7"
+      },
+      {
+        "browser": "firefox",
+        "version": "100",
+        "from": "a #7",
+        "to": "y #7"
+      },
+      {
+        "browser": "firefox",
+        "version": "101",
+        "from": "a #7",
+        "to": "y #7"
+      },
+      {
+        "browser": "firefox",
+        "version": "102",
+        "from": "a #7",
+        "to": "y #7"
+      },
+      {
+        "browser": "firefox",
+        "version": "103",
+        "from": "a #7",
+        "to": "y #7"
+      },
+      {
+        "browser": "firefox",
+        "version": "104",
+        "from": "a #7",
+        "to": "y #7"
+      },
+      {
+        "browser": "firefox",
+        "version": "105",
+        "from": "a #7",
+        "to": "y #7"
+      },
+      {
+        "browser": "firefox",
+        "version": "106",
+        "from": "a #7",
+        "to": "y #7"
+      },
+      {
+        "browser": "firefox",
+        "version": "107",
+        "from": "a #7",
+        "to": "y #7"
+      },
+      {
+        "browser": "firefox",
+        "version": "108",
+        "from": "a #7",
+        "to": "y #7"
+      },
+      {
+        "browser": "firefox",
+        "version": "109",
+        "from": "a #7",
+        "to": "y #7"
+      }
+    ]
+  },
+  {
+    "id": "webgpu",
+    "title": "WebGPU",
+    "type": "support",
+    "date": "2025-06-19T18:55:25-07:00",
+    "summary": "Firefox 141 ships WebGPU on Windows (#7338)",
+    "usage": {
+      "fully_supported": 81.26,
+      "partially_supported": 3
+    },
+    "commit": {
+      "sha": "1d7ba925cde013103e28f530ba9d2ce88a68b749",
+      "url": "https://github.com/Fyrd/caniuse/commit/1d7ba925cde013103e28f530ba9d2ce88a68b749"
+    },
+    "improved_count": 2,
+    "changes": [
+      {
+        "browser": "firefox",
+        "version": "141",
+        "from": "n d #1",
+        "to": "a d #1 #6"
+      },
+      {
+        "browser": "firefox",
+        "version": "142",
+        "from": "n d #1",
+        "to": "a d #1 #6"
+      }
+    ]
+  },
+  {
+    "id": "trusted-types",
+    "title": "Trusted Types for DOM manipulation",
+    "type": "support",
+    "date": "2025-06-12T21:24:51-07:00",
+    "summary": "Safari 26: SVG favicons, WebGPU, Anchor Positioning, Trusted Types & WebCodecs (#7332)",
+    "usage": {
+      "fully_supported": 88.22,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "70efdadc29e483a4c156e52d43a5e462f6a76598",
+      "url": "https://github.com/Fyrd/caniuse/commit/70efdadc29e483a4c156e52d43a5e462f6a76598"
+    },
+    "improved_count": 2,
+    "changes": [
+      {
+        "browser": "safari",
+        "version": "26.0",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "26.0",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "webcodecs",
+    "title": "WebCodecs API",
+    "type": "support",
+    "date": "2025-06-12T21:24:51-07:00",
+    "summary": "Safari 26: SVG favicons, WebGPU, Anchor Positioning, Trusted Types & WebCodecs (#7332)",
+    "usage": {
+      "fully_supported": 89.84,
+      "partially_supported": 5.67
+    },
+    "commit": {
+      "sha": "70efdadc29e483a4c156e52d43a5e462f6a76598",
+      "url": "https://github.com/Fyrd/caniuse/commit/70efdadc29e483a4c156e52d43a5e462f6a76598"
+    },
+    "improved_count": 2,
+    "changes": [
+      {
+        "browser": "safari",
+        "version": "26.0",
+        "from": "a #1",
+        "to": "y"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "26.0",
+        "from": "a #1",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "cookie-store-api",
+    "title": "Cookie Store API",
+    "type": "support",
+    "date": "2025-04-19T10:07:38-07:00",
+    "summary": "Update cookie-store-api.json (#7309)",
+    "usage": {
+      "fully_supported": 93.88,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "3ea601059c103bd3a71e24498123c5e17f3cb3e1",
+      "url": "https://github.com/Fyrd/caniuse/commit/3ea601059c103bd3a71e24498123c5e17f3cb3e1"
+    },
+    "improved_count": 2,
+    "changes": [
+      {
+        "browser": "firefox",
+        "version": "139",
+        "from": "n d #2",
+        "to": "y"
+      },
+      {
+        "browser": "firefox",
+        "version": "140",
+        "from": "n d #2",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "css-nesting",
+    "title": "CSS Nesting",
+    "type": "support",
+    "date": "2025-04-15T22:41:36-07:00",
+    "summary": "Samsung Internet fully supports CSS nesting (#7306)",
+    "usage": {
+      "fully_supported": 88.83,
+      "partially_supported": 3
+    },
+    "commit": {
+      "sha": "e1d1a74ce28b535f97276e4f632397119563460c",
+      "url": "https://github.com/Fyrd/caniuse/commit/e1d1a74ce28b535f97276e4f632397119563460c"
+    },
+    "improved_count": 3,
+    "changes": [
+      {
+        "browser": "samsung",
+        "version": "25",
+        "from": "a #3",
+        "to": "y"
+      },
+      {
+        "browser": "samsung",
+        "version": "26",
+        "from": "a #3",
+        "to": "y"
+      },
+      {
+        "browser": "samsung",
+        "version": "27",
+        "from": "a #3",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "opus",
+    "title": "Opus audio format",
+    "type": "support",
+    "date": "2025-03-12T22:33:03-07:00",
+    "summary": "More Safari 18.4: Opus & Cookie Store API (#7282)",
+    "usage": {
+      "fully_supported": 92.31,
+      "partially_supported": 4.89
+    },
+    "commit": {
+      "sha": "41dd45ee58ed2ff37a2bae5342ccf893ba01483d",
+      "url": "https://github.com/Fyrd/caniuse/commit/41dd45ee58ed2ff37a2bae5342ccf893ba01483d"
+    },
+    "improved_count": 3,
+    "changes": [
+      {
+        "browser": "safari",
+        "version": "18.4",
+        "from": "a #3",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "TP",
+        "from": "a #3",
+        "to": "y"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "18.4",
+        "from": "a #3",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "ogg-vorbis",
+    "title": "Ogg Vorbis audio format",
+    "type": "support",
+    "date": "2025-03-12T22:30:54-07:00",
+    "summary": "Safari 18.4 supports Ogg Vorbis (#7281)",
+    "usage": {
+      "fully_supported": 94.3,
+      "partially_supported": 1.66
+    },
+    "commit": {
+      "sha": "92e918d5884cb70c28ca3a98e3d9f25322ce8ef9",
+      "url": "https://github.com/Fyrd/caniuse/commit/92e918d5884cb70c28ca3a98e3d9f25322ce8ef9"
+    },
+    "improved_count": 3,
+    "changes": [
+      {
+        "browser": "safari",
+        "version": "18.4",
+        "from": "a #2",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "TP",
+        "from": "a #2",
+        "to": "y"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "18.4",
+        "from": "a #2",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "hevc",
+    "title": "HEVC/H.265 video format",
+    "type": "support",
+    "date": "2025-03-09T11:27:18-07:00",
+    "summary": "Update hevc.json (#7276)",
+    "usage": {
+      "fully_supported": 18.34,
+      "partially_supported": 76.18
+    },
+    "commit": {
+      "sha": "05451ef6c499c8013bf6148546585fc73f3b2be6",
+      "url": "https://github.com/Fyrd/caniuse/commit/05451ef6c499c8013bf6148546585fc73f3b2be6"
+    },
+    "improved_count": 2,
+    "changes": [
+      {
+        "browser": "firefox",
+        "version": "137",
+        "from": "n d #7",
+        "to": "a #8"
+      },
+      {
+        "browser": "firefox",
+        "version": "138",
+        "from": "n d #7",
+        "to": "a #8"
+      }
+    ]
+  },
+  {
+    "id": "css-text-box-trim",
+    "title": "CSS Text Box",
+    "type": "support",
+    "date": "2025-02-25T21:49:40-08:00",
+    "summary": "Update css-text-box-trim.json (#7265)",
+    "usage": {
+      "fully_supported": 81.18,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "fe5af935f346ef4337fda2811cfbae4d85a2a602",
+      "url": "https://github.com/Fyrd/caniuse/commit/fe5af935f346ef4337fda2811cfbae4d85a2a602"
+    },
+    "improved_count": 1,
+    "changes": [
+      {
+        "browser": "edge",
+        "version": "132",
+        "from": "n d #2",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "push-api",
+    "title": "Push API",
+    "type": "support",
+    "date": "2025-02-25T21:48:49-08:00",
+    "summary": "Correct errors in Push API (#7262)",
+    "usage": {
+      "fully_supported": 82.83,
+      "partially_supported": 13.32
+    },
+    "commit": {
+      "sha": "dc90ffa8b933da4cef761971fcf10cc0e4a65f18",
+      "url": "https://github.com/Fyrd/caniuse/commit/dc90ffa8b933da4cef761971fcf10cc0e4a65f18"
+    },
+    "improved_count": 6,
+    "changes": [
+      {
+        "browser": "safari",
+        "version": "18.0",
+        "from": "a #3 #5",
+        "to": "y #3 #6"
+      },
+      {
+        "browser": "safari",
+        "version": "18.1",
+        "from": "a #3 #5",
+        "to": "y #3 #6"
+      },
+      {
+        "browser": "safari",
+        "version": "18.2",
+        "from": "a #3 #5",
+        "to": "y #3 #6"
+      },
+      {
+        "browser": "safari",
+        "version": "18.3",
+        "from": "a #3 #5",
+        "to": "y #3 #6"
+      },
+      {
+        "browser": "safari",
+        "version": "18.4",
+        "from": "a #3 #5",
+        "to": "y #3 #6"
+      },
+      {
+        "browser": "safari",
+        "version": "TP",
+        "from": "a #3 #5",
+        "to": "y #3 #6"
+      }
+    ]
+  },
+  {
+    "id": "input-inputmode",
+    "title": "inputmode attribute",
+    "type": "support",
+    "date": "2025-02-06T21:23:01-08:00",
+    "summary": "Update `inputmode` support on desktop Safari (#7256)",
+    "usage": {
+      "fully_supported": 97.05,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "a7746ced1caea9e88d6b5385f48916c619654afb",
+      "url": "https://github.com/Fyrd/caniuse/commit/a7746ced1caea9e88d6b5385f48916c619654afb"
+    },
+    "improved_count": 31,
+    "changes": [
+      {
+        "browser": "safari",
+        "version": "13",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "14",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "15",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "12.1",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "13.1",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "14.1",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "15.1",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "15.2-15.3",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "15.4",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "15.5",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "15.6",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "16.0",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "css3-attr",
+    "title": "CSS3 attr() function for all properties",
+    "type": "support",
+    "date": "2025-01-08T20:24:53-08:00",
+    "summary": "Update css3-attr.json (#7234)",
+    "usage": {
+      "fully_supported": 66.66,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "71d63e58647d6b44add0029188b0df33fb576ca9",
+      "url": "https://github.com/Fyrd/caniuse/commit/71d63e58647d6b44add0029188b0df33fb576ca9"
+    },
+    "improved_count": 2,
+    "changes": [
+      {
+        "browser": "chrome",
+        "version": "133",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "chrome",
+        "version": "134",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "css-text-wrap-balance",
+    "title": "CSS text-wrap: balance",
+    "type": "support",
+    "date": "2024-12-18T19:34:39-08:00",
+    "summary": "Update css-text-wrap-balance.json (#7225)",
+    "usage": {
+      "fully_supported": 84.96,
+      "partially_supported": 4.7
+    },
+    "commit": {
+      "sha": "812b6fa7ca84f1bd88bf0766980b7e483bdf3fee",
+      "url": "https://github.com/Fyrd/caniuse/commit/812b6fa7ca84f1bd88bf0766980b7e483bdf3fee"
+    },
+    "improved_count": 9,
+    "changes": [
+      {
+        "browser": "edge",
+        "version": "130",
+        "from": "a #1",
+        "to": "y"
+      },
+      {
+        "browser": "edge",
+        "version": "131",
+        "from": "a #1",
+        "to": "y"
+      },
+      {
+        "browser": "chrome",
+        "version": "130",
+        "from": "a #1",
+        "to": "y"
+      },
+      {
+        "browser": "chrome",
+        "version": "131",
+        "from": "a #1",
+        "to": "y"
+      },
+      {
+        "browser": "chrome",
+        "version": "132",
+        "from": "a #1",
+        "to": "y"
+      },
+      {
+        "browser": "chrome",
+        "version": "133",
+        "from": "a #1",
+        "to": "y"
+      },
+      {
+        "browser": "chrome",
+        "version": "134",
+        "from": "a #1",
+        "to": "y"
+      },
+      {
+        "browser": "android",
+        "version": "131",
+        "from": "a #1",
+        "to": "y"
+      },
+      {
+        "browser": "and_chr",
+        "version": "131",
+        "from": "a #1",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "css-paged-media",
+    "title": "CSS Paged Media (@page)",
+    "type": "support",
+    "date": "2024-12-02T20:12:04-08:00",
+    "summary": "Safari 18.2 supports CSS Paged Media (#7217)",
+    "usage": {
+      "fully_supported": 94.42,
+      "partially_supported": 0.31
+    },
+    "commit": {
+      "sha": "31e00eda9b48c9797f7514240ee06980eec67ef0",
+      "url": "https://github.com/Fyrd/caniuse/commit/31e00eda9b48c9797f7514240ee06980eec67ef0"
+    },
+    "improved_count": 3,
+    "changes": [
+      {
+        "browser": "safari",
+        "version": "18.2",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "TP",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "18.2",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "auxclick",
+    "title": "Auxclick",
+    "type": "support",
+    "date": "2024-11-23T22:46:06-08:00",
+    "summary": "Safari 18.2 supports auxclick.json (#7213)",
+    "usage": {
+      "fully_supported": 94.56,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "5a794e6f32b7e7178aba313c6992d83cdf1306bc",
+      "url": "https://github.com/Fyrd/caniuse/commit/5a794e6f32b7e7178aba313c6992d83cdf1306bc"
+    },
+    "improved_count": 3,
+    "changes": [
+      {
+        "browser": "safari",
+        "version": "18.2",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "TP",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "18.2",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "input-datetime",
+    "title": "Date and time input types",
+    "type": "support",
+    "date": "2024-11-20T19:27:13-08:00",
+    "summary": "input type=week in Safari 18.2 (#7211)",
+    "usage": {
+      "fully_supported": 90.38,
+      "partially_supported": 6.8
+    },
+    "commit": {
+      "sha": "328b75690331a65e8f5957df7a7800c6e973c539",
+      "url": "https://github.com/Fyrd/caniuse/commit/328b75690331a65e8f5957df7a7800c6e973c539"
+    },
+    "improved_count": 1,
+    "changes": [
+      {
+        "browser": "ios_saf",
+        "version": "18.2",
+        "from": "a #2",
+        "to": "y #7"
+      }
+    ]
+  },
+  {
+    "id": "background-clip-text",
+    "title": "Background-clip: text",
+    "type": "support",
+    "date": "2024-11-07T22:03:42-08:00",
+    "summary": "Mark `background-clip: text` as fully supported + correct history of Safari support  (#7204)",
+    "usage": {
+      "fully_supported": 96.86,
+      "partially_supported": 0.36
+    },
+    "commit": {
+      "sha": "52535f51c6a8bf8d812d288d69d43eec95a1c700",
+      "url": "https://github.com/Fyrd/caniuse/commit/52535f51c6a8bf8d812d288d69d43eec95a1c700"
+    },
+    "improved_count": 356,
+    "changes": [
+      {
+        "browser": "edge",
+        "version": "79",
+        "from": "a x #1",
+        "to": "y x #1"
+      },
+      {
+        "browser": "edge",
+        "version": "80",
+        "from": "a x #1",
+        "to": "y x #1"
+      },
+      {
+        "browser": "edge",
+        "version": "81",
+        "from": "a x #1",
+        "to": "y x #1"
+      },
+      {
+        "browser": "edge",
+        "version": "83",
+        "from": "a x #1",
+        "to": "y x #1"
+      },
+      {
+        "browser": "edge",
+        "version": "84",
+        "from": "a x #1",
+        "to": "y x #1"
+      },
+      {
+        "browser": "edge",
+        "version": "85",
+        "from": "a x #1",
+        "to": "y x #1"
+      },
+      {
+        "browser": "edge",
+        "version": "86",
+        "from": "a x #1",
+        "to": "y x #1"
+      },
+      {
+        "browser": "edge",
+        "version": "87",
+        "from": "a x #1",
+        "to": "y x #1"
+      },
+      {
+        "browser": "edge",
+        "version": "88",
+        "from": "a x #1",
+        "to": "y x #1"
+      },
+      {
+        "browser": "edge",
+        "version": "89",
+        "from": "a x #1",
+        "to": "y x #1"
+      },
+      {
+        "browser": "edge",
+        "version": "90",
+        "from": "a x #1",
+        "to": "y x #1"
+      },
+      {
+        "browser": "edge",
+        "version": "91",
+        "from": "a x #1",
+        "to": "y x #1"
+      }
+    ]
+  }
+]

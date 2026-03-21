@@ -1,0 +1,22 @@
+{
+  "name": "can-i-use-api",
+  "version": "1.0.0",
+  "description": "Generate static JSON APIs from the caniuse repository",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node index.js",
+    "build": "pnpm generate"
+  },
+  "keywords": [
+    "caniuse",
+    "api",
+    "json",
+    "browser-support"
+  ],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.32.1",
+  "dependencies": {
+    "rlog-js": "^1.6.1"
+  }
+}

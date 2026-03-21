@@ -1,0 +1,7985 @@
+[
+  {
+    "id": "aac",
+    "title": "AAC audio file format",
+    "keywords": [
+      "aac",
+      "audio",
+      "audio/aac",
+      "file",
+      "format",
+      "other"
+    ]
+  },
+  {
+    "id": "abortcontroller",
+    "title": "AbortController & AbortSignal",
+    "keywords": [
+      "abort",
+      "abort api",
+      "abortcontroller",
+      "abortsignal",
+      "api",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "accelerometer",
+    "title": "Accelerometer",
+    "keywords": [
+      "accelerometer",
+      "api",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "addeventlistener",
+    "title": "EventTarget.addEventListener()",
+    "keywords": [
+      "add",
+      "addeventlistener",
+      "capture",
+      "capturing",
+      "dom",
+      "event",
+      "eventtarget",
+      "listener",
+      "phase",
+      "remove",
+      "target"
+    ]
+  },
+  {
+    "id": "ambient-light",
+    "title": "Ambient Light Sensor",
+    "keywords": [
+      "ambient",
+      "api",
+      "js",
+      "js api",
+      "light",
+      "sensor"
+    ]
+  },
+  {
+    "id": "apng",
+    "title": "Animated PNG (APNG)",
+    "keywords": [
+      "animated",
+      "apng",
+      "png"
+    ]
+  },
+  {
+    "id": "array-find",
+    "title": "Array.prototype.find",
+    "keywords": [
+      "array",
+      "array.find",
+      "find",
+      "js",
+      "prototype"
+    ]
+  },
+  {
+    "id": "array-find-index",
+    "title": "Array.prototype.findIndex",
+    "keywords": [
+      "array",
+      "array.findindex",
+      "find",
+      "findindex",
+      "index",
+      "js",
+      "prototype"
+    ]
+  },
+  {
+    "id": "array-flat",
+    "title": "flat & flatMap array methods",
+    "keywords": [
+      "array",
+      "array.prototype.flat",
+      "array.prototype.flatmap",
+      "flat",
+      "flatmap",
+      "js",
+      "methods",
+      "prototype"
+    ]
+  },
+  {
+    "id": "array-includes",
+    "title": "Array.prototype.includes",
+    "keywords": [
+      "array",
+      "array.includes",
+      "includes",
+      "js",
+      "prototype"
+    ]
+  },
+  {
+    "id": "arrow-functions",
+    "title": "Arrow functions",
+    "keywords": [
+      "()=>",
+      "arrow",
+      "es6",
+      "fat",
+      "function",
+      "functions",
+      "javascript",
+      "js",
+      "lexical",
+      "this"
+    ]
+  },
+  {
+    "id": "asmjs",
+    "title": "asm.js",
+    "keywords": [
+      "api",
+      "asm",
+      "asm.js",
+      "asmjs",
+      "js",
+      "js api",
+      "other",
+      "webassembly"
+    ]
+  },
+  {
+    "id": "async-clipboard",
+    "title": "Asynchronous Clipboard API",
+    "keywords": [
+      "api",
+      "async",
+      "asynchronous",
+      "clipboard",
+      "clipboarddata",
+      "clipboardevent",
+      "copy",
+      "cut",
+      "js",
+      "js api",
+      "paste"
+    ]
+  },
+  {
+    "id": "async-functions",
+    "title": "Async functions",
+    "keywords": [
+      "async",
+      "asynchronous",
+      "await",
+      "es2017",
+      "function",
+      "functions",
+      "javascript",
+      "js",
+      "promises"
+    ]
+  },
+  {
+    "id": "atob-btoa",
+    "title": "Base64 encoding and decoding",
+    "keywords": [
+      "and",
+      "api",
+      "atob",
+      "base64",
+      "btoa",
+      "decoding",
+      "encoding",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "audio",
+    "title": "Audio element",
+    "keywords": [
+      "<audio>",
+      "audio",
+      "element",
+      "html5"
+    ]
+  },
+  {
+    "id": "audio-api",
+    "title": "Web Audio API",
+    "keywords": [
+      "api",
+      "audio",
+      "audiobuffer",
+      "audiocontext",
+      "audionode",
+      "js",
+      "js api",
+      "web",
+      "web-audio",
+      "webaudio"
+    ]
+  },
+  {
+    "id": "audiotracks",
+    "title": "Audio Tracks",
+    "keywords": [
+      "audio",
+      "audiotrack",
+      "audiotracklist",
+      "audiotracks",
+      "html5",
+      "media",
+      "multiple",
+      "selection",
+      "tracks"
+    ]
+  },
+  {
+    "id": "autofocus",
+    "title": "Autofocus attribute",
+    "keywords": [
+      "attribute",
+      "autofocus",
+      "html5"
+    ]
+  },
+  {
+    "id": "auxclick",
+    "title": "Auxclick",
+    "keywords": [
+      "api",
+      "auxclick",
+      "button",
+      "click",
+      "dom",
+      "js",
+      "js api",
+      "middle",
+      "middle click",
+      "non",
+      "non-primary button",
+      "primary"
+    ]
+  },
+  {
+    "id": "av1",
+    "title": "AV1 video format",
+    "keywords": [
+      "av1",
+      "format",
+      "other",
+      "video"
+    ]
+  },
+  {
+    "id": "avif",
+    "title": "AVIF image format",
+    "keywords": [
+      "avif",
+      "format",
+      "image",
+      "other"
+    ]
+  },
+  {
+    "id": "background-attachment",
+    "title": "CSS background-attachment",
+    "keywords": [
+      "attachment",
+      "background",
+      "css"
+    ]
+  },
+  {
+    "id": "background-clip-text",
+    "title": "Background-clip: text",
+    "keywords": [
+      "background",
+      "background-clip",
+      "clip",
+      "css",
+      "text"
+    ]
+  },
+  {
+    "id": "background-img-opts",
+    "title": "CSS3 Background-image options",
+    "keywords": [
+      "background",
+      "css3",
+      "image",
+      "img",
+      "options",
+      "opts"
+    ]
+  },
+  {
+    "id": "background-position-x-y",
+    "title": "background-position-x & background-position-y",
+    "keywords": [
+      "background",
+      "css",
+      "position",
+      "x",
+      "y"
+    ]
+  },
+  {
+    "id": "background-repeat-round-space",
+    "title": "CSS background-repeat round and space",
+    "keywords": [
+      "4",
+      "4 value syntax",
+      "and",
+      "background",
+      "background-repeat: round",
+      "background-repeat: space",
+      "css",
+      "css3",
+      "repeat",
+      "round",
+      "space",
+      "syntax",
+      "value"
+    ]
+  },
+  {
+    "id": "background-sync",
+    "title": "Background Sync API",
+    "keywords": [
+      "api",
+      "background",
+      "js",
+      "js api",
+      "sync",
+      "syncmanager"
+    ]
+  },
+  {
+    "id": "battery-status",
+    "title": "Battery Status API",
+    "keywords": [
+      "api",
+      "battery",
+      "batterymanager",
+      "getbattery",
+      "js",
+      "js api",
+      "navigator",
+      "navigator.battery",
+      "navigator.getbattery",
+      "status"
+    ]
+  },
+  {
+    "id": "beacon",
+    "title": "Beacon API",
+    "keywords": [
+      "api",
+      "beacon",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "beforeafterprint",
+    "title": "Printing Events",
+    "keywords": [
+      "afterprint",
+      "api",
+      "beforeafterprint",
+      "beforeprint",
+      "events",
+      "html5",
+      "js",
+      "js api",
+      "print",
+      "printer",
+      "printing"
+    ]
+  },
+  {
+    "id": "bigint",
+    "title": "BigInt",
+    "keywords": [
+      "bigint",
+      "int",
+      "integer",
+      "js",
+      "precision"
+    ]
+  },
+  {
+    "id": "blobbuilder",
+    "title": "Blob constructing",
+    "keywords": [
+      "api",
+      "blob",
+      "blobbuilder",
+      "constructing",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "bloburls",
+    "title": "Blob URLs",
+    "keywords": [
+      "api",
+      "blob",
+      "bloburls",
+      "createobjecturl",
+      "js",
+      "js api",
+      "revokeobjecturl",
+      "urls"
+    ]
+  },
+  {
+    "id": "border-image",
+    "title": "CSS3 Border images",
+    "keywords": [
+      "border",
+      "border-image-outset",
+      "border-image-repeat",
+      "border-image-slice",
+      "border-image-source",
+      "border-image-width",
+      "css3",
+      "image",
+      "images",
+      "outset",
+      "repeat",
+      "slice",
+      "source",
+      "width"
+    ]
+  },
+  {
+    "id": "border-radius",
+    "title": "CSS3 Border-radius (rounded corners)",
+    "keywords": [
+      "-moz-border-radius",
+      "border",
+      "border radius",
+      "corners",
+      "css3",
+      "moz",
+      "radius",
+      "rounded",
+      "roundedcorners"
+    ]
+  },
+  {
+    "id": "broadcastchannel",
+    "title": "BroadcastChannel",
+    "keywords": [
+      "api",
+      "broadcast",
+      "broadcastchannel",
+      "channel",
+      "js",
+      "js api",
+      "messaging"
+    ]
+  },
+  {
+    "id": "brotli",
+    "title": "Brotli Accept-Encoding/Content-Encoding",
+    "keywords": [
+      "accept",
+      "brotli",
+      "compression",
+      "content",
+      "encoding",
+      "http",
+      "other"
+    ]
+  },
+  {
+    "id": "calc",
+    "title": "calc() as CSS unit value",
+    "keywords": [
+      "as",
+      "calc",
+      "css",
+      "css3",
+      "unit",
+      "value"
+    ]
+  },
+  {
+    "id": "canvas",
+    "title": "Canvas (basic support)",
+    "keywords": [
+      "basic",
+      "canvas",
+      "html5",
+      "support",
+      "todataurl",
+      "todataurl()"
+    ]
+  },
+  {
+    "id": "canvas-blending",
+    "title": "Canvas blend modes",
+    "keywords": [
+      "blend",
+      "blending",
+      "canvas",
+      "modes"
+    ]
+  },
+  {
+    "id": "canvas-text",
+    "title": "Text API for Canvas",
+    "keywords": [
+      "api",
+      "canvas",
+      "for",
+      "html5",
+      "text"
+    ]
+  },
+  {
+    "id": "ch-unit",
+    "title": "ch (character) unit",
+    "keywords": [
+      "ch",
+      "ch unit",
+      "character",
+      "character unit",
+      "css3",
+      "unit"
+    ]
+  },
+  {
+    "id": "chacha20-poly1305",
+    "title": "ChaCha20-Poly1305 cipher suites for TLS",
+    "keywords": [
+      "chacha20",
+      "cipher",
+      "for",
+      "poly1305",
+      "security",
+      "suites",
+      "tls"
+    ]
+  },
+  {
+    "id": "channel-messaging",
+    "title": "Channel messaging",
+    "keywords": [
+      "api",
+      "channel",
+      "js",
+      "js api",
+      "messaging"
+    ]
+  },
+  {
+    "id": "childnode-remove",
+    "title": "ChildNode.remove()",
+    "keywords": [
+      "childnode",
+      "delete",
+      "dom",
+      "node",
+      "remove"
+    ]
+  },
+  {
+    "id": "classlist",
+    "title": "classList (DOMTokenList)",
+    "keywords": [
+      "add",
+      "classlist",
+      "classlist.add()",
+      "classlist.contains()",
+      "classlist.remove()",
+      "classlist.toggle()",
+      "contains",
+      "dom",
+      "domtokenlist",
+      "html5",
+      "remove",
+      "toggle"
+    ]
+  },
+  {
+    "id": "client-hints-dpr-width-viewport",
+    "title": "Client Hints: DPR, Width, Viewport-Width",
+    "keywords": [
+      "client",
+      "client hints",
+      "client-hints",
+      "content",
+      "content-dpr",
+      "dom",
+      "dpr",
+      "hints",
+      "viewport",
+      "width"
+    ]
+  },
+  {
+    "id": "clipboard",
+    "title": "Synchronous Clipboard API",
+    "keywords": [
+      "api",
+      "clipboard",
+      "clipboarddata",
+      "clipboardevent",
+      "copy",
+      "cut",
+      "js",
+      "js api",
+      "paste",
+      "synchronous"
+    ]
+  },
+  {
+    "id": "colr",
+    "title": "COLR/CPAL(v0) Font Formats",
+    "keywords": [
+      "color",
+      "color-font",
+      "colr",
+      "cpal",
+      "font",
+      "fontface",
+      "formats",
+      "other",
+      "v0",
+      "webfonts"
+    ]
+  },
+  {
+    "id": "colr-v1",
+    "title": "COLR/CPAL(v1) Font Formats",
+    "keywords": [
+      "color",
+      "color-font",
+      "colr",
+      "colrv1",
+      "cpal",
+      "font",
+      "fontface",
+      "formats",
+      "other",
+      "v1",
+      "webfonts"
+    ]
+  },
+  {
+    "id": "comparedocumentposition",
+    "title": "Node.compareDocumentPosition()",
+    "keywords": [
+      "after",
+      "before",
+      "compare",
+      "comparedocumentposition",
+      "contained",
+      "contains",
+      "disconnected",
+      "document",
+      "dom",
+      "following",
+      "node",
+      "position",
+      "preceding"
+    ]
+  },
+  {
+    "id": "console-basic",
+    "title": "Basic console logging functions",
+    "keywords": [
+      "api",
+      "basic",
+      "console",
+      "console.error",
+      "console.info",
+      "console.log",
+      "console.warn",
+      "error",
+      "functions",
+      "info",
+      "js",
+      "js api",
+      "log",
+      "logging",
+      "warn",
+      "window",
+      "window.console"
+    ]
+  },
+  {
+    "id": "console-time",
+    "title": "console.time and console.timeEnd",
+    "keywords": [
+      "and",
+      "api",
+      "console",
+      "console.time",
+      "console.timeend",
+      "js",
+      "js api",
+      "time",
+      "timeend",
+      "window",
+      "window.console"
+    ]
+  },
+  {
+    "id": "const",
+    "title": "const",
+    "keywords": [
+      "block",
+      "const",
+      "constant",
+      "es6",
+      "js",
+      "scope"
+    ]
+  },
+  {
+    "id": "constraint-validation",
+    "title": "Constraint Validation API",
+    "keywords": [
+      "api",
+      "constraint",
+      "js",
+      "js api",
+      "validation"
+    ]
+  },
+  {
+    "id": "contenteditable",
+    "title": "contenteditable attribute (basic support)",
+    "keywords": [
+      "attribute",
+      "basic",
+      "contenteditable",
+      "html5",
+      "iscontenteditable",
+      "support"
+    ]
+  },
+  {
+    "id": "contentsecuritypolicy",
+    "title": "Content Security Policy 1.0",
+    "keywords": [
+      "0",
+      "1",
+      "content",
+      "contentsecuritypolicy",
+      "csp",
+      "header",
+      "policy",
+      "security"
+    ]
+  },
+  {
+    "id": "contentsecuritypolicy2",
+    "title": "Content Security Policy Level 2",
+    "keywords": [
+      "2",
+      "content",
+      "contentsecuritypolicy2",
+      "csp",
+      "hash",
+      "header",
+      "level",
+      "nonce",
+      "policy",
+      "security"
+    ]
+  },
+  {
+    "id": "cookie-store-api",
+    "title": "Cookie Store API",
+    "keywords": [
+      "api",
+      "cookie",
+      "cookiestore",
+      "document",
+      "document.cookie",
+      "js",
+      "js api",
+      "store",
+      "window",
+      "window.cookiestore"
+    ]
+  },
+  {
+    "id": "cors",
+    "title": "Cross-Origin Resource Sharing",
+    "keywords": [
+      "api",
+      "cors",
+      "cross",
+      "js",
+      "js api",
+      "origin",
+      "resource",
+      "security",
+      "sharing"
+    ]
+  },
+  {
+    "id": "createimagebitmap",
+    "title": "createImageBitmap",
+    "keywords": [
+      "api",
+      "createimagebitmap",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "credential-management",
+    "title": "Credential Management API",
+    "keywords": [
+      "api",
+      "credential",
+      "credentials",
+      "js",
+      "js api",
+      "management",
+      "navigator",
+      "navigator.credentials",
+      "security"
+    ]
+  },
+  {
+    "id": "cross-document-view-transitions",
+    "title": "View Transitions (cross-document)",
+    "keywords": [
+      "@view-transition",
+      "api",
+      "cross",
+      "css",
+      "document",
+      "js",
+      "js api",
+      "transition",
+      "transitions",
+      "view",
+      "viewtransition"
+    ]
+  },
+  {
+    "id": "cryptography",
+    "title": "Web Cryptography",
+    "keywords": [
+      "api",
+      "cryptography",
+      "js",
+      "js api",
+      "security",
+      "subtle",
+      "subtlecrypto",
+      "web"
+    ]
+  },
+  {
+    "id": "css-all",
+    "title": "CSS all property",
+    "keywords": [
+      "all",
+      "css",
+      "property",
+      "reset",
+      "shorthand"
+    ]
+  },
+  {
+    "id": "css-anchor-positioning",
+    "title": "CSS Anchor Positioning",
+    "keywords": [
+      "anchor",
+      "anchor-default",
+      "anchor-element",
+      "anchor-name",
+      "anchor-scroll",
+      "bounds",
+      "css",
+      "default",
+      "element",
+      "fallback",
+      "name",
+      "position",
+      "position-fallback",
+      "position-fallback-bounds",
+      "positioning",
+      "scroll"
+    ]
+  },
+  {
+    "id": "css-animation",
+    "title": "CSS Animation",
+    "keywords": [
+      "@keyframes",
+      "animation",
+      "animation-delay",
+      "animation-duration",
+      "animation-iteration-count",
+      "animation-name",
+      "animation-timing-function",
+      "animationend",
+      "animationiteration",
+      "animations",
+      "animationstart",
+      "bezier",
+      "count",
+      "css",
+      "css-animations",
+      "css3",
+      "css3 animation",
+      "cubic",
+      "cubic-bezier",
+      "delay",
+      "duration",
+      "end",
+      "function",
+      "iteration",
+      "keyframes",
+      "name",
+      "start",
+      "step",
+      "step-end",
+      "step-start",
+      "steps",
+      "timing"
+    ]
+  },
+  {
+    "id": "css-any-link",
+    "title": "CSS :any-link selector",
+    "keywords": [
+      "any",
+      "any-link",
+      "css",
+      "css4",
+      "link",
+      "selector",
+      "visited"
+    ]
+  },
+  {
+    "id": "css-appearance",
+    "title": "CSS Appearance",
+    "keywords": [
+      "appearance",
+      "css"
+    ]
+  },
+  {
+    "id": "css-at-counter-style",
+    "title": "CSS Counter Styles",
+    "keywords": [
+      "at",
+      "counter",
+      "css",
+      "css @counter-style",
+      "css3",
+      "list",
+      "list-style",
+      "style",
+      "styles"
+    ]
+  },
+  {
+    "id": "css-backdrop-filter",
+    "title": "CSS Backdrop Filter",
+    "keywords": [
+      "backdrop",
+      "blue",
+      "css",
+      "css3",
+      "filter",
+      "hue",
+      "hue-rotate",
+      "invert",
+      "rotate",
+      "saturate"
+    ]
+  },
+  {
+    "id": "css-background-offsets",
+    "title": "CSS background-position edge offsets",
+    "keywords": [
+      "4",
+      "4 value syntax",
+      "background",
+      "css",
+      "css3",
+      "edge",
+      "offsets",
+      "position",
+      "syntax",
+      "value"
+    ]
+  },
+  {
+    "id": "css-backgroundblendmode",
+    "title": "CSS background-blend-mode",
+    "keywords": [
+      "background",
+      "backgroundblendmode",
+      "blend",
+      "blending",
+      "css",
+      "css blend modes",
+      "css blending modes",
+      "mode",
+      "modes",
+      "multiply",
+      "screen"
+    ]
+  },
+  {
+    "id": "css-boxdecorationbreak",
+    "title": "CSS box-decoration-break",
+    "keywords": [
+      "box",
+      "box decoration",
+      "box-decoration",
+      "boxdecorationbreak",
+      "break",
+      "css",
+      "css3",
+      "decoration"
+    ]
+  },
+  {
+    "id": "css-boxshadow",
+    "title": "CSS3 Box-shadow",
+    "keywords": [
+      "box",
+      "box shadow",
+      "box-shadows",
+      "boxshadow",
+      "boxshadows",
+      "css",
+      "css3",
+      "shadow",
+      "shadows",
+      "shaow"
+    ]
+  },
+  {
+    "id": "css-canvas",
+    "title": "CSS Canvas Drawings",
+    "keywords": [
+      "canvas",
+      "css",
+      "drawings"
+    ]
+  },
+  {
+    "id": "css-caret-color",
+    "title": "CSS caret-color",
+    "keywords": [
+      "caret",
+      "color",
+      "css"
+    ]
+  },
+  {
+    "id": "css-cascade-layers",
+    "title": "CSS Cascade Layers",
+    "keywords": [
+      "cascade",
+      "css",
+      "layers"
+    ]
+  },
+  {
+    "id": "css-cascade-scope",
+    "title": "Scoped Styles: the @scope rule",
+    "keywords": [
+      "cascade",
+      "css",
+      "rule",
+      "scope",
+      "scoped",
+      "styles",
+      "stylescoped",
+      "the"
+    ]
+  },
+  {
+    "id": "css-case-insensitive",
+    "title": "Case-insensitive CSS attribute selectors",
+    "keywords": [
+      "attribute",
+      "case",
+      "css",
+      "i",
+      "insensitive",
+      "insensitivity",
+      "selectors",
+      "sensitive",
+      "sensitivity"
+    ]
+  },
+  {
+    "id": "css-clip-path",
+    "title": "CSS clip-path property (for HTML)",
+    "keywords": [
+      "clip",
+      "clippath",
+      "css",
+      "css3",
+      "for",
+      "html",
+      "path",
+      "property"
+    ]
+  },
+  {
+    "id": "css-color-adjust",
+    "title": "CSS print-color-adjust",
+    "keywords": [
+      "adjust",
+      "color",
+      "color adjust",
+      "color-adjust",
+      "coloradjust",
+      "css",
+      "print",
+      "print color adjust",
+      "print-color-adjust",
+      "printcoloradjust"
+    ]
+  },
+  {
+    "id": "css-color-function",
+    "title": "CSS color() function",
+    "keywords": [
+      "@color-profile",
+      "2020",
+      "a98",
+      "a98-rgb",
+      "color",
+      "color space",
+      "color()",
+      "colors",
+      "css",
+      "dependent",
+      "device",
+      "device-dependent colors",
+      "display",
+      "display-p3",
+      "function",
+      "p3",
+      "profile",
+      "profiled",
+      "profiled colors",
+      "prophoto",
+      "prophoto-rgb",
+      "rec",
+      "rec-2020",
+      "rgb",
+      "space"
+    ]
+  },
+  {
+    "id": "css-conic-gradients",
+    "title": "CSS Conical Gradients",
+    "keywords": [
+      "conic",
+      "conical",
+      "conical-gradient",
+      "css",
+      "gradient",
+      "gradients",
+      "repeating",
+      "repeating-conical-gradient"
+    ]
+  },
+  {
+    "id": "css-container-queries",
+    "title": "CSS Container Queries (Size)",
+    "keywords": [
+      "@container",
+      "container",
+      "container query",
+      "container-name",
+      "container-type",
+      "css",
+      "name",
+      "queries",
+      "query",
+      "size",
+      "type"
+    ]
+  },
+  {
+    "id": "css-container-queries-style",
+    "title": "CSS Container Style Queries",
+    "keywords": [
+      "container",
+      "container queries",
+      "container query",
+      "css",
+      "queries",
+      "query",
+      "style",
+      "style queries",
+      "style query",
+      "style()"
+    ]
+  },
+  {
+    "id": "css-container-query-units",
+    "title": "CSS Container Query Units",
+    "keywords": [
+      "container",
+      "container query",
+      "css",
+      "query",
+      "units"
+    ]
+  },
+  {
+    "id": "css-containment",
+    "title": "CSS Containment",
+    "keywords": [
+      "containment",
+      "css"
+    ]
+  },
+  {
+    "id": "css-content-visibility",
+    "title": "CSS content-visibility",
+    "keywords": [
+      "content",
+      "css",
+      "visibility"
+    ]
+  },
+  {
+    "id": "css-counters",
+    "title": "CSS Counters",
+    "keywords": [
+      "counters",
+      "css",
+      "css2"
+    ]
+  },
+  {
+    "id": "css-crisp-edges",
+    "title": "Crisp edges/pixelated images",
+    "keywords": [
+      "crisp",
+      "crisp-edges",
+      "css",
+      "css3",
+      "edges",
+      "image",
+      "image-rendering",
+      "images",
+      "pixelated",
+      "rendering"
+    ]
+  },
+  {
+    "id": "css-cross-fade",
+    "title": "CSS Cross-Fade Function",
+    "keywords": [
+      "cross",
+      "crossfade",
+      "css",
+      "fade",
+      "function",
+      "image"
+    ]
+  },
+  {
+    "id": "css-default-pseudo",
+    "title": ":default CSS pseudo-class",
+    "keywords": [
+      ":default",
+      "class",
+      "css",
+      "default",
+      "pseudo"
+    ]
+  },
+  {
+    "id": "css-descendant-gtgt",
+    "title": "Explicit descendant combinator >>",
+    "keywords": [
+      "combinator",
+      "css",
+      "descendant",
+      "explicit",
+      "gtgt"
+    ]
+  },
+  {
+    "id": "css-deviceadaptation",
+    "title": "CSS Device Adaptation",
+    "keywords": [
+      "adaptation",
+      "css",
+      "device",
+      "deviceadaptation",
+      "extend",
+      "extend-to-zoom",
+      "to",
+      "viewport",
+      "zoom"
+    ]
+  },
+  {
+    "id": "css-dir-pseudo",
+    "title": ":dir() CSS pseudo-class",
+    "keywords": [
+      ":dir",
+      "class",
+      "css",
+      "dir",
+      "direction",
+      "left",
+      "ltr",
+      "pseudo",
+      "right",
+      "rtl"
+    ]
+  },
+  {
+    "id": "css-display-contents",
+    "title": "CSS display: contents",
+    "keywords": [
+      "contents",
+      "css",
+      "display"
+    ]
+  },
+  {
+    "id": "css-element-function",
+    "title": "CSS element() function",
+    "keywords": [
+      "css",
+      "css3",
+      "element",
+      "function"
+    ]
+  },
+  {
+    "id": "css-env-function",
+    "title": "CSS Environment Variables env()",
+    "keywords": [
+      "area",
+      "bottom",
+      "constant",
+      "css",
+      "css constant()",
+      "css env()",
+      "css variables",
+      "env",
+      "environment",
+      "function",
+      "inset",
+      "left",
+      "right",
+      "safe",
+      "safe-area-inset-bottom",
+      "safe-area-inset-left",
+      "safe-area-inset-right",
+      "safe-area-inset-top",
+      "top",
+      "variables"
+    ]
+  },
+  {
+    "id": "css-exclusions",
+    "title": "CSS Exclusions Level 1",
+    "keywords": [
+      "1",
+      "css",
+      "exclusions",
+      "floats",
+      "flow",
+      "level",
+      "through",
+      "wrap",
+      "wrap-flow",
+      "wrap-through"
+    ]
+  },
+  {
+    "id": "css-featurequeries",
+    "title": "CSS Feature Queries",
+    "keywords": [
+      "conditional",
+      "css",
+      "css3",
+      "feature",
+      "featurequeries",
+      "queries",
+      "supports"
+    ]
+  },
+  {
+    "id": "css-filter-function",
+    "title": "CSS filter() function",
+    "keywords": [
+      "css",
+      "css3",
+      "filter",
+      "function"
+    ]
+  },
+  {
+    "id": "css-filters",
+    "title": "CSS Filter Effects",
+    "keywords": [
+      "css",
+      "css3",
+      "effects",
+      "filter",
+      "filter:",
+      "filters"
+    ]
+  },
+  {
+    "id": "css-first-letter",
+    "title": "::first-letter CSS pseudo-element selector",
+    "keywords": [
+      "class",
+      "css",
+      "element",
+      "first",
+      "letter",
+      "pseudo",
+      "selector"
+    ]
+  },
+  {
+    "id": "css-first-line",
+    "title": "CSS first-line pseudo-element",
+    "keywords": [
+      "css",
+      "css3",
+      "element",
+      "first",
+      "line",
+      "pseudo"
+    ]
+  },
+  {
+    "id": "css-fixed",
+    "title": "CSS position:fixed",
+    "keywords": [
+      "css",
+      "fixed",
+      "position"
+    ]
+  },
+  {
+    "id": "css-focus-visible",
+    "title": ":focus-visible CSS pseudo-class",
+    "keywords": [
+      "class",
+      "css",
+      "focus",
+      "focus-ring",
+      "focus-visible",
+      "focusring",
+      "pseudo",
+      "ring",
+      "visible"
+    ]
+  },
+  {
+    "id": "css-focus-within",
+    "title": ":focus-within CSS pseudo-class",
+    "keywords": [
+      "class",
+      "css",
+      "focus",
+      "focus-within",
+      "pseudo",
+      "within"
+    ]
+  },
+  {
+    "id": "css-font-palette",
+    "title": "CSS font-palette",
+    "keywords": [
+      "color",
+      "color-font",
+      "colr",
+      "cpal",
+      "css",
+      "font",
+      "font-palette",
+      "fontface",
+      "palette",
+      "webfonts"
+    ]
+  },
+  {
+    "id": "css-font-rendering-controls",
+    "title": "CSS font-display",
+    "keywords": [
+      "block",
+      "controls",
+      "css",
+      "display",
+      "fallback",
+      "font",
+      "font-display",
+      "optional",
+      "rendering",
+      "swap"
+    ]
+  },
+  {
+    "id": "css-font-stretch",
+    "title": "CSS font-stretch",
+    "keywords": [
+      "css",
+      "font",
+      "font stretch",
+      "stretch"
+    ]
+  },
+  {
+    "id": "css-gencontent",
+    "title": "CSS Generated content for pseudo-elements",
+    "keywords": [
+      "after",
+      "before",
+      "content",
+      "css",
+      "css2",
+      "css3",
+      "elements",
+      "for",
+      "gencontent",
+      "generated",
+      "pseudo"
+    ]
+  },
+  {
+    "id": "css-gradients",
+    "title": "CSS Gradients",
+    "keywords": [
+      "css",
+      "css3",
+      "gradiant",
+      "gradient",
+      "gradients",
+      "linear",
+      "linear-gradient"
+    ]
+  },
+  {
+    "id": "css-grid",
+    "title": "CSS Grid Layout (level 1)",
+    "keywords": [
+      "1",
+      "align",
+      "align-content:space-around",
+      "align-content:space-between",
+      "around",
+      "between",
+      "column",
+      "content",
+      "css",
+      "cssgrid",
+      "display",
+      "display:grid",
+      "displaygrid",
+      "fr",
+      "fr unit",
+      "fractional",
+      "fractional unit",
+      "grid",
+      "grid-column",
+      "grid-row",
+      "grid-template",
+      "grids",
+      "inline",
+      "inline-grid",
+      "justify",
+      "justify-content:space-around",
+      "justify-content:space-between",
+      "layout",
+      "level",
+      "row",
+      "space",
+      "space-between",
+      "template",
+      "unit"
+    ]
+  },
+  {
+    "id": "css-grid-lanes",
+    "title": "CSS Grid Lanes",
+    "keywords": [
+      "column",
+      "columns",
+      "css",
+      "display",
+      "display:grid",
+      "display:grid-lanes",
+      "display:masonry",
+      "grid",
+      "grid-column",
+      "grid-row",
+      "grid-template-columns:masonry",
+      "grid-template-rows:masonry",
+      "lanes",
+      "masonry",
+      "row",
+      "rows",
+      "template",
+      "waterfall"
+    ]
+  },
+  {
+    "id": "css-hanging-punctuation",
+    "title": "CSS hanging-punctuation",
+    "keywords": [
+      "allow",
+      "allow-end",
+      "css",
+      "end",
+      "force",
+      "force-end",
+      "hanging",
+      "hanging punctuation",
+      "punctuation"
+    ]
+  },
+  {
+    "id": "css-has",
+    "title": ":has() CSS relational pseudo-class",
+    "keywords": [
+      "children",
+      "class",
+      "css",
+      "has",
+      "parent",
+      "pseudo",
+      "relational",
+      "selector"
+    ]
+  },
+  {
+    "id": "css-hyphens",
+    "title": "CSS Hyphenation",
+    "keywords": [
+      "css",
+      "css3",
+      "hyphen",
+      "hyphenation",
+      "hyphens",
+      "shy"
+    ]
+  },
+  {
+    "id": "css-if",
+    "title": "CSS if() function",
+    "keywords": [
+      "condition",
+      "css",
+      "function",
+      "if",
+      "media",
+      "style",
+      "supports"
+    ]
+  },
+  {
+    "id": "css-image-orientation",
+    "title": "CSS3 image-orientation",
+    "keywords": [
+      "css",
+      "css3",
+      "flip",
+      "from",
+      "from-image",
+      "image",
+      "image-orientation",
+      "orientation"
+    ]
+  },
+  {
+    "id": "css-image-set",
+    "title": "CSS image-set",
+    "keywords": [
+      "css",
+      "image",
+      "set"
+    ]
+  },
+  {
+    "id": "css-in-out-of-range",
+    "title": ":in-range and :out-of-range CSS pseudo-classes",
+    "keywords": [
+      ":in-range",
+      ":out-of-range",
+      "and",
+      "classes",
+      "css",
+      "in",
+      "of",
+      "out",
+      "pseudo",
+      "range"
+    ]
+  },
+  {
+    "id": "css-indeterminate-pseudo",
+    "title": ":indeterminate CSS pseudo-class",
+    "keywords": [
+      ":indeterminate",
+      "class",
+      "css",
+      "indeterminate",
+      "pseudo"
+    ]
+  },
+  {
+    "id": "css-initial-letter",
+    "title": "CSS Initial Letter",
+    "keywords": [
+      "cap",
+      "css",
+      "drop",
+      "drop cap",
+      "dropcap",
+      "initial",
+      "initial letter",
+      "initial letters",
+      "initial-letter",
+      "letter",
+      "letters"
+    ]
+  },
+  {
+    "id": "css-initial-value",
+    "title": "CSS initial value",
+    "keywords": [
+      "css",
+      "initial",
+      "value"
+    ]
+  },
+  {
+    "id": "css-lch-lab",
+    "title": "LCH and Lab color values",
+    "keywords": [
+      "a",
+      "and",
+      "b",
+      "cielab",
+      "color",
+      "css",
+      "l",
+      "l*a*b*",
+      "lab",
+      "lab()",
+      "lch",
+      "lch()",
+      "values"
+    ]
+  },
+  {
+    "id": "css-letter-spacing",
+    "title": "letter-spacing CSS property",
+    "keywords": [
+      "css",
+      "letter",
+      "property",
+      "spacing",
+      "tracking"
+    ]
+  },
+  {
+    "id": "css-line-clamp",
+    "title": "CSS line-clamp",
+    "keywords": [
+      "clamp",
+      "css",
+      "line"
+    ]
+  },
+  {
+    "id": "css-logical-props",
+    "title": "CSS Logical Properties",
+    "keywords": [
+      "block",
+      "block-size",
+      "border",
+      "border-block",
+      "border-block-color",
+      "border-block-end",
+      "border-block-end-color",
+      "border-block-end-style",
+      "border-block-end-width",
+      "border-block-start",
+      "border-block-start-color",
+      "border-block-start-style",
+      "border-block-start-width",
+      "border-block-style",
+      "border-block-width",
+      "border-end-end-radius",
+      "border-end-start-radius",
+      "border-inline",
+      "border-inline-color",
+      "border-inline-end",
+      "border-inline-end-color",
+      "border-inline-end-style",
+      "border-inline-end-width",
+      "border-inline-start",
+      "border-inline-start-color",
+      "border-inline-start-style",
+      "border-inline-start-width",
+      "border-inline-style",
+      "border-inline-width",
+      "border-start-end-radius",
+      "border-start-start-radius",
+      "color",
+      "css",
+      "css3",
+      "end",
+      "inline",
+      "inline-size",
+      "inset",
+      "inset-block",
+      "inset-block-end",
+      "inset-block-start",
+      "inset-inline",
+      "inset-inline-end",
+      "inset-inline-start",
+      "logical",
+      "margin",
+      "margin-block",
+      "margin-block-end",
+      "margin-block-start",
+      "margin-inline",
+      "margin-inline-end",
+      "margin-inline-start",
+      "max",
+      "max-block-size",
+      "max-inline-size",
+      "min",
+      "min-block-size",
+      "min-inline-size",
+      "padding",
+      "padding-block",
+      "padding-block-end",
+      "padding-block-start",
+      "padding-inline",
+      "padding-inline-end",
+      "padding-inline-start",
+      "properties",
+      "props",
+      "radius",
+      "recto",
+      "size",
+      "start",
+      "style",
+      "verso",
+      "width"
+    ]
+  },
+  {
+    "id": "css-marker-pseudo",
+    "title": "CSS ::marker pseudo-element",
+    "keywords": [
+      "css",
+      "css3",
+      "element",
+      "marker",
+      "pseudo"
+    ]
+  },
+  {
+    "id": "css-masks",
+    "title": "CSS Masks",
+    "keywords": [
+      "border",
+      "clip",
+      "clip-path",
+      "clip-rule",
+      "css",
+      "css masking",
+      "image",
+      "mask",
+      "mask-border",
+      "mask-clip",
+      "mask-image",
+      "mask-mode",
+      "mask-type",
+      "masking",
+      "masks",
+      "mode",
+      "path",
+      "rule",
+      "type"
+    ]
+  },
+  {
+    "id": "css-matches-pseudo",
+    "title": ":is() CSS pseudo-class",
+    "keywords": [
+      "-moz-any",
+      "-webkit-any",
+      ":-moz-any",
+      ":-webkit-any",
+      ":any",
+      ":is",
+      ":matches",
+      "any",
+      "class",
+      "css",
+      "is",
+      "matches",
+      "moz",
+      "pseudo",
+      "webkit"
+    ]
+  },
+  {
+    "id": "css-math-functions",
+    "title": "CSS math functions min(), max() and clamp()",
+    "keywords": [
+      "and",
+      "clamp",
+      "clamp()",
+      "css",
+      "functions",
+      "math",
+      "max",
+      "max()",
+      "min",
+      "min()"
+    ]
+  },
+  {
+    "id": "css-media-interaction",
+    "title": "Media Queries: interaction media features",
+    "keywords": [
+      "@media",
+      "any",
+      "any-hover",
+      "any-pointer",
+      "coarse",
+      "css",
+      "css pointer",
+      "features",
+      "fine",
+      "hover",
+      "interaction",
+      "media",
+      "pointer",
+      "pointer:coarse",
+      "pointer:fine",
+      "queries"
+    ]
+  },
+  {
+    "id": "css-media-range-syntax",
+    "title": "Media Queries: Range Syntax",
+    "keywords": [
+      "@media",
+      "context",
+      "css",
+      "css media query range syntax",
+      "media",
+      "media queries",
+      "queries",
+      "query",
+      "range",
+      "range context",
+      "range syntax",
+      "syntax"
+    ]
+  },
+  {
+    "id": "css-media-resolution",
+    "title": "Media Queries: resolution feature",
+    "keywords": [
+      "@media",
+      "css",
+      "css3",
+      "device",
+      "device-pixel-ratio",
+      "dpcm",
+      "dpi",
+      "dppx",
+      "feature",
+      "media",
+      "pixel",
+      "queries",
+      "ratio",
+      "resolution"
+    ]
+  },
+  {
+    "id": "css-mediaqueries",
+    "title": "CSS3 Media Queries",
+    "keywords": [
+      "@media",
+      "css",
+      "css3",
+      "media",
+      "mediaqueries",
+      "queries"
+    ]
+  },
+  {
+    "id": "css-mixblendmode",
+    "title": "Blending of HTML/SVG elements",
+    "keywords": [
+      "blend",
+      "blending",
+      "css",
+      "css blend modes",
+      "css blending modes",
+      "elements",
+      "html",
+      "mix",
+      "mix-blend-mode",
+      "mixblendmode",
+      "mode",
+      "modes",
+      "of",
+      "svg"
+    ]
+  },
+  {
+    "id": "css-motion-paths",
+    "title": "CSS Motion Path",
+    "keywords": [
+      "css",
+      "distance",
+      "motion",
+      "offset",
+      "offset-distance",
+      "offset-position",
+      "offset-rotate",
+      "path",
+      "paths",
+      "position",
+      "rotate"
+    ]
+  },
+  {
+    "id": "css-namespaces",
+    "title": "CSS namespaces",
+    "keywords": [
+      "css",
+      "namespaces"
+    ]
+  },
+  {
+    "id": "css-nesting",
+    "title": "CSS Nesting",
+    "keywords": [
+      "@nest",
+      "&",
+      "css",
+      "nest",
+      "nested",
+      "nested css",
+      "nesting"
+    ]
+  },
+  {
+    "id": "css-not-sel-list",
+    "title": "selector list argument of :not()",
+    "keywords": [
+      "4",
+      "argument",
+      "css",
+      "level",
+      "list",
+      "multiple",
+      "negation",
+      "not",
+      "of",
+      "pseudo",
+      "sel",
+      "selector",
+      "selectors"
+    ]
+  },
+  {
+    "id": "css-nth-child-of",
+    "title": "selector list argument of :nth-child and :nth-last-child CSS pseudo-classes",
+    "keywords": [
+      "an",
+      "and",
+      "argument",
+      "b",
+      "child",
+      "classes",
+      "css",
+      "last",
+      "list",
+      "nth",
+      "nth-child",
+      "nth-last-child",
+      "of",
+      "pseudo",
+      "s",
+      "sel",
+      "selector"
+    ]
+  },
+  {
+    "id": "css-opacity",
+    "title": "CSS3 Opacity",
+    "keywords": [
+      "alpha",
+      "css",
+      "css3",
+      "opacity",
+      "transparency",
+      "transparent"
+    ]
+  },
+  {
+    "id": "css-optional-pseudo",
+    "title": ":optional CSS pseudo-class",
+    "keywords": [
+      ":optional",
+      ":required",
+      "class",
+      "css",
+      "optional",
+      "pseudo",
+      "required"
+    ]
+  },
+  {
+    "id": "css-overflow",
+    "title": "CSS overflow property",
+    "keywords": [
+      "clip",
+      "css",
+      "hidden",
+      "overflow",
+      "overflow:clip",
+      "overflow:hidden",
+      "overflow:scroll",
+      "property",
+      "scroll"
+    ]
+  },
+  {
+    "id": "css-overflow-anchor",
+    "title": "CSS overflow-anchor (Scroll Anchoring)",
+    "keywords": [
+      "anchor",
+      "anchoring",
+      "css",
+      "css3",
+      "overflow",
+      "overflow-anchor",
+      "scroll",
+      "scroll anchoring"
+    ]
+  },
+  {
+    "id": "css-overflow-overlay",
+    "title": "CSS overflow: overlay",
+    "keywords": [
+      "css",
+      "overflow",
+      "overlay"
+    ]
+  },
+  {
+    "id": "css-overscroll-behavior",
+    "title": "CSS overscroll-behavior",
+    "keywords": [
+      "-ms-scroll-chaining",
+      "behavior",
+      "boundary",
+      "chaining",
+      "css",
+      "ms",
+      "overscroll",
+      "overscroll-behavior-x",
+      "overscroll-behavior-y",
+      "scroll",
+      "scroll-boundary-behavior",
+      "x",
+      "y"
+    ]
+  },
+  {
+    "id": "css-page-break",
+    "title": "CSS page-break properties",
+    "keywords": [
+      "after",
+      "always",
+      "avoid",
+      "before",
+      "break",
+      "css",
+      "inside",
+      "page",
+      "page-break-after",
+      "page-break-before",
+      "page-break-inside",
+      "properties"
+    ]
+  },
+  {
+    "id": "css-paged-media",
+    "title": "CSS Paged Media (@page)",
+    "keywords": [
+      "css",
+      "media",
+      "other",
+      "page",
+      "paged"
+    ]
+  },
+  {
+    "id": "css-paint-api",
+    "title": "CSS Painting API",
+    "keywords": [
+      "api",
+      "css",
+      "houdini",
+      "js",
+      "js api",
+      "paint",
+      "painting"
+    ]
+  },
+  {
+    "id": "css-placeholder",
+    "title": "::placeholder CSS pseudo-element",
+    "keywords": [
+      "::placeholder",
+      "css",
+      "element",
+      "placeholder",
+      "pseudo"
+    ]
+  },
+  {
+    "id": "css-placeholder-shown",
+    "title": ":placeholder-shown CSS pseudo-class",
+    "keywords": [
+      ":placeholder-shown",
+      "class",
+      "css",
+      "placeholder",
+      "placeholder-shown",
+      "pseudo",
+      "shown"
+    ]
+  },
+  {
+    "id": "css-read-only-write",
+    "title": "CSS :read-only and :read-write selectors",
+    "keywords": [
+      "and",
+      "css",
+      "only",
+      "read",
+      "read-only",
+      "read-write",
+      "selector",
+      "selectors",
+      "write"
+    ]
+  },
+  {
+    "id": "css-rebeccapurple",
+    "title": "Rebeccapurple color",
+    "keywords": [
+      "beccapurple",
+      "color",
+      "css",
+      "rebeccapurple"
+    ]
+  },
+  {
+    "id": "css-reflections",
+    "title": "CSS Reflections",
+    "keywords": [
+      "box",
+      "box-reflect",
+      "css",
+      "reflect",
+      "reflections"
+    ]
+  },
+  {
+    "id": "css-regions",
+    "title": "CSS Regions",
+    "keywords": [
+      "css",
+      "css3",
+      "regions"
+    ]
+  },
+  {
+    "id": "css-relative-colors",
+    "title": "CSS Relative color syntax",
+    "keywords": [
+      "color",
+      "colors",
+      "css",
+      "relative",
+      "syntax"
+    ]
+  },
+  {
+    "id": "css-repeating-gradients",
+    "title": "CSS Repeating Gradients",
+    "keywords": [
+      "css",
+      "css3",
+      "gradient",
+      "gradients",
+      "linear",
+      "radial",
+      "repeating",
+      "repeating-linear-gradient",
+      "repeating-radial-gradient"
+    ]
+  },
+  {
+    "id": "css-resize",
+    "title": "CSS resize property",
+    "keywords": [
+      "css",
+      "css3",
+      "horizontal",
+      "property",
+      "resize",
+      "vertical"
+    ]
+  },
+  {
+    "id": "css-revert-value",
+    "title": "CSS revert value",
+    "keywords": [
+      "css",
+      "reset",
+      "revert",
+      "value"
+    ]
+  },
+  {
+    "id": "css-rrggbbaa",
+    "title": "#rrggbbaa hex color notation",
+    "keywords": [
+      "color",
+      "css",
+      "hex",
+      "notation",
+      "rgba",
+      "rrggbbaa"
+    ]
+  },
+  {
+    "id": "css-scroll-behavior",
+    "title": "CSS Scroll-behavior",
+    "keywords": [
+      "behavior",
+      "css",
+      "cssom",
+      "scroll",
+      "scroll-behavior",
+      "smooth",
+      "smoothscroll"
+    ]
+  },
+  {
+    "id": "css-scrollbar",
+    "title": "CSS scrollbar styling",
+    "keywords": [
+      "base",
+      "button",
+      "color",
+      "css",
+      "face",
+      "scrollbar",
+      "scrollbar-base-color",
+      "scrollbar-button",
+      "scrollbar-color",
+      "scrollbar-face-color",
+      "scrollbar-thumb",
+      "scrollbar-track",
+      "scrollbar-width",
+      "styling",
+      "thumb",
+      "track",
+      "width"
+    ]
+  },
+  {
+    "id": "css-sel2",
+    "title": "CSS 2.1 selectors",
+    "keywords": [
+      "1",
+      "2",
+      "attribute",
+      "attribute selector",
+      "css",
+      "css2",
+      "sel2",
+      "selector",
+      "selectors"
+    ]
+  },
+  {
+    "id": "css-sel3",
+    "title": "CSS3 selectors",
+    "keywords": [
+      "css",
+      "css3",
+      "sel3",
+      "selectors"
+    ]
+  },
+  {
+    "id": "css-selection",
+    "title": "::selection CSS pseudo-element",
+    "keywords": [
+      "::selection",
+      "css",
+      "element",
+      "pseudo",
+      "selection"
+    ]
+  },
+  {
+    "id": "css-shapes",
+    "title": "CSS Shapes Level 1",
+    "keywords": [
+      "1",
+      "circle",
+      "css",
+      "css3",
+      "ellipse",
+      "image",
+      "inset",
+      "level",
+      "margin",
+      "outside",
+      "polygon",
+      "shape",
+      "shape-image-threshold",
+      "shape-margin",
+      "shape-outside",
+      "shapes",
+      "threshold"
+    ]
+  },
+  {
+    "id": "css-snappoints",
+    "title": "CSS Scroll Snap",
+    "keywords": [
+      "align",
+      "coordinate",
+      "css",
+      "destination",
+      "margin",
+      "points",
+      "scroll",
+      "scroll-margin",
+      "scroll-snap-align",
+      "scroll-snap-coordinate",
+      "scroll-snap-destination",
+      "scroll-snap-margin",
+      "scroll-snap-points-x",
+      "scroll-snap-points-y",
+      "scroll-snap-stop",
+      "scroll-snap-type",
+      "snap",
+      "snappoints",
+      "stop",
+      "type",
+      "x",
+      "y"
+    ]
+  },
+  {
+    "id": "css-sticky",
+    "title": "CSS position:sticky",
+    "keywords": [
+      "css",
+      "position",
+      "sticky"
+    ]
+  },
+  {
+    "id": "css-subgrid",
+    "title": "CSS Subgrid",
+    "keywords": [
+      "columns",
+      "css",
+      "grid",
+      "grid-template-columns:subgrid",
+      "grid-template-rows:subgrid",
+      "rows",
+      "subgrid",
+      "template"
+    ]
+  },
+  {
+    "id": "css-supports-api",
+    "title": "CSS.supports() API",
+    "keywords": [
+      "api",
+      "conditional",
+      "css",
+      "dom",
+      "js",
+      "js api",
+      "supports"
+    ]
+  },
+  {
+    "id": "css-table",
+    "title": "CSS Table display",
+    "keywords": [
+      "cell",
+      "css",
+      "css2",
+      "display",
+      "display:table",
+      "layout",
+      "row",
+      "table",
+      "table-cell",
+      "table-layout",
+      "table-row"
+    ]
+  },
+  {
+    "id": "css-text-align-last",
+    "title": "CSS3 text-align-last",
+    "keywords": [
+      "align",
+      "css",
+      "css3",
+      "last",
+      "text",
+      "text align last"
+    ]
+  },
+  {
+    "id": "css-text-box-trim",
+    "title": "CSS Text Box",
+    "keywords": [
+      "box",
+      "css",
+      "edge",
+      "leading",
+      "leading-trim",
+      "text",
+      "text-edge",
+      "trim"
+    ]
+  },
+  {
+    "id": "css-text-indent",
+    "title": "CSS text-indent",
+    "keywords": [
+      "css",
+      "each",
+      "each-line",
+      "hanging",
+      "indent",
+      "line",
+      "text"
+    ]
+  },
+  {
+    "id": "css-text-justify",
+    "title": "CSS text-justify",
+    "keywords": [
+      "css",
+      "justify",
+      "text"
+    ]
+  },
+  {
+    "id": "css-text-orientation",
+    "title": "CSS text-orientation",
+    "keywords": [
+      "css",
+      "orientation",
+      "text"
+    ]
+  },
+  {
+    "id": "css-text-wrap-balance",
+    "title": "CSS text-wrap: balance",
+    "keywords": [
+      "balance",
+      "balanced",
+      "css",
+      "text",
+      "wrap"
+    ]
+  },
+  {
+    "id": "css-textshadow",
+    "title": "CSS3 Text-shadow",
+    "keywords": [
+      "css",
+      "css3",
+      "shadow",
+      "text",
+      "text shadow",
+      "textshadow"
+    ]
+  },
+  {
+    "id": "css-touch-action",
+    "title": "CSS touch-action property",
+    "keywords": [
+      "action",
+      "css",
+      "property",
+      "touch",
+      "touch action"
+    ]
+  },
+  {
+    "id": "css-transitions",
+    "title": "CSS3 Transitions",
+    "keywords": [
+      "bezier",
+      "css",
+      "css transition",
+      "css3",
+      "cubic",
+      "cubic-bezier",
+      "delay",
+      "duration",
+      "end",
+      "function",
+      "property",
+      "start",
+      "step",
+      "step-end",
+      "step-start",
+      "steps",
+      "timing",
+      "transition",
+      "transition-delay",
+      "transition-duration",
+      "transition-property",
+      "transition-timing-function",
+      "transitionend",
+      "transitions"
+    ]
+  },
+  {
+    "id": "css-unset-value",
+    "title": "CSS unset value",
+    "keywords": [
+      "css",
+      "unset",
+      "value"
+    ]
+  },
+  {
+    "id": "css-variables",
+    "title": "CSS Variables (Custom Properties)",
+    "keywords": [
+      "--var",
+      "css",
+      "css variables",
+      "css3",
+      "cssvariables",
+      "custom",
+      "custom properties",
+      "properties",
+      "var",
+      "var()",
+      "variables",
+      "vars"
+    ]
+  },
+  {
+    "id": "css-when-else",
+    "title": "CSS @when / @else conditional rules",
+    "keywords": [
+      "conditional",
+      "css",
+      "else",
+      "rules",
+      "when"
+    ]
+  },
+  {
+    "id": "css-widows-orphans",
+    "title": "CSS widows & orphans",
+    "keywords": [
+      "css",
+      "orphans",
+      "widows"
+    ]
+  },
+  {
+    "id": "css-writing-mode",
+    "title": "CSS writing-mode property",
+    "keywords": [
+      "css",
+      "direction",
+      "i18n",
+      "ltr",
+      "mode",
+      "property",
+      "rtl",
+      "vertical",
+      "writing"
+    ]
+  },
+  {
+    "id": "css-zoom",
+    "title": "CSS zoom",
+    "keywords": [
+      "-moz-transform",
+      "-ms-transform",
+      "-ms-zoom",
+      "-o-transform",
+      "-webkit-transform",
+      "css",
+      "css-transforms",
+      "moz",
+      "ms",
+      "o",
+      "scale",
+      "transform",
+      "transforms",
+      "webkit",
+      "zoom"
+    ]
+  },
+  {
+    "id": "css3-attr",
+    "title": "CSS3 attr() function for all properties",
+    "keywords": [
+      "all",
+      "attr",
+      "attribute",
+      "css",
+      "css3",
+      "for",
+      "function",
+      "properties"
+    ]
+  },
+  {
+    "id": "css3-boxsizing",
+    "title": "CSS3 Box-sizing",
+    "keywords": [
+      "border",
+      "border-box",
+      "box",
+      "boxsizing",
+      "content",
+      "content-box",
+      "css3",
+      "sizing"
+    ]
+  },
+  {
+    "id": "css3-colors",
+    "title": "CSS3 Colors",
+    "keywords": [
+      "colors",
+      "css3",
+      "hsl",
+      "hsla",
+      "rgb",
+      "rgba"
+    ]
+  },
+  {
+    "id": "css3-cursors",
+    "title": "CSS3 Cursors (original values)",
+    "keywords": [
+      "css3",
+      "cursors",
+      "original",
+      "pointers",
+      "values"
+    ]
+  },
+  {
+    "id": "css3-cursors-grab",
+    "title": "CSS grab & grabbing cursors",
+    "keywords": [
+      "css",
+      "css3",
+      "cursors",
+      "grab",
+      "grabbing"
+    ]
+  },
+  {
+    "id": "css3-cursors-newer",
+    "title": "CSS3 Cursors: zoom-in & zoom-out",
+    "keywords": [
+      "css3",
+      "cursors",
+      "in",
+      "newer",
+      "out",
+      "pointers",
+      "zoom"
+    ]
+  },
+  {
+    "id": "css3-tabsize",
+    "title": "CSS3 tab-size",
+    "keywords": [
+      "css3",
+      "size",
+      "tab",
+      "tab-size",
+      "tab-width",
+      "tabsize",
+      "width"
+    ]
+  },
+  {
+    "id": "currentcolor",
+    "title": "CSS currentColor value",
+    "keywords": [
+      "css",
+      "currentcolor",
+      "value"
+    ]
+  },
+  {
+    "id": "custom-elements",
+    "title": "Custom Elements (deprecated V0 spec)",
+    "keywords": [
+      "custom",
+      "deprecated",
+      "document",
+      "document.registerelement",
+      "dom",
+      "elements",
+      "html5",
+      "registerelement",
+      "spec",
+      "v0"
+    ]
+  },
+  {
+    "id": "custom-elementsv1",
+    "title": "Custom Elements (V1)",
+    "keywords": [
+      "custom",
+      "customelements",
+      "dom",
+      "elements",
+      "elementsv1",
+      "html5",
+      "v1",
+      "webcomponents"
+    ]
+  },
+  {
+    "id": "customevent",
+    "title": "CustomEvent",
+    "keywords": [
+      "api",
+      "custom",
+      "custom events",
+      "customevent",
+      "dom",
+      "event",
+      "events",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "customizable-select",
+    "title": "Customizable Select element",
+    "keywords": [
+      "::picker(select)",
+      "appearance",
+      "appearance:base-select",
+      "base",
+      "customizable",
+      "element",
+      "html5",
+      "picker",
+      "select",
+      "selectedoption",
+      "selectlist",
+      "selectmenu"
+    ]
+  },
+  {
+    "id": "datalist",
+    "title": "Datalist element",
+    "keywords": [
+      "attribute",
+      "datalist",
+      "element",
+      "html5",
+      "input",
+      "list",
+      "list attribute"
+    ]
+  },
+  {
+    "id": "dataset",
+    "title": "dataset & data-* attributes",
+    "keywords": [
+      "attributes",
+      "data",
+      "dataset",
+      "domstringmap",
+      "html5"
+    ]
+  },
+  {
+    "id": "datauri",
+    "title": "Data URIs",
+    "keywords": [
+      "base64",
+      "data",
+      "data uri",
+      "data url",
+      "datauri",
+      "datauris",
+      "dataurl",
+      "dataurls",
+      "other",
+      "uri",
+      "uris",
+      "url"
+    ]
+  },
+  {
+    "id": "date-tolocaledatestring",
+    "title": "Date.prototype.toLocaleDateString",
+    "keywords": [
+      "date",
+      "js",
+      "prototype",
+      "tolocaledatestring"
+    ]
+  },
+  {
+    "id": "declarative-shadow-dom",
+    "title": "Declarative Shadow DOM",
+    "keywords": [
+      "declarative",
+      "dom",
+      "shadow"
+    ]
+  },
+  {
+    "id": "decorators",
+    "title": "Decorators",
+    "keywords": [
+      "and",
+      "class",
+      "decorators",
+      "javascript",
+      "javascript class and property decorators",
+      "js",
+      "property"
+    ]
+  },
+  {
+    "id": "details",
+    "title": "Details & Summary elements",
+    "keywords": [
+      "details",
+      "elements",
+      "html5",
+      "summary"
+    ]
+  },
+  {
+    "id": "deviceorientation",
+    "title": "DeviceOrientation & DeviceMotion events",
+    "keywords": [
+      "api",
+      "devicemotion",
+      "deviceorientation",
+      "events",
+      "js",
+      "js api",
+      "ondevicemotion",
+      "ondeviceorientation"
+    ]
+  },
+  {
+    "id": "devicepixelratio",
+    "title": "Window.devicePixelRatio",
+    "keywords": [
+      "css",
+      "device",
+      "devicepixelratio",
+      "dom",
+      "pixel",
+      "ratio",
+      "size",
+      "window"
+    ]
+  },
+  {
+    "id": "dialog",
+    "title": "Dialog element",
+    "keywords": [
+      "backdrop",
+      "dialog",
+      "dom",
+      "element",
+      "html5",
+      "htmldialogelement",
+      "showmodal"
+    ]
+  },
+  {
+    "id": "dispatchevent",
+    "title": "EventTarget.dispatchEvent",
+    "keywords": [
+      "dispatch",
+      "dispatchevent",
+      "dom",
+      "event",
+      "eventtarget",
+      "fire",
+      "target",
+      "trigger"
+    ]
+  },
+  {
+    "id": "dnssec",
+    "title": "DNSSEC and DANE",
+    "keywords": [
+      "and",
+      "authentication",
+      "based",
+      "dane",
+      "dns",
+      "dns based authentication of named entities",
+      "dns security extensions",
+      "dnssec",
+      "domain",
+      "domain name system security extensions",
+      "entities",
+      "extensions",
+      "name",
+      "named",
+      "of",
+      "security",
+      "system",
+      "tlsa"
+    ]
+  },
+  {
+    "id": "do-not-track",
+    "title": "Do Not Track API",
+    "keywords": [
+      "api",
+      "dnt",
+      "do",
+      "js",
+      "js api",
+      "not",
+      "track"
+    ]
+  },
+  {
+    "id": "document-currentscript",
+    "title": "document.currentScript",
+    "keywords": [
+      "api",
+      "currentscript",
+      "document",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "document-evaluate-xpath",
+    "title": "document.evaluate & XPath",
+    "keywords": [
+      "3",
+      "api",
+      "document",
+      "dom",
+      "dom l3 xpath",
+      "dom level 3",
+      "evaluate",
+      "js",
+      "js api",
+      "l3",
+      "level",
+      "xpath"
+    ]
+  },
+  {
+    "id": "document-execcommand",
+    "title": "Document.execCommand()",
+    "keywords": [
+      "api",
+      "commands",
+      "designmode",
+      "document",
+      "editor",
+      "execcommand",
+      "js",
+      "js api",
+      "text"
+    ]
+  },
+  {
+    "id": "document-policy",
+    "title": "Document Policy",
+    "keywords": [
+      "at",
+      "attribute",
+      "attribute policy",
+      "document",
+      "document-policy",
+      "feature",
+      "feature policy",
+      "feature-policy",
+      "force",
+      "force-load-at-top",
+      "header",
+      "load",
+      "other",
+      "policy",
+      "policy attribute",
+      "security",
+      "top"
+    ]
+  },
+  {
+    "id": "document-scrollingelement",
+    "title": "document.scrollingElement",
+    "keywords": [
+      "document",
+      "dom",
+      "scrollingelement"
+    ]
+  },
+  {
+    "id": "documenthead",
+    "title": "document.head",
+    "keywords": [
+      "document",
+      "documenthead",
+      "dom",
+      "head"
+    ]
+  },
+  {
+    "id": "dom-manip-convenience",
+    "title": "DOM manipulation convenience methods",
+    "keywords": [
+      "after",
+      "append",
+      "before",
+      "convenience",
+      "convenient",
+      "dom",
+      "manip",
+      "manipulation",
+      "methods",
+      "prepend",
+      "replacewith"
+    ]
+  },
+  {
+    "id": "dom-range",
+    "title": "Document Object Model Range",
+    "keywords": [
+      "api",
+      "document",
+      "dom",
+      "js",
+      "js api",
+      "model",
+      "object",
+      "range",
+      "selection"
+    ]
+  },
+  {
+    "id": "domcontentloaded",
+    "title": "DOMContentLoaded",
+    "keywords": [
+      "contentloaded",
+      "document",
+      "dom",
+      "domcontentloaded",
+      "domready",
+      "onload"
+    ]
+  },
+  {
+    "id": "dommatrix",
+    "title": "DOMMatrix",
+    "keywords": [
+      "cssmatrix",
+      "dom",
+      "dommatrix",
+      "dommatrixreadonly",
+      "matrix",
+      "mscssmatrix",
+      "webkitcssmatrix"
+    ]
+  },
+  {
+    "id": "download",
+    "title": "Download attribute",
+    "keywords": [
+      "a",
+      "a.download",
+      "a[download]",
+      "attribute",
+      "download",
+      "download attribute",
+      "html5"
+    ]
+  },
+  {
+    "id": "dragndrop",
+    "title": "Drag and Drop",
+    "keywords": [
+      "and",
+      "drag",
+      "draganddrop",
+      "draggable",
+      "dragndrop",
+      "drop",
+      "html5"
+    ]
+  },
+  {
+    "id": "element-closest",
+    "title": "Element.closest()",
+    "keywords": [
+      "closest",
+      "dom",
+      "element"
+    ]
+  },
+  {
+    "id": "element-from-point",
+    "title": "document.elementFromPoint()",
+    "keywords": [
+      "document",
+      "dom",
+      "element",
+      "elementfrompoint",
+      "from",
+      "point"
+    ]
+  },
+  {
+    "id": "element-scroll-methods",
+    "title": "Scroll methods on elements (scroll, scrollTo, scrollBy)",
+    "keywords": [
+      "api",
+      "dom",
+      "element",
+      "element.prototype.scroll",
+      "element.prototype.scrollby",
+      "element.prototype.scrollto",
+      "elements",
+      "js",
+      "js api",
+      "methods",
+      "on",
+      "prototype",
+      "scroll",
+      "scrollby",
+      "scrollto"
+    ]
+  },
+  {
+    "id": "eme",
+    "title": "Encrypted Media Extensions",
+    "keywords": [
+      "api",
+      "createmediakeys",
+      "eme",
+      "encrypted",
+      "extensions",
+      "js",
+      "js api",
+      "media",
+      "requestmediakeysystemaccess",
+      "security"
+    ]
+  },
+  {
+    "id": "eot",
+    "title": "EOT - Embedded OpenType fonts",
+    "keywords": [
+      "embedded",
+      "eot",
+      "fonts",
+      "opentype",
+      "other"
+    ]
+  },
+  {
+    "id": "es5",
+    "title": "ECMAScript 5",
+    "keywords": [
+      "5",
+      "array",
+      "array.foreach",
+      "array.indexof",
+      "array.map",
+      "bind",
+      "date",
+      "date.now",
+      "defineproperties",
+      "ecmascript",
+      "es5",
+      "every",
+      "foreach",
+      "freeze",
+      "function",
+      "function.bind",
+      "getownpropertydescriptorgetownpropertynames",
+      "getprototypeof",
+      "getter",
+      "indexof",
+      "isarray",
+      "isextensible",
+      "isfrozen",
+      "issealed",
+      "javascript",
+      "javascriptes5",
+      "js",
+      "keys",
+      "lastindexof",
+      "map",
+      "now",
+      "object",
+      "object.keys",
+      "preventextensions",
+      "reduce",
+      "reduceright",
+      "seal",
+      "setter",
+      "some",
+      "toisostringc"
+    ]
+  },
+  {
+    "id": "es6",
+    "title": "ECMAScript 2015 (ES6)",
+    "keywords": [
+      "2015",
+      "array",
+      "array.prototype.fill",
+      "array.prototype.find",
+      "array.prototype.findindex",
+      "assign",
+      "block",
+      "block-scoped",
+      "ecmascript",
+      "endswith",
+      "es6",
+      "fill",
+      "find",
+      "findindex",
+      "includes",
+      "javascript",
+      "js",
+      "object",
+      "object.assign",
+      "prototype",
+      "repeat",
+      "scoped",
+      "string",
+      "string.prototype.endswith",
+      "string.prototype.includes",
+      "string.prototype.repeat"
+    ]
+  },
+  {
+    "id": "es6-class",
+    "title": "ES6 classes",
+    "keywords": [
+      "class",
+      "classes",
+      "es6",
+      "javascript",
+      "js"
+    ]
+  },
+  {
+    "id": "es6-generators",
+    "title": "ES6 Generators",
+    "keywords": [
+      "es6",
+      "generators",
+      "iterators",
+      "js",
+      "yield"
+    ]
+  },
+  {
+    "id": "es6-module",
+    "title": "JavaScript modules via script tag",
+    "keywords": [
+      "es6",
+      "es6 module",
+      "esmodules",
+      "export",
+      "import",
+      "javascript",
+      "js",
+      "module",
+      "modules",
+      "nomodule",
+      "script",
+      "tag",
+      "via"
+    ]
+  },
+  {
+    "id": "es6-module-dynamic-import",
+    "title": "JavaScript modules: dynamic import()",
+    "keywords": [
+      "dynamic",
+      "es6",
+      "export",
+      "import",
+      "javascript",
+      "js",
+      "module",
+      "modules"
+    ]
+  },
+  {
+    "id": "es6-number",
+    "title": "ES6 Number",
+    "keywords": [
+      "built",
+      "built-in",
+      "epsilon",
+      "es6",
+      "in",
+      "integer",
+      "isfinite",
+      "isinteger",
+      "isnan",
+      "issafeinteger",
+      "javascript",
+      "js",
+      "max",
+      "max_safe_integer",
+      "min",
+      "min_safe_integer",
+      "number",
+      "safe"
+    ]
+  },
+  {
+    "id": "es6-string-includes",
+    "title": "String.prototype.includes",
+    "keywords": [
+      "es6",
+      "includes",
+      "javascript",
+      "js",
+      "prototype",
+      "string"
+    ]
+  },
+  {
+    "id": "eventsource",
+    "title": "Server-sent events",
+    "keywords": [
+      "api",
+      "events",
+      "eventsource",
+      "js",
+      "js api",
+      "s",
+      "s-sent-events",
+      "sent",
+      "server",
+      "server sent events",
+      "server side events",
+      "serversent",
+      "side"
+    ]
+  },
+  {
+    "id": "extended-system-fonts",
+    "title": "ui-serif, ui-sans-serif, ui-monospace and ui-rounded values for font-family",
+    "keywords": [
+      "and",
+      "css",
+      "extended",
+      "family",
+      "font",
+      "font-family",
+      "fonts",
+      "for",
+      "monospace",
+      "rounded",
+      "sans",
+      "serif",
+      "system",
+      "ui",
+      "ui-monospace",
+      "ui-rounded",
+      "ui-sans-serif",
+      "ui-serif",
+      "values"
+    ]
+  },
+  {
+    "id": "feature-policy",
+    "title": "Feature Policy",
+    "keywords": [
+      "allow",
+      "allow attribute",
+      "api",
+      "attribute",
+      "attribute allow",
+      "document",
+      "document.featurepolicy",
+      "document.policy",
+      "feature",
+      "feature-policy",
+      "featurepolicy",
+      "header",
+      "js",
+      "js api",
+      "other",
+      "policy",
+      "security"
+    ]
+  },
+  {
+    "id": "fetch",
+    "title": "Fetch",
+    "keywords": [
+      "api",
+      "fetch",
+      "js",
+      "js api",
+      "service",
+      "workers",
+      "xhr",
+      "xmlhttprequest"
+    ]
+  },
+  {
+    "id": "fieldset-disabled",
+    "title": "disabled attribute of the fieldset element",
+    "keywords": [
+      "attribute",
+      "disabled",
+      "dom",
+      "element",
+      "fieldset",
+      "html5",
+      "htmlfieldsetelement",
+      "of",
+      "the"
+    ]
+  },
+  {
+    "id": "fileapi",
+    "title": "File API",
+    "keywords": [
+      "api",
+      "file",
+      "fileapi",
+      "filereader",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "filereader",
+    "title": "FileReader API",
+    "keywords": [
+      "api",
+      "filereader",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "filereadersync",
+    "title": "FileReaderSync",
+    "keywords": [
+      "api",
+      "filereadersync",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "filesystem",
+    "title": "Filesystem & FileWriter API",
+    "keywords": [
+      "api",
+      "filesystem",
+      "filewriter",
+      "js",
+      "js api",
+      "requestfilesystem"
+    ]
+  },
+  {
+    "id": "flac",
+    "title": "FLAC audio format",
+    "keywords": [
+      "audio",
+      "flac",
+      "format",
+      "lossless",
+      "other"
+    ]
+  },
+  {
+    "id": "flexbox",
+    "title": "CSS Flexible Box Layout Module",
+    "keywords": [
+      "align",
+      "align-content:space-around",
+      "align-content:space-between",
+      "around",
+      "basis",
+      "between",
+      "box",
+      "content",
+      "css",
+      "css3",
+      "direction",
+      "display",
+      "display:flex",
+      "displayflex",
+      "flex",
+      "flex-basis",
+      "flex-box",
+      "flex-direction",
+      "flex-flow",
+      "flex-grow",
+      "flex-shrink",
+      "flex-wrap",
+      "flexbox",
+      "flexible",
+      "flow",
+      "grow",
+      "justify",
+      "justify-content:space-around",
+      "justify-content:space-between",
+      "layout",
+      "module",
+      "shrink",
+      "space",
+      "space-between",
+      "wrap"
+    ]
+  },
+  {
+    "id": "flexbox-gap",
+    "title": "gap property for Flexbox",
+    "keywords": [
+      "column",
+      "column-gap",
+      "css",
+      "flexbox",
+      "flexgap",
+      "for",
+      "gap",
+      "gaps",
+      "gutters",
+      "property",
+      "row",
+      "row-gap"
+    ]
+  },
+  {
+    "id": "flow-root",
+    "title": "display: flow-root",
+    "keywords": [
+      "css",
+      "css2",
+      "display",
+      "flow",
+      "flow-root",
+      "root"
+    ]
+  },
+  {
+    "id": "focusin-focusout-events",
+    "title": "focusin & focusout events",
+    "keywords": [
+      "dom",
+      "event",
+      "events",
+      "focus",
+      "focusin",
+      "focusout"
+    ]
+  },
+  {
+    "id": "font-family-system-ui",
+    "title": "system-ui value for font-family",
+    "keywords": [
+      "css",
+      "family",
+      "font",
+      "for",
+      "system",
+      "ui",
+      "value"
+    ]
+  },
+  {
+    "id": "font-feature",
+    "title": "CSS font-feature-settings",
+    "keywords": [
+      "alternates",
+      "css",
+      "css3",
+      "feature",
+      "font",
+      "font-feature",
+      "font-feature-settings",
+      "font-variant-alternates",
+      "font-variant-ligatures",
+      "kern",
+      "kerning",
+      "ligatures",
+      "settings",
+      "variant"
+    ]
+  },
+  {
+    "id": "font-kerning",
+    "title": "CSS3 font-kerning",
+    "keywords": [
+      "css3",
+      "font",
+      "kerning"
+    ]
+  },
+  {
+    "id": "font-loading",
+    "title": "CSS Font Loading",
+    "keywords": [
+      "api",
+      "css",
+      "css3",
+      "document",
+      "document.fonts",
+      "font",
+      "fontface",
+      "fontfaceset",
+      "fontfacesource",
+      "fonts",
+      "js",
+      "js api",
+      "loading"
+    ]
+  },
+  {
+    "id": "font-size-adjust",
+    "title": "CSS font-size-adjust",
+    "keywords": [
+      "adjust",
+      "css",
+      "font",
+      "size"
+    ]
+  },
+  {
+    "id": "font-smooth",
+    "title": "CSS font-smooth",
+    "keywords": [
+      "-moz-osx-font-smoothing",
+      "-webkit-font-smoothing",
+      "css",
+      "css3",
+      "font",
+      "font smooth",
+      "font smoothing",
+      "moz",
+      "osx",
+      "smooth",
+      "smoothing",
+      "webkit"
+    ]
+  },
+  {
+    "id": "font-unicode-range",
+    "title": "Font unicode-range subsetting",
+    "keywords": [
+      "css3",
+      "face",
+      "font",
+      "font face",
+      "range",
+      "subsetting",
+      "unicode",
+      "unicode-range"
+    ]
+  },
+  {
+    "id": "font-variant-alternates",
+    "title": "CSS font-variant-alternates",
+    "keywords": [
+      "alternates",
+      "css",
+      "css3",
+      "feature",
+      "font",
+      "font-feature",
+      "font-feature-settings",
+      "font-variant",
+      "settings",
+      "variant"
+    ]
+  },
+  {
+    "id": "font-variant-numeric",
+    "title": "CSS font-variant-numeric",
+    "keywords": [
+      "css",
+      "diagonal",
+      "diagonal-fractions",
+      "font",
+      "fractions",
+      "lining",
+      "lining-nums",
+      "normal",
+      "numeric",
+      "nums",
+      "oldstyle",
+      "oldstyle-nums",
+      "ordinal",
+      "proportional",
+      "proportional-nums",
+      "slashed",
+      "slashed-zero",
+      "stacked",
+      "stacked-fractions",
+      "tabular",
+      "tabular-nums",
+      "variant",
+      "zero"
+    ]
+  },
+  {
+    "id": "fontface",
+    "title": "@font-face Web fonts",
+    "keywords": [
+      "css3",
+      "face",
+      "font",
+      "font face",
+      "fontface",
+      "fonts",
+      "web"
+    ]
+  },
+  {
+    "id": "form-attribute",
+    "title": "Form attribute",
+    "keywords": [
+      "attribute",
+      "form",
+      "html5"
+    ]
+  },
+  {
+    "id": "form-submit-attributes",
+    "title": "Attributes for form submission",
+    "keywords": [
+      "attributes",
+      "for",
+      "form",
+      "html5",
+      "submission",
+      "submit"
+    ]
+  },
+  {
+    "id": "form-validation",
+    "title": "Form validation",
+    "keywords": [
+      "form",
+      "html5",
+      "validation"
+    ]
+  },
+  {
+    "id": "fullscreen",
+    "title": "Fullscreen API",
+    "keywords": [
+      "api",
+      "css",
+      "exitfullscreen",
+      "full",
+      "full-screen",
+      "fullscreen",
+      "js",
+      "js api",
+      "requestfullscreen",
+      "screen"
+    ]
+  },
+  {
+    "id": "gamepad",
+    "title": "Gamepad API",
+    "keywords": [
+      "api",
+      "gamepad",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "geolocation",
+    "title": "Geolocation",
+    "keywords": [
+      "api",
+      "geolocation",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "getboundingclientrect",
+    "title": "Element.getBoundingClientRect()",
+    "keywords": [
+      "api",
+      "bounding",
+      "box",
+      "client",
+      "cssom",
+      "domrect",
+      "element",
+      "getboundingclientrect",
+      "js",
+      "js api",
+      "rect"
+    ]
+  },
+  {
+    "id": "getcomputedstyle",
+    "title": "getComputedStyle",
+    "keywords": [
+      "api",
+      "css3",
+      "dom",
+      "getcomputedstyle",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "getelementsbyclassname",
+    "title": "getElementsByClassName",
+    "keywords": [
+      "byclassname",
+      "dom",
+      "getelementsbyclassname",
+      "html5"
+    ]
+  },
+  {
+    "id": "getrandomvalues",
+    "title": "crypto.getRandomValues()",
+    "keywords": [
+      "api",
+      "crypto",
+      "getrandomvalues",
+      "js",
+      "js api",
+      "security"
+    ]
+  },
+  {
+    "id": "gyroscope",
+    "title": "Gyroscope",
+    "keywords": [
+      "api",
+      "gyroscope",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "hardwareconcurrency",
+    "title": "navigator.hardwareConcurrency",
+    "keywords": [
+      "api",
+      "concurrency",
+      "cores",
+      "hardware",
+      "hardwareconcurrency",
+      "js",
+      "js api",
+      "navigator"
+    ]
+  },
+  {
+    "id": "hashchange",
+    "title": "Hashchange event",
+    "keywords": [
+      "api",
+      "event",
+      "hashchange",
+      "hashchangeevent",
+      "html5",
+      "js",
+      "js api",
+      "onhashchange"
+    ]
+  },
+  {
+    "id": "heif",
+    "title": "HEIF/HEIC image format",
+    "keywords": [
+      "format",
+      "heic",
+      "heif",
+      "hevc",
+      "image",
+      "other"
+    ]
+  },
+  {
+    "id": "hevc",
+    "title": "HEVC/H.265 video format",
+    "keywords": [
+      "265",
+      "format",
+      "h",
+      "h265",
+      "hevc",
+      "other",
+      "video"
+    ]
+  },
+  {
+    "id": "hidden",
+    "title": "hidden attribute",
+    "keywords": [
+      "attribute",
+      "hidden",
+      "html5"
+    ]
+  },
+  {
+    "id": "high-resolution-time",
+    "title": "High Resolution Time API",
+    "keywords": [
+      "api",
+      "high",
+      "js",
+      "js api",
+      "now",
+      "performance",
+      "resolution",
+      "testing",
+      "time"
+    ]
+  },
+  {
+    "id": "history",
+    "title": "Session history management",
+    "keywords": [
+      "history",
+      "html5",
+      "management",
+      "onpushstate",
+      "onreplacestate",
+      "session"
+    ]
+  },
+  {
+    "id": "html-media-capture",
+    "title": "HTML Media Capture",
+    "keywords": [
+      "capture",
+      "html",
+      "html media capture",
+      "html5",
+      "htmlmediacapture",
+      "media",
+      "media capture",
+      "mediacapture"
+    ]
+  },
+  {
+    "id": "html5semantic",
+    "title": "HTML5 semantic elements",
+    "keywords": [
+      "<article>",
+      "<aside>",
+      "<figcaption>",
+      "<figure>",
+      "<footer>",
+      "<header>",
+      "<main>",
+      "<mark>",
+      "<nav>",
+      "<section>",
+      "<time>",
+      "article",
+      "aside",
+      "elements",
+      "figcaption",
+      "figure",
+      "footer",
+      "header",
+      "html5",
+      "html5semantic",
+      "main",
+      "mark",
+      "nav",
+      "section",
+      "semantic",
+      "time"
+    ]
+  },
+  {
+    "id": "http-live-streaming",
+    "title": "HTTP Live Streaming (HLS)",
+    "keywords": [
+      "apple",
+      "apple http live streaming",
+      "hls",
+      "http",
+      "live",
+      "m3u8",
+      "other",
+      "streaming"
+    ]
+  },
+  {
+    "id": "http2",
+    "title": "HTTP/2 protocol",
+    "keywords": [
+      "2",
+      "http",
+      "http2",
+      "https",
+      "https/2",
+      "other",
+      "protocol"
+    ]
+  },
+  {
+    "id": "http3",
+    "title": "HTTP/3 protocol",
+    "keywords": [
+      "3",
+      "http",
+      "http3",
+      "https",
+      "https/3",
+      "other",
+      "protocol"
+    ]
+  },
+  {
+    "id": "iframe-sandbox",
+    "title": "sandbox attribute for iframes",
+    "keywords": [
+      "attribute",
+      "for",
+      "html5",
+      "iframe",
+      "iframes",
+      "sandbox",
+      "security"
+    ]
+  },
+  {
+    "id": "iframe-seamless",
+    "title": "seamless attribute for iframes",
+    "keywords": [
+      "attribute",
+      "for",
+      "html5",
+      "iframe",
+      "iframes",
+      "seamless"
+    ]
+  },
+  {
+    "id": "iframe-srcdoc",
+    "title": "srcdoc attribute for iframes",
+    "keywords": [
+      "attribute",
+      "for",
+      "html5",
+      "iframe",
+      "iframes",
+      "srcdoc"
+    ]
+  },
+  {
+    "id": "imagecapture",
+    "title": "ImageCapture API",
+    "keywords": [
+      "api",
+      "camera",
+      "capture",
+      "device",
+      "dom",
+      "image",
+      "image capture api",
+      "imagecapture",
+      "js",
+      "js api",
+      "media",
+      "media stream",
+      "mediastream",
+      "photos",
+      "stream"
+    ]
+  },
+  {
+    "id": "ime",
+    "title": "Input Method Editor API",
+    "keywords": [
+      "api",
+      "candidatewindow",
+      "cjk",
+      "composition",
+      "editor",
+      "ime",
+      "input",
+      "inputmethodcontext",
+      "internationalization",
+      "js",
+      "js api",
+      "method"
+    ]
+  },
+  {
+    "id": "img-naturalwidth-naturalheight",
+    "title": "naturalWidth & naturalHeight image properties",
+    "keywords": [
+      "dom",
+      "html5",
+      "image",
+      "img",
+      "naturalheight",
+      "naturalwidth",
+      "properties"
+    ]
+  },
+  {
+    "id": "import-maps",
+    "title": "Import maps",
+    "keywords": [
+      "import",
+      "importmap",
+      "js",
+      "maps"
+    ]
+  },
+  {
+    "id": "imports",
+    "title": "HTML Imports",
+    "keywords": [
+      "dom",
+      "html",
+      "html5",
+      "imports",
+      "webcomponents"
+    ]
+  },
+  {
+    "id": "indeterminate-checkbox",
+    "title": "indeterminate checkbox",
+    "keywords": [
+      "checkbox",
+      "dom",
+      "html5",
+      "indeterminate"
+    ]
+  },
+  {
+    "id": "indexeddb",
+    "title": "IndexedDB",
+    "keywords": [
+      "api",
+      "indexdb",
+      "indexeddb",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "indexeddb2",
+    "title": "IndexedDB 2.0",
+    "keywords": [
+      "0",
+      "2",
+      "api",
+      "idb",
+      "indexdb",
+      "indexeddb",
+      "indexeddb2",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "inline-block",
+    "title": "CSS inline-block",
+    "keywords": [
+      "block",
+      "css",
+      "css2",
+      "display",
+      "display:inline-block",
+      "inline",
+      "inlineblock"
+    ]
+  },
+  {
+    "id": "innertext",
+    "title": "HTMLElement.innerText",
+    "keywords": [
+      "content",
+      "dom",
+      "htmlelement",
+      "inner",
+      "innertext",
+      "text"
+    ]
+  },
+  {
+    "id": "input-autocomplete-onoff",
+    "title": "autocomplete attribute: on & off values",
+    "keywords": [
+      "attribute",
+      "autocomplete",
+      "dom",
+      "input",
+      "off",
+      "on",
+      "onoff",
+      "values"
+    ]
+  },
+  {
+    "id": "input-color",
+    "title": "Color input type",
+    "keywords": [
+      "color",
+      "colour",
+      "html5",
+      "input",
+      "input type=\"color\"",
+      "type"
+    ]
+  },
+  {
+    "id": "input-datetime",
+    "title": "Date and time input types",
+    "keywords": [
+      "and",
+      "date",
+      "datepicker",
+      "datetime",
+      "datetime-local",
+      "html5",
+      "input",
+      "input date",
+      "input type=\"date\"",
+      "input type=\"time\"",
+      "inputdate",
+      "local",
+      "time",
+      "timepicker",
+      "type",
+      "types"
+    ]
+  },
+  {
+    "id": "input-email-tel-url",
+    "title": "Email, telephone & URL input types",
+    "keywords": [
+      "email",
+      "html5",
+      "input",
+      "input type=\"email\"",
+      "input type=\"tel\"",
+      "input type=\"url\"",
+      "input[type=email]",
+      "input[type=tel]",
+      "input[type=url]",
+      "tel",
+      "telephone",
+      "type",
+      "types",
+      "url"
+    ]
+  },
+  {
+    "id": "input-event",
+    "title": "input event",
+    "keywords": [
+      "dom",
+      "event",
+      "html5",
+      "input",
+      "oninput"
+    ]
+  },
+  {
+    "id": "input-file-accept",
+    "title": "accept attribute for file input",
+    "keywords": [
+      "accept",
+      "attribute",
+      "file",
+      "for",
+      "html5",
+      "input"
+    ]
+  },
+  {
+    "id": "input-file-directory",
+    "title": "Directory selection from file input",
+    "keywords": [
+      "api",
+      "directory",
+      "dom",
+      "file",
+      "from",
+      "input",
+      "js",
+      "js api",
+      "mozdirectory",
+      "selection",
+      "webkitrelativepath"
+    ]
+  },
+  {
+    "id": "input-file-multiple",
+    "title": "Multiple file selection",
+    "keywords": [
+      "file",
+      "html5",
+      "input",
+      "multiple",
+      "selection"
+    ]
+  },
+  {
+    "id": "input-inputmode",
+    "title": "inputmode attribute",
+    "keywords": [
+      "attribute",
+      "dom",
+      "html5",
+      "input",
+      "inputmode"
+    ]
+  },
+  {
+    "id": "input-minlength",
+    "title": "Minimum length attribute for input fields",
+    "keywords": [
+      "attribute",
+      "fields",
+      "for",
+      "html5",
+      "input",
+      "length",
+      "minimum",
+      "minlength"
+    ]
+  },
+  {
+    "id": "input-number",
+    "title": "Number input type",
+    "keywords": [
+      "html5",
+      "input",
+      "input type=\"number\"",
+      "number",
+      "spinner",
+      "type"
+    ]
+  },
+  {
+    "id": "input-pattern",
+    "title": "Pattern attribute for input fields",
+    "keywords": [
+      "attribute",
+      "fields",
+      "for",
+      "html5",
+      "input",
+      "pattern"
+    ]
+  },
+  {
+    "id": "input-placeholder",
+    "title": "input placeholder attribute",
+    "keywords": [
+      "attribute",
+      "html5",
+      "input",
+      "placeholder"
+    ]
+  },
+  {
+    "id": "input-range",
+    "title": "Range input type",
+    "keywords": [
+      "html5",
+      "input",
+      "input type=\"range\"",
+      "range",
+      "type"
+    ]
+  },
+  {
+    "id": "input-search",
+    "title": "Search input type",
+    "keywords": [
+      "html5",
+      "input",
+      "search",
+      "type"
+    ]
+  },
+  {
+    "id": "input-selection",
+    "title": "Selection controls for input & textarea",
+    "keywords": [
+      "api",
+      "controls",
+      "for",
+      "html5",
+      "input",
+      "js",
+      "js api",
+      "selection",
+      "textarea"
+    ]
+  },
+  {
+    "id": "insert-adjacent",
+    "title": "Element.insertAdjacentElement() & Element.insertAdjacentText()",
+    "keywords": [
+      "adjacent",
+      "dom",
+      "element",
+      "insert",
+      "insertadjacentelement",
+      "insertadjacenttext",
+      "text"
+    ]
+  },
+  {
+    "id": "insertadjacenthtml",
+    "title": "Element.insertAdjacentHTML()",
+    "keywords": [
+      "adjacent",
+      "api",
+      "element",
+      "html",
+      "insert",
+      "insertadjacenthtml",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "internationalization",
+    "title": "Internationalization API",
+    "keywords": [
+      "api",
+      "collator",
+      "datetimeformat",
+      "internationalization",
+      "intl",
+      "js",
+      "numberformat"
+    ]
+  },
+  {
+    "id": "intersectionobserver",
+    "title": "IntersectionObserver",
+    "keywords": [
+      "api",
+      "dom",
+      "intersectionobserver",
+      "js",
+      "js api"
+    ]
+  },
+  {
+    "id": "intersectionobserver-v2",
+    "title": "IntersectionObserver V2",
+    "keywords": [
+      ".isvisible",
+      "api",
+      "dom",
+      "intersectionobserver",
+      "isvisible",
+      "js",
+      "js api",
+      "security",
+      "v2"
+    ]
+  },
+  {
+    "id": "intl-pluralrules",
+    "title": "Intl.PluralRules API",
+    "keywords": [
+      "api",
+      "intl",
+      "js",
+      "pluralrules"
+    ]
+  },
+  {
+    "id": "intrinsic-width",
+    "title": "Intrinsic & Extrinsic Sizing",
+    "keywords": [
+      "available",
+      "contain",
+      "contain-floats",
+      "content",
+      "css3",
+      "extrinsic",
+      "fill",
+      "fill-available",
+      "fit",
+      "fit-content",
+      "floats",
+      "intrinsic",
+      "max",
+      "max-content",
+      "min",
+      "min-content",
+      "sizing",
+      "width"
+    ]
+  },
+  {
+    "id": "jpeg2000",
+    "title": "JPEG 2000 image format",
+    "keywords": [
+      "2000",
+      "format",
+      "image",
+      "jp2",
+      "jpeg",
+      "jpeg 2000",
+      "jpeg2000",
+      "jpg2000",
+      "other"
+    ]
+  },
+  {
+    "id": "jpegxl",
+    "title": "JPEG XL image format",
+    "keywords": [
+      ".jxl",
+      "format",
+      "image",
+      "jpeg",
+      "jpeg-xl",
+      "jpegxl",
+      "jpg",
+      "jxl",
+      "other",
+      "xl"
+    ]
+  },
+  {
+    "id": "jpegxr",
+    "title": "JPEG XR image format",
+    "keywords": [
+      "format",
+      "image",
+      "jpeg",
+      "jpeg-xr",
+      "jpegxr",
+      "jxr",
+      "other",
+      "xr"
+    ]
+  },
+  {
+    "id": "js-regexp-lookbehind",
+    "title": "Lookbehind in JS regular expressions",
+    "keywords": [
+      "expressions",
+      "in",
+      "js",
+      "lookbehind",
+      "regexp",
+      "regular"
+    ]
+  },
+  {
+    "id": "json",
+    "title": "JSON parsing",
+    "keywords": [
+      "js",
+      "json",
+      "parsing"
+    ]
+  },
+  {
+    "id": "justify-content-space-evenly",
+    "title": "CSS justify-content: space-evenly",
+    "keywords": [
+      "content",
+      "css",
+      "evenly",
+      "justify",
+      "space"
+    ]
+  },
+  {
+    "id": "kerning-pairs-ligatures",
+    "title": "High-quality kerning pairs & ligatures",
+    "keywords": [
+      "css",
+      "geometricprecision",
+      "high",
+      "kerning",
+      "ligatures",
+      "optimizelegibility",
+      "optimizespeed",
+      "pairs",
+      "quality"
+    ]
+  },
+  {
+    "id": "keyboardevent-charcode",
+    "title": "KeyboardEvent.charCode",
+    "keywords": [
+      "char",
+      "character",
+      "charcode",
+      "code",
+      "dom",
+      "event",
+      "key",
+      "keyboard",
+      "keyboardevent"
+    ]
+  },
+  {
+    "id": "keyboardevent-code",
+    "title": "KeyboardEvent.code",
+    "keywords": [
+      "code",
+      "dom",
+      "event",
+      "keyboard",
+      "keyboardevent"
+    ]
+  },
+  {
+    "id": "keyboardevent-getmodifierstate",
+    "title": "KeyboardEvent.getModifierState()",
+    "keywords": [
+      "dom",
+      "event",
+      "get",
+      "getmodifierstate",
+      "keyboard",
+      "keyboardevent",
+      "modifier",
+      "state"
+    ]
+  },
+  {
+    "id": "keyboardevent-key",
+    "title": "KeyboardEvent.key",
+    "keywords": [
+      "dom",
+      "event",
+      "key",
+      "keyboard",
+      "keyboardevent"
+    ]
+  },
+  {
+    "id": "keyboardevent-location",
+    "title": "KeyboardEvent.location",
+    "keywords": [
+      "dom",
+      "event",
+      "key",
+      "keyboard",
+      "keyboardevent",
+      "keylocation",
+      "location",
+      "numpad"
+    ]
+  },
+  {
+    "id": "keyboardevent-which",
+    "title": "KeyboardEvent.which",
+    "keywords": [
+      "dom",
+      "event",
+      "keyboard",
+      "keyboardevent",
+      "which"
+    ]
+  },
+  {
+    "id": "lazyload",
+    "title": "Resource Hints: Lazyload",
+    "keywords": [
+      "dom",
+      "hints",
+      "lazyload",
+      "resource"
+    ]
+  },
+  {
+    "id": "let",
+    "title": "let",
+    "keywords": [
+      "block",
+      "es6",
+      "js",
+      "let",
+      "scope",
+      "variable"
+    ]
+  },
+  {
+    "id": "link-icon-png",
+    "title": "PNG favicons",
+    "keywords": [
+      "favicons",
+      "html5",
+      "icon",
+      "link",
+      "png"
+    ]
+  },
+  {
+    "id": "link-icon-svg",
+    "title": "SVG favicons",
+    "keywords": [
+      "favicons",
+      "html5",
+      "icon",
+      "link",
+      "svg"
+    ]
+  },
+  {
+    "id": "link-rel-dns-prefetch",
+    "title": "Resource Hints: dns-prefetch",
+    "keywords": [
+      "dns",
+      "dom",
+      "hints",
+      "link",
+      "prefetch",
+      "rel",
+      "resource"
+    ]
+  },
+  {
+    "id": "link-rel-modulepreload",
+    "title": "Resource Hints: modulepreload",
+    "keywords": [
+      "dom",
+      "hints",
+      "link",
+      "modulepreload",
+      "rel",
+      "resource"
+    ]
+  },
+  {
+    "id": "link-rel-preconnect",
+    "title": "Resource Hints: preconnect",
+    "keywords": [
+      "dom",
+      "hints",
+      "link",
+      "preconnect",
+      "rel",
+      "resource",
+      "resource hints"
+    ]
+  },
+  {
+    "id": "link-rel-prefetch",
+    "title": "Resource Hints: prefetch",
+    "keywords": [
+      "dom",
+      "hints",
+      "link",
+      "prefetch",
+      "rel",
+      "resource"
+    ]
+  },
+  {
+    "id": "link-rel-preload",
+    "title": "Resource Hints: preload",
+    "keywords": [
+      "dom",
+      "hints",
+      "link",
+      "preload",
+      "rel",
+      "resource"
+    ]
+  },
+  {
+    "id": "link-rel-prerender",
+    "title": "Resource Hints: prerender",
+    "keywords": [
+      "dom",
+      "hints",
+      "link",
+      "prerender",
+      "rel",
+      "resource"
+    ]
+  },
+  {
+    "id": "loading-lazy-attr",
+    "title": "Lazy loading via attribute for images & iframes",
+    "keywords": [
+      "attr",
+      "attribute",
+      "auto",
+      "eager",
+      "for",
+      "html5",
+      "iframe",
+      "iframe loading",
+      "iframes",
+      "image",
+      "images",
+      "img",
+      "lazily",
+      "lazy",
+      "lazy image loading",
+      "lazy img loading",
+      "lazy-loading",
+      "lazyload",
+      "lazyloading",
+      "loading",
+      "loading=\"auto\"",
+      "loading=\"eager\"",
+      "loading=\"lazy\"",
+      "native",
+      "native lazyload",
+      "via"
+    ]
+  },
+  {
+    "id": "loading-lazy-media",
+    "title": "Lazy loading via attribute for video & audio",
+    "keywords": [
+      "attribute",
+      "audio",
+      "eager",
+      "for",
+      "html5",
+      "lazy",
+      "lazy audio",
+      "lazy media loading",
+      "lazy video",
+      "lazy-loading",
+      "lazyload",
+      "lazyloading",
+      "loading",
+      "loading=\"eager\"",
+      "loading=\"lazy\"",
+      "media",
+      "native",
+      "native lazyload",
+      "via",
+      "video"
+    ]
+  },
+  {
+    "id": "localecompare",
+    "title": "localeCompare()",
+    "keywords": [
+      "js",
+      "localecompare"
+    ]
+  },
+  {
+    "id": "magnetometer",
+    "title": "Magnetometer",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "magnetometer"
+    ]
+  },
+  {
+    "id": "matchesselector",
+    "title": "matches() DOM method",
+    "keywords": [
+      "api",
+      "dom",
+      "js",
+      "js api",
+      "matches",
+      "matchesselector",
+      "method"
+    ]
+  },
+  {
+    "id": "matchmedia",
+    "title": "matchMedia",
+    "keywords": [
+      "api",
+      "dom",
+      "js",
+      "js api",
+      "matchmedia",
+      "mediaquerylist"
+    ]
+  },
+  {
+    "id": "mathml",
+    "title": "MathML",
+    "keywords": [
+      "mathml",
+      "other"
+    ]
+  },
+  {
+    "id": "maxlength",
+    "title": "maxlength attribute for input and textarea elements",
+    "keywords": [
+      "and",
+      "api",
+      "attribute",
+      "dom",
+      "elements",
+      "for",
+      "html5",
+      "input",
+      "js",
+      "js api",
+      "length",
+      "long",
+      "maximum",
+      "maxlength",
+      "state",
+      "textarea",
+      "too",
+      "validity"
+    ]
+  },
+  {
+    "id": "media-fragments",
+    "title": "Media Fragments",
+    "keywords": [
+      "dom",
+      "fragments",
+      "media"
+    ]
+  },
+  {
+    "id": "mediacapture-fromelement",
+    "title": "Media Capture from DOM Elements API",
+    "keywords": [
+      "api",
+      "canvas",
+      "canvas.capturestream",
+      "capture",
+      "capturestream",
+      "dom",
+      "elements",
+      "from",
+      "fromelement",
+      "js",
+      "js api",
+      "media",
+      "mediacapture",
+      "mediastream"
+    ]
+  },
+  {
+    "id": "mediarecorder",
+    "title": "MediaRecorder API",
+    "keywords": [
+      "api",
+      "dom",
+      "js",
+      "js api",
+      "mediarecorder"
+    ]
+  },
+  {
+    "id": "mediasource",
+    "title": "Media Source Extensions",
+    "keywords": [
+      "api",
+      "dom",
+      "endofstream",
+      "extensions",
+      "js",
+      "js api",
+      "media",
+      "mediasource",
+      "mse",
+      "source",
+      "sourcebuffer"
+    ]
+  },
+  {
+    "id": "menu",
+    "title": "Context menu item (menuitem element)",
+    "keywords": [
+      "<menuitem>",
+      "command",
+      "context",
+      "contextmenu",
+      "element",
+      "html5",
+      "item",
+      "menu",
+      "menuitem"
+    ]
+  },
+  {
+    "id": "meta-theme-color",
+    "title": "theme-color Meta Tag",
+    "keywords": [
+      "color",
+      "dom",
+      "meta",
+      "other",
+      "tag",
+      "theme"
+    ]
+  },
+  {
+    "id": "meter",
+    "title": "meter element",
+    "keywords": [
+      "<meter>",
+      "element",
+      "html5",
+      "meter"
+    ]
+  },
+  {
+    "id": "midi",
+    "title": "Web MIDI API",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "midi",
+      "web",
+      "webmidi"
+    ]
+  },
+  {
+    "id": "minmaxwh",
+    "title": "CSS min/max-width/height",
+    "keywords": [
+      "css",
+      "css2",
+      "height",
+      "max",
+      "max-height",
+      "max-width",
+      "min",
+      "min-height",
+      "min-width",
+      "minmaxwh",
+      "width"
+    ]
+  },
+  {
+    "id": "mp3",
+    "title": "MP3 audio format",
+    "keywords": [
+      "audio",
+      "format",
+      "mp3",
+      "mpeg",
+      "other"
+    ]
+  },
+  {
+    "id": "mpeg-dash",
+    "title": "Dynamic Adaptive Streaming over HTTP (MPEG-DASH)",
+    "keywords": [
+      "adaptive",
+      "dash",
+      "dynamic",
+      "http",
+      "mpeg",
+      "other",
+      "over",
+      "streaming"
+    ]
+  },
+  {
+    "id": "mpeg4",
+    "title": "MPEG-4/H.264 video format",
+    "keywords": [
+      "264",
+      "4",
+      "aac",
+      "avc",
+      "format",
+      "h",
+      "h264",
+      "mov",
+      "mp4",
+      "mpeg",
+      "mpeg4",
+      "mpv",
+      "other",
+      "video"
+    ]
+  },
+  {
+    "id": "multibackgrounds",
+    "title": "CSS3 Multiple backgrounds",
+    "keywords": [
+      "backgrounds",
+      "css3",
+      "multibackgrounds",
+      "multiple"
+    ]
+  },
+  {
+    "id": "multicolumn",
+    "title": "CSS3 Multiple column layout",
+    "keywords": [
+      "after",
+      "before",
+      "break",
+      "break-after",
+      "break-before",
+      "break-inside",
+      "column",
+      "column-count",
+      "column-fill",
+      "column-gap",
+      "column-rule",
+      "column-rule-type",
+      "column-span",
+      "column-width",
+      "count",
+      "css3",
+      "fill",
+      "gap",
+      "inside",
+      "layout",
+      "multicolumn",
+      "multiple",
+      "rule",
+      "span",
+      "type",
+      "width"
+    ]
+  },
+  {
+    "id": "mutation-events",
+    "title": "Mutation events",
+    "keywords": [
+      "dom",
+      "domattrmodified",
+      "domcharacterdatamodified",
+      "domnodeinserted",
+      "domnodeinsertedintodocument",
+      "domnoderemoved",
+      "domnoderemovedfromdocument",
+      "domsubtreemodified",
+      "events",
+      "mutation"
+    ]
+  },
+  {
+    "id": "mutationobserver",
+    "title": "Mutation Observer",
+    "keywords": [
+      "api",
+      "dom",
+      "js",
+      "js api",
+      "mutation",
+      "mutationobserver",
+      "observer"
+    ]
+  },
+  {
+    "id": "namevalue-storage",
+    "title": "Web Storage - name/value pairs",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "local",
+      "local storage",
+      "name",
+      "namevalue",
+      "pairs",
+      "storage",
+      "value",
+      "web",
+      "webstorage"
+    ]
+  },
+  {
+    "id": "native-filesystem-api",
+    "title": "File System Access API",
+    "keywords": [
+      "access",
+      "api",
+      "choosefilesystementries",
+      "file",
+      "file system",
+      "file system api",
+      "filesystem",
+      "getfile",
+      "js",
+      "js api",
+      "native",
+      "system"
+    ]
+  },
+  {
+    "id": "nav-timing",
+    "title": "Navigation Timing API",
+    "keywords": [
+      "api",
+      "dom",
+      "js",
+      "js api",
+      "nav",
+      "navigation",
+      "performance",
+      "performance.timing",
+      "performancenavigation",
+      "timing"
+    ]
+  },
+  {
+    "id": "netinfo",
+    "title": "Network Information API",
+    "keywords": [
+      "api",
+      "dom",
+      "information",
+      "js",
+      "js api",
+      "netinfo",
+      "network",
+      "network information",
+      "performance"
+    ]
+  },
+  {
+    "id": "notifications",
+    "title": "Web Notifications",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "notifications",
+      "web"
+    ]
+  },
+  {
+    "id": "object-entries",
+    "title": "Object.entries",
+    "keywords": [
+      "2017",
+      "ecmascript",
+      "ecmascript 2017",
+      "entries",
+      "javascript",
+      "js",
+      "object"
+    ]
+  },
+  {
+    "id": "object-fit",
+    "title": "CSS3 object-fit/object-position",
+    "keywords": [
+      "css3",
+      "fit",
+      "object",
+      "objectfit",
+      "objectposition",
+      "position"
+    ]
+  },
+  {
+    "id": "object-observe",
+    "title": "Object.observe data binding",
+    "keywords": [
+      "binding",
+      "data",
+      "js",
+      "object",
+      "observe"
+    ]
+  },
+  {
+    "id": "object-values",
+    "title": "Object.values method",
+    "keywords": [
+      "js",
+      "method",
+      "object",
+      "values"
+    ]
+  },
+  {
+    "id": "objectrtc",
+    "title": "Object RTC (ORTC) API for WebRTC",
+    "keywords": [
+      "api",
+      "for",
+      "js",
+      "js api",
+      "object",
+      "objectrtc",
+      "ortc",
+      "real",
+      "real time",
+      "rtc",
+      "rtcicegatherer",
+      "rtcicetransport",
+      "rtcrtpreceiver",
+      "rtcrtpsender",
+      "time",
+      "video",
+      "webcam",
+      "webrtc"
+    ]
+  },
+  {
+    "id": "offline-apps",
+    "title": "Offline web applications",
+    "keywords": [
+      "app",
+      "app cache",
+      "appcache",
+      "application",
+      "application cache",
+      "applicationcache",
+      "applications",
+      "apps",
+      "cache",
+      "html5",
+      "offline",
+      "online",
+      "web"
+    ]
+  },
+  {
+    "id": "offscreencanvas",
+    "title": "OffscreenCanvas",
+    "keywords": [
+      "html5",
+      "offscreencanvas"
+    ]
+  },
+  {
+    "id": "ogg-vorbis",
+    "title": "Ogg Vorbis audio format",
+    "keywords": [
+      ".oga",
+      ".ogg",
+      "application",
+      "application/ogg",
+      "audio",
+      "audio/ogg",
+      "format",
+      "oga",
+      "ogg",
+      "other",
+      "vorbis"
+    ]
+  },
+  {
+    "id": "ogv",
+    "title": "Ogg/Theora video format",
+    "keywords": [
+      "format",
+      "ogg",
+      "ogv",
+      "other",
+      "theora",
+      "video",
+      "xiph"
+    ]
+  },
+  {
+    "id": "ol-reversed",
+    "title": "Reversed attribute of ordered lists",
+    "keywords": [
+      "attribute",
+      "html5",
+      "list",
+      "lists",
+      "of",
+      "ol",
+      "ordered",
+      "reversed"
+    ]
+  },
+  {
+    "id": "once-event-listener",
+    "title": "\"once\" event listener option",
+    "keywords": [
+      "dom",
+      "event",
+      "listener",
+      "once",
+      "option",
+      "options"
+    ]
+  },
+  {
+    "id": "online-status",
+    "title": "Online/offline status",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "offline",
+      "online",
+      "status"
+    ]
+  },
+  {
+    "id": "opus",
+    "title": "Opus audio format",
+    "keywords": [
+      "audio",
+      "format",
+      "opus",
+      "other"
+    ]
+  },
+  {
+    "id": "orientation-sensor",
+    "title": "Orientation Sensor",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "orientation",
+      "sensor"
+    ]
+  },
+  {
+    "id": "outline",
+    "title": "CSS outline properties",
+    "keywords": [
+      "-moz-outline",
+      "color",
+      "css",
+      "css3",
+      "moz",
+      "outline",
+      "outline-color",
+      "outline-radius",
+      "outline-style",
+      "outline-width",
+      "properties",
+      "radius",
+      "style",
+      "width"
+    ]
+  },
+  {
+    "id": "pad-start-end",
+    "title": "String.prototype.padStart(), String.prototype.padEnd()",
+    "keywords": [
+      "end",
+      "js",
+      "pad",
+      "pad end",
+      "pad start",
+      "padend",
+      "padstart",
+      "prototype",
+      "start",
+      "string"
+    ]
+  },
+  {
+    "id": "page-transition-events",
+    "title": "PageTransitionEvent",
+    "keywords": [
+      "api",
+      "back",
+      "bfcache",
+      "cache",
+      "event",
+      "events",
+      "forward",
+      "hide",
+      "history",
+      "html5",
+      "js",
+      "js api",
+      "page",
+      "pagetransitionevent",
+      "persisted",
+      "show",
+      "transition"
+    ]
+  },
+  {
+    "id": "pagevisibility",
+    "title": "Page Visibility",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "onvisibilitychange",
+      "page",
+      "pagevisibility",
+      "visibility",
+      "visibilitychange",
+      "visibilitystate"
+    ]
+  },
+  {
+    "id": "passive-event-listener",
+    "title": "Passive event listeners",
+    "keywords": [
+      "dom",
+      "event",
+      "listener",
+      "listeners",
+      "options",
+      "passive"
+    ]
+  },
+  {
+    "id": "passkeys",
+    "title": "Passkeys",
+    "keywords": [
+      "api",
+      "authentication",
+      "ctap",
+      "ctap2",
+      "fido",
+      "fido2",
+      "js",
+      "js api",
+      "passkeys",
+      "security",
+      "web",
+      "web authentication",
+      "webauth"
+    ]
+  },
+  {
+    "id": "path2d",
+    "title": "Path2D",
+    "keywords": [
+      "addpath",
+      "canvas",
+      "html5",
+      "path2d"
+    ]
+  },
+  {
+    "id": "payment-request",
+    "title": "Payment Request API",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "payment",
+      "paymentrequest",
+      "payments",
+      "request",
+      "web",
+      "web payments"
+    ]
+  },
+  {
+    "id": "pdf-viewer",
+    "title": "Built-in PDF viewer",
+    "keywords": [
+      "built",
+      "in",
+      "other",
+      "pdf",
+      "pdf reader",
+      "reader",
+      "viewer"
+    ]
+  },
+  {
+    "id": "permissions-api",
+    "title": "Permissions API",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "navigator",
+      "navigator.permissions",
+      "permissions",
+      "security",
+      "web",
+      "web-permissions"
+    ]
+  },
+  {
+    "id": "permissions-policy",
+    "title": "Permissions Policy",
+    "keywords": [
+      "allow",
+      "allow attribute",
+      "api",
+      "attribute",
+      "attribute allow",
+      "document",
+      "document.featurepolicy",
+      "document.permissionspolicy",
+      "document.policy",
+      "feature",
+      "feature policy",
+      "feature-policy",
+      "featurepolicy",
+      "header",
+      "js",
+      "js api",
+      "other",
+      "permissions",
+      "permissions-policy",
+      "permissionspolicy",
+      "policy",
+      "security"
+    ]
+  },
+  {
+    "id": "picture",
+    "title": "Picture element",
+    "keywords": [
+      "<picture>",
+      "dom",
+      "element",
+      "html5",
+      "picture"
+    ]
+  },
+  {
+    "id": "picture-in-picture",
+    "title": "Picture-in-Picture",
+    "keywords": [
+      "api",
+      "auto",
+      "autopictureinpicture",
+      "disable",
+      "disablepictureinpicture",
+      "in",
+      "js",
+      "js api",
+      "out",
+      "picture",
+      "picture in picture",
+      "picture-in-picture",
+      "pictureinpicture",
+      "pip",
+      "pop",
+      "pop-out",
+      "pseudo"
+    ]
+  },
+  {
+    "id": "ping",
+    "title": "Ping attribute",
+    "keywords": [
+      "a",
+      "a.ping",
+      "a[ping]",
+      "attribute",
+      "html5",
+      "ping",
+      "ping attribute"
+    ]
+  },
+  {
+    "id": "png-alpha",
+    "title": "PNG alpha transparency",
+    "keywords": [
+      "alpha",
+      "png",
+      "transparency"
+    ]
+  },
+  {
+    "id": "pointer",
+    "title": "Pointer events",
+    "keywords": [
+      "api",
+      "css",
+      "dom",
+      "events",
+      "js",
+      "js api",
+      "pointer",
+      "pointercancel",
+      "pointerdown",
+      "pointerenter",
+      "pointerleave",
+      "pointermove",
+      "pointerout",
+      "pointerover",
+      "pointerup"
+    ]
+  },
+  {
+    "id": "pointer-events",
+    "title": "CSS pointer-events (for HTML)",
+    "keywords": [
+      "css",
+      "css3",
+      "events",
+      "for",
+      "html",
+      "none",
+      "pointer",
+      "pointer-events:none",
+      "pointerevents"
+    ]
+  },
+  {
+    "id": "pointerlock",
+    "title": "Pointer Lock API",
+    "keywords": [
+      "api",
+      "exitpointerlock",
+      "js",
+      "js api",
+      "lock",
+      "mouse",
+      "mouse lock",
+      "mouselock",
+      "movementx",
+      "movementy",
+      "pointer",
+      "pointer lock",
+      "pointerlock",
+      "pointerlockelement",
+      "requestpointerlock"
+    ]
+  },
+  {
+    "id": "portals",
+    "title": "Portals",
+    "keywords": [
+      "activate",
+      "api",
+      "element",
+      "html5",
+      "htmlportalelement",
+      "js",
+      "js api",
+      "onportalactivate",
+      "portal",
+      "portal api",
+      "portal element",
+      "portal.activate",
+      "portals",
+      "portals api"
+    ]
+  },
+  {
+    "id": "prefers-color-scheme",
+    "title": "prefers-color-scheme media query",
+    "keywords": [
+      "color",
+      "css",
+      "dark",
+      "interface",
+      "media",
+      "prefers",
+      "prefers-dark-interface",
+      "query",
+      "scheme"
+    ]
+  },
+  {
+    "id": "prefers-reduced-motion",
+    "title": "prefers-reduced-motion media query",
+    "keywords": [
+      "css",
+      "media",
+      "motion",
+      "no",
+      "no-preference",
+      "preference",
+      "prefers",
+      "query",
+      "reduced"
+    ]
+  },
+  {
+    "id": "progress",
+    "title": "progress element",
+    "keywords": [
+      "#progressmeter",
+      "<progress>",
+      "element",
+      "html5",
+      "progress",
+      "progressmeter"
+    ]
+  },
+  {
+    "id": "promise-finally",
+    "title": "Promise.prototype.finally",
+    "keywords": [
+      "finally",
+      "js",
+      "promise",
+      "promise.finally",
+      "prototype"
+    ]
+  },
+  {
+    "id": "promises",
+    "title": "Promises",
+    "keywords": [
+      "futures",
+      "js",
+      "promise",
+      "promises"
+    ]
+  },
+  {
+    "id": "proximity",
+    "title": "Proximity API",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "proximity"
+    ]
+  },
+  {
+    "id": "proxy",
+    "title": "Proxy object",
+    "keywords": [
+      "es2015",
+      "es6",
+      "host",
+      "js",
+      "logging",
+      "meta",
+      "object",
+      "proxies",
+      "proxy",
+      "traps",
+      "virtual"
+    ]
+  },
+  {
+    "id": "publickeypinning",
+    "title": "HTTP Public Key Pinning",
+    "keywords": [
+      "header",
+      "hpkp",
+      "http",
+      "key",
+      "pinning",
+      "pkp",
+      "public",
+      "publickeypinning",
+      "security"
+    ]
+  },
+  {
+    "id": "push-api",
+    "title": "Push API",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "notifications",
+      "push",
+      "push notifications",
+      "web",
+      "web push"
+    ]
+  },
+  {
+    "id": "queryselector",
+    "title": "querySelector/querySelectorAll",
+    "keywords": [
+      "api",
+      "document",
+      "document.queryselector",
+      "dom",
+      "query",
+      "queryselector",
+      "queryselectorall",
+      "selectors",
+      "selectors api"
+    ]
+  },
+  {
+    "id": "readonly-attr",
+    "title": "readonly attribute of input and textarea elements",
+    "keywords": [
+      "and",
+      "attr",
+      "attribute",
+      "dom",
+      "edit",
+      "editable",
+      "elements",
+      "html5",
+      "input",
+      "of",
+      "read",
+      "readonly",
+      "textarea"
+    ]
+  },
+  {
+    "id": "referrer-policy",
+    "title": "Referrer Policy",
+    "keywords": [
+      "meta",
+      "policy",
+      "referer",
+      "referrer",
+      "security"
+    ]
+  },
+  {
+    "id": "registerprotocolhandler",
+    "title": "Custom protocol handling",
+    "keywords": [
+      "custom",
+      "handling",
+      "html5",
+      "protocol",
+      "registerprotocolhandler"
+    ]
+  },
+  {
+    "id": "rel-noopener",
+    "title": "rel=noopener",
+    "keywords": [
+      "dom",
+      "html5",
+      "link",
+      "noopener",
+      "rel",
+      "relation",
+      "security"
+    ]
+  },
+  {
+    "id": "rel-noreferrer",
+    "title": "Link type \"noreferrer\"",
+    "keywords": [
+      "dom",
+      "html5",
+      "link",
+      "noreferrer",
+      "rel",
+      "security",
+      "type"
+    ]
+  },
+  {
+    "id": "rellist",
+    "title": "relList (DOMTokenList)",
+    "keywords": [
+      "dom",
+      "domtokenlist",
+      "html5",
+      "rellist"
+    ]
+  },
+  {
+    "id": "rem",
+    "title": "rem (root em) units",
+    "keywords": [
+      "css3",
+      "em",
+      "rem",
+      "rems",
+      "root",
+      "units"
+    ]
+  },
+  {
+    "id": "requestanimationframe",
+    "title": "requestAnimationFrame",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "requestanimationframe"
+    ]
+  },
+  {
+    "id": "requestidlecallback",
+    "title": "requestIdleCallback",
+    "keywords": [
+      "api",
+      "idle",
+      "js",
+      "js api",
+      "request",
+      "requestidlecallback"
+    ]
+  },
+  {
+    "id": "resizeobserver",
+    "title": "Resize Observer",
+    "keywords": [
+      "api",
+      "dom",
+      "events",
+      "js",
+      "js api",
+      "observer",
+      "onresize",
+      "resize",
+      "resize events",
+      "resizeobserver"
+    ]
+  },
+  {
+    "id": "resource-timing",
+    "title": "Resource Timing (basic support)",
+    "keywords": [
+      "api",
+      "basic",
+      "js",
+      "js api",
+      "performance",
+      "resource",
+      "support",
+      "testing",
+      "timing"
+    ]
+  },
+  {
+    "id": "rest-parameters",
+    "title": "Rest parameters",
+    "keywords": [
+      "es6",
+      "javascript",
+      "js",
+      "parameters",
+      "rest"
+    ]
+  },
+  {
+    "id": "rtcpeerconnection",
+    "title": "WebRTC Peer-to-peer connections",
+    "keywords": [
+      "api",
+      "connections",
+      "foo",
+      "js",
+      "js api",
+      "peer",
+      "rtcpeerconnection",
+      "to",
+      "webrtc"
+    ]
+  },
+  {
+    "id": "ruby",
+    "title": "Ruby annotation",
+    "keywords": [
+      "align",
+      "annotation",
+      "base",
+      "html5",
+      "merge",
+      "position",
+      "ruby",
+      "ruby-align",
+      "ruby-base",
+      "ruby-merge",
+      "ruby-position",
+      "ruby-text",
+      "text"
+    ]
+  },
+  {
+    "id": "run-in",
+    "title": "display: run-in",
+    "keywords": [
+      "css",
+      "css2",
+      "display",
+      "in",
+      "run",
+      "run-in"
+    ]
+  },
+  {
+    "id": "same-site-cookie-attribute",
+    "title": "'SameSite' cookie attribute",
+    "keywords": [
+      "attribute",
+      "cookie",
+      "cookies",
+      "csrf",
+      "same",
+      "samesite",
+      "security",
+      "site"
+    ]
+  },
+  {
+    "id": "screen-orientation",
+    "title": "Screen Orientation",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "lockorientation",
+      "orientation",
+      "screen",
+      "unlockorientation"
+    ]
+  },
+  {
+    "id": "script-async",
+    "title": "async attribute for external scripts",
+    "keywords": [
+      "async",
+      "attribute",
+      "dom",
+      "external",
+      "for",
+      "html5",
+      "script",
+      "scripts"
+    ]
+  },
+  {
+    "id": "script-defer",
+    "title": "defer attribute for external scripts",
+    "keywords": [
+      "attribute",
+      "defer",
+      "dom",
+      "external",
+      "for",
+      "html5",
+      "script",
+      "scripts"
+    ]
+  },
+  {
+    "id": "scrollintoview",
+    "title": "scrollIntoView",
+    "keywords": [
+      "api",
+      "dom",
+      "js",
+      "js api",
+      "scrollintoview"
+    ]
+  },
+  {
+    "id": "scrollintoviewifneeded",
+    "title": "Element.scrollIntoViewIfNeeded()",
+    "keywords": [
+      "api",
+      "dom",
+      "element",
+      "js",
+      "js api",
+      "scroll",
+      "scrollintoviewifneeded"
+    ]
+  },
+  {
+    "id": "sdch",
+    "title": "SDCH Accept-Encoding/Content-Encoding",
+    "keywords": [
+      "accept",
+      "compression",
+      "content",
+      "encoding",
+      "http",
+      "other",
+      "sdch"
+    ]
+  },
+  {
+    "id": "selection-api",
+    "title": "Selection API",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "selection"
+    ]
+  },
+  {
+    "id": "server-timing",
+    "title": "Server Timing",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "performance",
+      "performance.timing",
+      "performancenavigation",
+      "performanceservertiming",
+      "resource",
+      "server",
+      "timing"
+    ]
+  },
+  {
+    "id": "serviceworkers",
+    "title": "Service Workers",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "service",
+      "serviceworkers",
+      "workers"
+    ]
+  },
+  {
+    "id": "setimmediate",
+    "title": "Efficient Script Yielding: setImmediate()",
+    "keywords": [
+      "api",
+      "clearimmediate",
+      "efficient",
+      "js",
+      "js api",
+      "performance",
+      "script",
+      "setimmediate",
+      "settimeout",
+      "yielding"
+    ]
+  },
+  {
+    "id": "shadowdom",
+    "title": "Shadow DOM (deprecated V0 spec)",
+    "keywords": [
+      "deprecated",
+      "dom",
+      "shadow",
+      "shadowdom",
+      "spec",
+      "v0"
+    ]
+  },
+  {
+    "id": "shadowdomv1",
+    "title": "Shadow DOM (V1)",
+    "keywords": [
+      "attachshadow",
+      "dom",
+      "shadow",
+      "shadow dom",
+      "shadowdomv1",
+      "v1",
+      "webcomponents"
+    ]
+  },
+  {
+    "id": "sharedarraybuffer",
+    "title": "Shared Array Buffer",
+    "keywords": [
+      "array",
+      "buffer",
+      "js",
+      "shared",
+      "sharedarraybuffer"
+    ]
+  },
+  {
+    "id": "sharedworkers",
+    "title": "Shared Web Workers",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "shared",
+      "shared worker",
+      "sharedworkers",
+      "web",
+      "worker",
+      "workers"
+    ]
+  },
+  {
+    "id": "sni",
+    "title": "Server Name Indication",
+    "keywords": [
+      "indication",
+      "name",
+      "security",
+      "server",
+      "sni"
+    ]
+  },
+  {
+    "id": "spdy",
+    "title": "SPDY protocol",
+    "keywords": [
+      "other",
+      "protocol",
+      "spdy"
+    ]
+  },
+  {
+    "id": "speech-recognition",
+    "title": "Speech Recognition API",
+    "keywords": [
+      "#web-speech",
+      "api",
+      "asr",
+      "js",
+      "js api",
+      "recognition",
+      "speech",
+      "speechrecognition",
+      "web"
+    ]
+  },
+  {
+    "id": "speech-synthesis",
+    "title": "Speech Synthesis API",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "speech",
+      "speechsynthesis",
+      "speechsynthesisutterance",
+      "synthesis",
+      "tts"
+    ]
+  },
+  {
+    "id": "spellcheck-attribute",
+    "title": "Spellcheck attribute",
+    "keywords": [
+      "attribute",
+      "html5",
+      "spellcheck",
+      "spelling"
+    ]
+  },
+  {
+    "id": "sql-storage",
+    "title": "Web SQL Database",
+    "keywords": [
+      "api",
+      "database",
+      "db",
+      "db-storage",
+      "js",
+      "js api",
+      "sql",
+      "storage",
+      "web",
+      "websql"
+    ]
+  },
+  {
+    "id": "srcset",
+    "title": "Srcset and sizes attributes",
+    "keywords": [
+      "and",
+      "attribute",
+      "attributes",
+      "html5",
+      "sizes",
+      "srcset",
+      "srcset attribute"
+    ]
+  },
+  {
+    "id": "stream",
+    "title": "getUserMedia/Stream API",
+    "keywords": [
+      "api",
+      "camera",
+      "capture",
+      "device",
+      "getusermedia",
+      "js",
+      "js api",
+      "media",
+      "media capture api",
+      "media stream",
+      "mediastream",
+      "stream"
+    ]
+  },
+  {
+    "id": "streams",
+    "title": "Streams",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "readablestream",
+      "streams",
+      "writablestream"
+    ]
+  },
+  {
+    "id": "stricttransportsecurity",
+    "title": "Strict Transport Security",
+    "keywords": [
+      "header",
+      "hsts",
+      "security",
+      "strict",
+      "stricttransportsecurity",
+      "sts",
+      "transport"
+    ]
+  },
+  {
+    "id": "style-scoped",
+    "title": "Scoped attribute",
+    "keywords": [
+      "attribute",
+      "css",
+      "html5",
+      "scoped",
+      "style"
+    ]
+  },
+  {
+    "id": "subresource-integrity",
+    "title": "Subresource Integrity",
+    "keywords": [
+      "hash",
+      "html5",
+      "integrity",
+      "security",
+      "sri",
+      "subresource"
+    ]
+  },
+  {
+    "id": "svg",
+    "title": "SVG (basic support)",
+    "keywords": [
+      ".svg",
+      "basic",
+      "circle",
+      "dasharray",
+      "dashoffset",
+      "defs",
+      "ellipse",
+      "line",
+      "opacity",
+      "polygon",
+      "polyline",
+      "rect",
+      "stroke",
+      "stroke-dasharray",
+      "stroke-dashoffset",
+      "stroke-opacity",
+      "support",
+      "svg",
+      "symbol",
+      "textpath",
+      "tref",
+      "tspan",
+      "use"
+    ]
+  },
+  {
+    "id": "svg-css",
+    "title": "SVG in CSS backgrounds",
+    "keywords": [
+      "backgrounds",
+      "css",
+      "css-svg",
+      "css3",
+      "in",
+      "svg",
+      "svg-in-css",
+      "svgincss"
+    ]
+  },
+  {
+    "id": "svg-filters",
+    "title": "SVG filters",
+    "keywords": [
+      "filters",
+      "svg"
+    ]
+  },
+  {
+    "id": "svg-fonts",
+    "title": "SVG fonts",
+    "keywords": [
+      "fonts",
+      "svg"
+    ]
+  },
+  {
+    "id": "svg-fragment",
+    "title": "SVG fragment identifiers",
+    "keywords": [
+      "fragment",
+      "fragments",
+      "identifiers",
+      "sprite",
+      "svg",
+      "use"
+    ]
+  },
+  {
+    "id": "svg-html",
+    "title": "SVG effects for HTML",
+    "keywords": [
+      "effects",
+      "for",
+      "html",
+      "svg"
+    ]
+  },
+  {
+    "id": "svg-html5",
+    "title": "Inline SVG in HTML5",
+    "keywords": [
+      "html5",
+      "in",
+      "inline",
+      "svg"
+    ]
+  },
+  {
+    "id": "svg-img",
+    "title": "SVG in HTML img element",
+    "keywords": [
+      "as",
+      "element",
+      "html",
+      "img",
+      "in",
+      "svg",
+      "svg-as-img",
+      "svg-in-img"
+    ]
+  },
+  {
+    "id": "svg-smil",
+    "title": "SVG SMIL animation",
+    "keywords": [
+      "animation",
+      "smil",
+      "svg",
+      "svg animation"
+    ]
+  },
+  {
+    "id": "sxg",
+    "title": "Signed HTTP Exchanges (SXG)",
+    "keywords": [
+      "amp",
+      "exchanges",
+      "http",
+      "other",
+      "signed",
+      "sxg",
+      "webpackage"
+    ]
+  },
+  {
+    "id": "tabindex-attr",
+    "title": "tabindex global attribute",
+    "keywords": [
+      "attr",
+      "attribute",
+      "global",
+      "html5",
+      "tab",
+      "tabindex"
+    ]
+  },
+  {
+    "id": "template",
+    "title": "HTML templates",
+    "keywords": [
+      "<template>",
+      "dom",
+      "html",
+      "html5",
+      "template",
+      "templates",
+      "webcomponents"
+    ]
+  },
+  {
+    "id": "template-literals",
+    "title": "ES6 Template Literals (Template Strings)",
+    "keywords": [
+      "``",
+      "es6",
+      "js",
+      "literals",
+      "multiline",
+      "strings",
+      "template",
+      "templateliterals"
+    ]
+  },
+  {
+    "id": "temporal",
+    "title": "Temporal",
+    "keywords": [
+      "api",
+      "date",
+      "js",
+      "js api",
+      "temporal",
+      "time"
+    ]
+  },
+  {
+    "id": "text-decoration",
+    "title": "text-decoration styling",
+    "keywords": [
+      "color",
+      "css3",
+      "decoration",
+      "line",
+      "skip",
+      "style",
+      "styling",
+      "text",
+      "text-decoration-color",
+      "text-decoration-line",
+      "text-decoration-skip",
+      "text-decoration-style"
+    ]
+  },
+  {
+    "id": "text-emphasis",
+    "title": "text-emphasis styling",
+    "keywords": [
+      "color",
+      "css3",
+      "emphasis",
+      "position",
+      "style",
+      "styling",
+      "text",
+      "text-emphasis",
+      "text-emphasis-color",
+      "text-emphasis-position",
+      "text-emphasis-style"
+    ]
+  },
+  {
+    "id": "text-overflow",
+    "title": "CSS3 Text-overflow",
+    "keywords": [
+      "css3",
+      "ellipsis",
+      "overflow",
+      "text",
+      "textoverflow"
+    ]
+  },
+  {
+    "id": "text-size-adjust",
+    "title": "CSS text-size-adjust",
+    "keywords": [
+      "adjust",
+      "css",
+      "css3",
+      "size",
+      "text"
+    ]
+  },
+  {
+    "id": "text-stroke",
+    "title": "CSS text-stroke and text-fill",
+    "keywords": [
+      "and",
+      "color",
+      "css",
+      "fill",
+      "outline",
+      "stroke",
+      "stroke-color",
+      "stroke-width",
+      "text",
+      "text-fill-color",
+      "text-outline",
+      "textstroke",
+      "width"
+    ]
+  },
+  {
+    "id": "textcontent",
+    "title": "Node.textContent",
+    "keywords": [
+      "dom",
+      "node",
+      "textcontent"
+    ]
+  },
+  {
+    "id": "textencoder",
+    "title": "TextEncoder & TextDecoder",
+    "keywords": [
+      "8",
+      "api",
+      "decoder",
+      "decoding",
+      "encoder",
+      "encoding",
+      "js",
+      "js api",
+      "text",
+      "textdecoder",
+      "textencoder",
+      "utf"
+    ]
+  },
+  {
+    "id": "tls1-1",
+    "title": "TLS 1.1",
+    "keywords": [
+      "1",
+      "security",
+      "tls",
+      "tls1"
+    ]
+  },
+  {
+    "id": "tls1-2",
+    "title": "TLS 1.2",
+    "keywords": [
+      "1",
+      "2",
+      "security",
+      "tls",
+      "tls1"
+    ]
+  },
+  {
+    "id": "tls1-3",
+    "title": "TLS 1.3",
+    "keywords": [
+      "1",
+      "3",
+      "security",
+      "tls",
+      "tls1"
+    ]
+  },
+  {
+    "id": "touch",
+    "title": "Touch events",
+    "keywords": [
+      "api",
+      "dom",
+      "events",
+      "js",
+      "js api",
+      "touch",
+      "touchcancel",
+      "touchend",
+      "touchenter",
+      "touchleave",
+      "touchmove",
+      "touchstart"
+    ]
+  },
+  {
+    "id": "transforms2d",
+    "title": "CSS3 2D Transforms",
+    "keywords": [
+      "2d",
+      "css",
+      "css-transforms",
+      "css3",
+      "origin",
+      "rotate",
+      "rotation",
+      "scale",
+      "skew",
+      "transform",
+      "transform-origin",
+      "transform:rotate",
+      "transform:scale",
+      "transform:skew",
+      "transform3d",
+      "transformation",
+      "transforms",
+      "transforms2d",
+      "translate",
+      "translatex",
+      "translatey",
+      "translatez"
+    ]
+  },
+  {
+    "id": "transforms3d",
+    "title": "CSS3 3D Transforms",
+    "keywords": [
+      "3d",
+      "3dtransforms",
+      "backface",
+      "backface visibility",
+      "css",
+      "css 3d",
+      "css3",
+      "origin",
+      "perspective",
+      "rotate3d",
+      "rotatex",
+      "rotatey",
+      "rotatez",
+      "scalez",
+      "style",
+      "transform",
+      "transform-origin",
+      "transform-style",
+      "transforms",
+      "transforms3d",
+      "translate3d",
+      "translatez",
+      "visibility"
+    ]
+  },
+  {
+    "id": "trusted-types",
+    "title": "Trusted Types for DOM manipulation",
+    "keywords": [
+      "api",
+      "dom",
+      "for",
+      "js",
+      "js api",
+      "manipulation",
+      "other",
+      "require",
+      "require-trusted-types-for",
+      "security",
+      "trusted",
+      "trusted-types",
+      "trustedhtml",
+      "trustedtypes",
+      "types"
+    ]
+  },
+  {
+    "id": "ttf",
+    "title": "TTF/OTF - TrueType and OpenType font support",
+    "keywords": [
+      "and",
+      "css3",
+      "font",
+      "opentype",
+      "otf",
+      "support",
+      "truetype",
+      "ttf"
+    ]
+  },
+  {
+    "id": "typedarrays",
+    "title": "Typed Arrays",
+    "keywords": [
+      "arraybuffer",
+      "arrays",
+      "dataview",
+      "es6",
+      "javascript",
+      "js",
+      "typed",
+      "typedarrays"
+    ]
+  },
+  {
+    "id": "u2f",
+    "title": "FIDO U2F API",
+    "keywords": [
+      "api",
+      "fido",
+      "js",
+      "js api",
+      "security",
+      "u2f"
+    ]
+  },
+  {
+    "id": "unhandledrejection",
+    "title": "unhandledrejection/rejectionhandled events",
+    "keywords": [
+      "api",
+      "events",
+      "js",
+      "js api",
+      "onrejectionhandled",
+      "onunhandledrejection",
+      "promiserejectionevent",
+      "rejectionhandled",
+      "unhandledrejection"
+    ]
+  },
+  {
+    "id": "upgradeinsecurerequests",
+    "title": "Upgrade Insecure Requests",
+    "keywords": [
+      "header",
+      "insecure",
+      "requests",
+      "security",
+      "uir",
+      "upgrade",
+      "upgrade-insecure-requests",
+      "upgradeinsecurerequests"
+    ]
+  },
+  {
+    "id": "url",
+    "title": "URL API",
+    "keywords": [
+      "api",
+      "constructor",
+      "js",
+      "js api",
+      "url",
+      "url constructor"
+    ]
+  },
+  {
+    "id": "url-scroll-to-text-fragment",
+    "title": "URL Scroll-To-Text Fragment",
+    "keywords": [
+      "#:~:text=",
+      "fragment",
+      "other",
+      "scroll",
+      "scroll to text",
+      "search",
+      "text",
+      "texttarget",
+      "to",
+      "url"
+    ]
+  },
+  {
+    "id": "urlsearchparams",
+    "title": "URLSearchParams",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "params",
+      "search",
+      "url",
+      "urlsearchparams"
+    ]
+  },
+  {
+    "id": "use-strict",
+    "title": "ECMAScript 5 Strict Mode",
+    "keywords": [
+      "5",
+      "ecmascript",
+      "js",
+      "mode",
+      "strict",
+      "use"
+    ]
+  },
+  {
+    "id": "user-select-none",
+    "title": "CSS user-select: none",
+    "keywords": [
+      "css",
+      "none",
+      "select",
+      "user"
+    ]
+  },
+  {
+    "id": "user-timing",
+    "title": "User Timing API",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "mark",
+      "measure",
+      "performance",
+      "testing",
+      "timing",
+      "user"
+    ]
+  },
+  {
+    "id": "variable-fonts",
+    "title": "Variable fonts",
+    "keywords": [
+      "css",
+      "font",
+      "font variations",
+      "fonts",
+      "variable",
+      "variable fonts",
+      "variation",
+      "variation fonts",
+      "variations"
+    ]
+  },
+  {
+    "id": "vector-effect",
+    "title": "SVG vector-effect: non-scaling-stroke",
+    "keywords": [
+      "effect",
+      "non",
+      "scaling",
+      "stroke",
+      "svg",
+      "vector"
+    ]
+  },
+  {
+    "id": "vibration",
+    "title": "Vibration API",
+    "keywords": [
+      "api",
+      "device",
+      "js",
+      "js api",
+      "mobile",
+      "vibration"
+    ]
+  },
+  {
+    "id": "video",
+    "title": "Video element",
+    "keywords": [
+      "<video>",
+      "element",
+      "html5",
+      "htmlvideoelement",
+      "htmlvideoelement.videoheight",
+      "htmlvideoelement.videowidth",
+      "video",
+      "videoheight",
+      "videowidth"
+    ]
+  },
+  {
+    "id": "videotracks",
+    "title": "Video Tracks",
+    "keywords": [
+      "html5",
+      "media",
+      "multiple",
+      "selection",
+      "tracks",
+      "video",
+      "videotrack",
+      "videotracklist",
+      "videotracks"
+    ]
+  },
+  {
+    "id": "view-transitions",
+    "title": "View Transitions API (single-document)",
+    "keywords": [
+      "api",
+      "css",
+      "document",
+      "js",
+      "js api",
+      "single",
+      "startviewtransition",
+      "transitions",
+      "view",
+      "viewtransition"
+    ]
+  },
+  {
+    "id": "viewport-unit-variants",
+    "title": "Small, Large, and Dynamic viewport units",
+    "keywords": [
+      "and",
+      "css",
+      "dynamic",
+      "large",
+      "small",
+      "unit",
+      "units",
+      "variants",
+      "viewport"
+    ]
+  },
+  {
+    "id": "viewport-units",
+    "title": "Viewport units: vw, vh, vmin, vmax",
+    "keywords": [
+      "100vh",
+      "100vw",
+      "css3",
+      "percentage",
+      "units",
+      "vh",
+      "viewport",
+      "viewport-percentage",
+      "vm",
+      "vmax",
+      "vmin",
+      "vw"
+    ]
+  },
+  {
+    "id": "wai-aria",
+    "title": "WAI-ARIA Accessibility features",
+    "keywords": [
+      "a11y",
+      "accessibility",
+      "accessible",
+      "accessible rich internet applications",
+      "applications",
+      "aria",
+      "aria-controls",
+      "aria-expanded",
+      "aria-haspopup",
+      "aria-hidden",
+      "aria-labelledby",
+      "controls",
+      "expanded",
+      "features",
+      "haspopup",
+      "hidden",
+      "html",
+      "initiative",
+      "internet",
+      "labelledby",
+      "other",
+      "rich",
+      "roles",
+      "wai",
+      "wai-aria",
+      "web",
+      "web accessibility initiative"
+    ]
+  },
+  {
+    "id": "wake-lock",
+    "title": "Screen Wake Lock API",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "lock",
+      "navigator",
+      "navigator.wakelock.request",
+      "request",
+      "screen",
+      "screen-wake-lock",
+      "wake",
+      "wakelock",
+      "wakelocksentinel"
+    ]
+  },
+  {
+    "id": "wasm",
+    "title": "WebAssembly",
+    "keywords": [
+      "assembly",
+      "other",
+      "wasm",
+      "web",
+      "web assembly",
+      "webassembly"
+    ]
+  },
+  {
+    "id": "wasm-bigint",
+    "title": "WebAssembly BigInt to i64 conversion in JS API",
+    "keywords": [
+      "64bit",
+      "api",
+      "bigint",
+      "conversion",
+      "i64",
+      "in",
+      "js",
+      "other",
+      "to",
+      "wasm",
+      "webassembly"
+    ]
+  },
+  {
+    "id": "wasm-bulk-memory",
+    "title": "WebAssembly Bulk Memory Operations",
+    "keywords": [
+      "bulk",
+      "memory",
+      "operations",
+      "other",
+      "passive",
+      "segment",
+      "wasm",
+      "webassembly"
+    ]
+  },
+  {
+    "id": "wasm-multi-value",
+    "title": "WebAssembly Multi-Value",
+    "keywords": [
+      "multi",
+      "other",
+      "value",
+      "wasm",
+      "webassembly"
+    ]
+  },
+  {
+    "id": "wasm-mutable-globals",
+    "title": "WebAssembly Import/Export of Mutable Globals",
+    "keywords": [
+      "export",
+      "globals",
+      "import",
+      "mutable",
+      "of",
+      "other",
+      "wasm",
+      "webassembly"
+    ]
+  },
+  {
+    "id": "wasm-nontrapping-fptoint",
+    "title": "WebAssembly Non-trapping float-to-int Conversion",
+    "keywords": [
+      "conversion",
+      "float",
+      "fptoint",
+      "int",
+      "non",
+      "nontrapping",
+      "other",
+      "saturating",
+      "to",
+      "trapping",
+      "wasm",
+      "webassembly"
+    ]
+  },
+  {
+    "id": "wasm-reference-types",
+    "title": "WebAssembly Reference Types",
+    "keywords": [
+      "externref",
+      "other",
+      "reference",
+      "reftypes",
+      "types",
+      "wasm",
+      "webassembly"
+    ]
+  },
+  {
+    "id": "wasm-signext",
+    "title": "WebAssembly Sign Extension Operators",
+    "keywords": [
+      "extension",
+      "operators",
+      "other",
+      "sign",
+      "signext",
+      "wasm",
+      "webassembly"
+    ]
+  },
+  {
+    "id": "wasm-simd",
+    "title": "WebAssembly SIMD",
+    "keywords": [
+      "other",
+      "simd",
+      "vector",
+      "wasm",
+      "webassembly"
+    ]
+  },
+  {
+    "id": "wasm-threads",
+    "title": "WebAssembly Threads and Atomics",
+    "keywords": [
+      "and",
+      "atomics",
+      "other",
+      "shared",
+      "threads",
+      "wasm",
+      "webassembly"
+    ]
+  },
+  {
+    "id": "wav",
+    "title": "Wav audio format",
+    "keywords": [
+      "audio",
+      "format",
+      "other",
+      "wav"
+    ]
+  },
+  {
+    "id": "wbr-element",
+    "title": "wbr (word break opportunity) element",
+    "keywords": [
+      "break",
+      "element",
+      "html5",
+      "opportunity",
+      "wbr",
+      "word"
+    ]
+  },
+  {
+    "id": "web-animation",
+    "title": "Web Animations API",
+    "keywords": [
+      "animate",
+      "animation",
+      "animations",
+      "api",
+      "currenttime",
+      "dom",
+      "element",
+      "element.animate",
+      "finish",
+      "js",
+      "js api",
+      "pause",
+      "play",
+      "playbackrate",
+      "playstate",
+      "reverse",
+      "starttime",
+      "waapi",
+      "web"
+    ]
+  },
+  {
+    "id": "web-bluetooth",
+    "title": "Web Bluetooth",
+    "keywords": [
+      "api",
+      "ble",
+      "bluetooth",
+      "iot",
+      "js",
+      "js api",
+      "physicalweb",
+      "web",
+      "webbluetooth"
+    ]
+  },
+  {
+    "id": "web-serial",
+    "title": "Web Serial API",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "navigator",
+      "navigator.serial",
+      "serial",
+      "web"
+    ]
+  },
+  {
+    "id": "web-share",
+    "title": "Web Share API",
+    "keywords": [
+      "api",
+      "canshare",
+      "intents",
+      "intents api",
+      "js",
+      "js api",
+      "navigator",
+      "navigator.canshare",
+      "navigator.share",
+      "share",
+      "share api",
+      "web",
+      "web share"
+    ]
+  },
+  {
+    "id": "webauthn",
+    "title": "Web Authentication API",
+    "keywords": [
+      "api",
+      "authentication",
+      "fido",
+      "security",
+      "web",
+      "webauthm",
+      "webauthn"
+    ]
+  },
+  {
+    "id": "webcodecs",
+    "title": "WebCodecs API",
+    "keywords": [
+      "api",
+      "audiodata",
+      "audiodecoder",
+      "audioencoder",
+      "encodedaudiochunk",
+      "encodedvideochunk",
+      "imagedecoder",
+      "imagetrack",
+      "imagetracklist",
+      "js",
+      "js api",
+      "videocolorspace",
+      "videodecoder",
+      "videoencoder",
+      "videoframe",
+      "webcodecs"
+    ]
+  },
+  {
+    "id": "webgl",
+    "title": "WebGL - 3D Canvas graphics",
+    "keywords": [
+      "3d",
+      "canvas",
+      "gl",
+      "graphics",
+      "web",
+      "web gl",
+      "webgl"
+    ]
+  },
+  {
+    "id": "webgl2",
+    "title": "WebGL 2.0",
+    "keywords": [
+      "0",
+      "2",
+      "canvas",
+      "gl",
+      "web",
+      "web gl",
+      "webgl",
+      "webgl2"
+    ]
+  },
+  {
+    "id": "webgpu",
+    "title": "WebGPU",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "webgpu"
+    ]
+  },
+  {
+    "id": "webhid",
+    "title": "WebHID API",
+    "keywords": [
+      "api",
+      "hid",
+      "js",
+      "js api",
+      "navigator",
+      "navigator.hid",
+      "webhid"
+    ]
+  },
+  {
+    "id": "webkit-user-drag",
+    "title": "CSS -webkit-user-drag property",
+    "keywords": [
+      "-webkit-user-drag:auto",
+      "-webkit-user-drag:element",
+      "-webkit-user-drag:none",
+      "auto",
+      "css",
+      "drag",
+      "element",
+      "none",
+      "property",
+      "user",
+      "webkit"
+    ]
+  },
+  {
+    "id": "webm",
+    "title": "WebM video format",
+    "keywords": [
+      "format",
+      "matroska",
+      "other",
+      "video",
+      "webm"
+    ]
+  },
+  {
+    "id": "webnfc",
+    "title": "Web NFC",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "ndef",
+      "ndefreader",
+      "ndefwriter",
+      "nfc",
+      "web",
+      "webnfc"
+    ]
+  },
+  {
+    "id": "webp",
+    "title": "WebP image format",
+    "keywords": [
+      ".webp",
+      "format",
+      "image",
+      "libwebp",
+      "other",
+      "vp8",
+      "vp8l",
+      "webp"
+    ]
+  },
+  {
+    "id": "websockets",
+    "title": "Web Sockets",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "sockets",
+      "web",
+      "websockets"
+    ]
+  },
+  {
+    "id": "webtransport",
+    "title": "WebTransport",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "webtransport"
+    ]
+  },
+  {
+    "id": "webusb",
+    "title": "WebUSB",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "webusb"
+    ]
+  },
+  {
+    "id": "webvr",
+    "title": "WebVR API",
+    "keywords": [
+      "api",
+      "getdisplays",
+      "getvrdevices",
+      "getvrdisplays",
+      "js",
+      "js api",
+      "navigator",
+      "navigator.vr",
+      "vr",
+      "webvr"
+    ]
+  },
+  {
+    "id": "webvtt",
+    "title": "WebVTT - Web Video Text Tracks",
+    "keywords": [
+      "captions",
+      "other",
+      "subtitles",
+      "text",
+      "track",
+      "tracks",
+      "video",
+      "vtt",
+      "web",
+      "webvtt"
+    ]
+  },
+  {
+    "id": "webworkers",
+    "title": "Web Workers",
+    "keywords": [
+      "api",
+      "js",
+      "js api",
+      "web",
+      "webworkers",
+      "workers"
+    ]
+  },
+  {
+    "id": "webxr",
+    "title": "WebXR Device API",
+    "keywords": [
+      "api",
+      "device",
+      "js",
+      "js api",
+      "navigator",
+      "navigator.xr",
+      "webxr",
+      "xr"
+    ]
+  },
+  {
+    "id": "will-change",
+    "title": "CSS will-change property",
+    "keywords": [
+      "change",
+      "css",
+      "position",
+      "property",
+      "scroll",
+      "scroll-position",
+      "will"
+    ]
+  },
+  {
+    "id": "woff",
+    "title": "WOFF - Web Open Font Format",
+    "keywords": [
+      ".woff",
+      "font",
+      "format",
+      "open",
+      "other",
+      "web",
+      "woff"
+    ]
+  },
+  {
+    "id": "woff2",
+    "title": "WOFF 2.0 - Web Open Font Format",
+    "keywords": [
+      ".woff2",
+      "0",
+      "2",
+      "font",
+      "fontface",
+      "format",
+      "open",
+      "other",
+      "web",
+      "webfonts",
+      "woff",
+      "woff2"
+    ]
+  },
+  {
+    "id": "word-break",
+    "title": "CSS3 word-break",
+    "keywords": [
+      "all",
+      "break",
+      "break-all",
+      "css3",
+      "keep",
+      "keep-all",
+      "word"
+    ]
+  },
+  {
+    "id": "wordwrap",
+    "title": "CSS3 Overflow-wrap",
+    "keywords": [
+      "break",
+      "break-word",
+      "css3",
+      "overflow",
+      "word",
+      "word-wrap",
+      "wordwrap",
+      "wrap"
+    ]
+  },
+  {
+    "id": "x-doc-messaging",
+    "title": "Cross-document messaging",
+    "keywords": [
+      "api",
+      "cross",
+      "doc",
+      "document",
+      "js",
+      "js api",
+      "messaging",
+      "x"
+    ]
+  },
+  {
+    "id": "x-frame-options",
+    "title": "X-Frame-Options HTTP header",
+    "keywords": [
+      "clickjacking",
+      "frame",
+      "header",
+      "http",
+      "options",
+      "security",
+      "x",
+      "x-frame-options"
+    ]
+  },
+  {
+    "id": "xhr2",
+    "title": "XMLHttpRequest advanced features",
+    "keywords": [
+      "2",
+      "advanced",
+      "api",
+      "dom",
+      "features",
+      "js",
+      "js api",
+      "level",
+      "xhr",
+      "xhr level 2",
+      "xhr2",
+      "xmlhttprequest"
+    ]
+  },
+  {
+    "id": "xhtml",
+    "title": "XHTML served as application/xhtml+xml",
+    "keywords": [
+      "application",
+      "as",
+      "other",
+      "served",
+      "xhtml",
+      "xhtml+xml",
+      "xml"
+    ]
+  },
+  {
+    "id": "xhtmlsmil",
+    "title": "XHTML+SMIL animation",
+    "keywords": [
+      "animation",
+      "other",
+      "smil",
+      "xhtml",
+      "xhtmlsmil"
+    ]
+  },
+  {
+    "id": "xml-serializer",
+    "title": "DOM Parsing and Serialization",
+    "keywords": [
+      "and",
+      "api",
+      "dom",
+      "js",
+      "js api",
+      "parsefromstring",
+      "parsing",
+      "serialization",
+      "serializer",
+      "xml"
+    ]
+  },
+  {
+    "id": "zstd",
+    "title": "zstd (Zstandard) content-encoding",
+    "keywords": [
+      "content",
+      "encoding",
+      "other",
+      "rfc8878",
+      "zstandard",
+      "zstd"
+    ]
+  }
+]
