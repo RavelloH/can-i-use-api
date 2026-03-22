@@ -41,8 +41,8 @@ jobs:
 
       - name: Commit files
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "dr_hamilton@foxmail.com"
+          git config --local user.name "Ravello-H"
           git add -A
           if git diff --cached --quiet; then
             echo "No changes to commit."
