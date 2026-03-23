@@ -281,8 +281,8 @@
     "date": "2026-01-22T20:46:17-08:00",
     "summary": "Update css-text-indent.json (#7461)",
     "usage": {
-      "fully_supported": 17.56,
-      "partially_supported": 79.98
+      "fully_supported": 59.85,
+      "partially_supported": 37.69
     },
     "commit": {
       "sha": "333caf8fc73e074cd1988d3da4304b01bf4b50b3",

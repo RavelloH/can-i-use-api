@@ -72,9 +72,9 @@
         "short_name": "Edge",
         "browser": "Edge",
         "type": "desktop",
-        "current_version": "145",
+        "current_version": "146",
         "current_status": "y #1",
-        "current_global_usage": 1.89,
+        "current_global_usage": 0,
         "first_partial_version": "79",
         "first_full_version": "79",
         "stats": {
@@ -150,7 +150,8 @@
           "142": "y #1",
           "143": "y #1",
           "144": "y #1",
-          "145": "y #1"
+          "145": "y #1",
+          "146": "y #1"
         }
       },
       {
@@ -769,7 +770,7 @@
         "short_name": "And.",
         "browser": "Android Browser",
         "type": "mobile",
-        "current_version": "145",
+        "current_version": "146",
         "current_status": "n",
         "current_global_usage": 0.15,
         "first_partial_version": null,
@@ -777,7 +778,7 @@
         "stats": {
           "3": "n",
           "4": "n",
-          "145": "n",
+          "146": "n",
           "2.1": "n",
           "2.2": "n",
           "2.3": "n",
@@ -830,13 +831,13 @@
         "short_name": "Chr/And.",
         "browser": "Chrome for Android",
         "type": "mobile",
-        "current_version": "145",
+        "current_version": "146",
         "current_status": "n",
         "current_global_usage": 42.14,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
-          "145": "n"
+          "146": "n"
         }
       },
       {
@@ -845,13 +846,13 @@
         "short_name": "FF/And.",
         "browser": "Firefox for Android",
         "type": "mobile",
-        "current_version": "147",
+        "current_version": "148",
         "current_status": "n",
         "current_global_usage": 0.34,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
-          "147": "n"
+          "148": "n"
         }
       },
       {
@@ -975,6 +976,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "ff429292cbd2b778127a63a90dd2d0ea483af112"
+    "commit": "0fc8ef4207b47551bce9abe019b8657b2c0b617c"
   }
 }
