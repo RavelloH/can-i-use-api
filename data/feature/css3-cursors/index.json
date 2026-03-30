@@ -161,9 +161,9 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "148",
+        "current_version": "149",
         "current_status": "y",
-        "current_global_usage": 0.13,
+        "current_global_usage": 0,
         "first_partial_version": "2",
         "first_full_version": "4",
         "stats": {
@@ -317,6 +317,7 @@
           "149": "y",
           "150": "y",
           "151": "y",
+          "152": "y",
           "3.5": "a",
           "3.6": "a"
         }
@@ -486,9 +487,9 @@
         "short_name": "Saf.",
         "browser": "Safari",
         "type": "desktop",
-        "current_version": "26.3",
+        "current_version": "26.4",
         "current_status": "y",
-        "current_global_usage": 0.28,
+        "current_global_usage": 0,
         "first_partial_version": "4",
         "first_full_version": "5",
         "stats": {
@@ -545,6 +546,7 @@
           "26.2": "y",
           "26.3": "y",
           "26.4": "y",
+          "26.5": "y",
           "TP": "y"
         }
       },
@@ -690,9 +692,9 @@
         "short_name": "iOS",
         "browser": "Safari on iOS",
         "type": "mobile",
-        "current_version": "26.3",
+        "current_version": "26.4",
         "current_status": "n",
-        "current_global_usage": 1.09,
+        "current_global_usage": 0.02,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -747,7 +749,8 @@
           "26.1": "n",
           "26.2": "n",
           "26.3": "n",
-          "26.4": "n"
+          "26.4": "n",
+          "26.5": "n"
         }
       },
       {
@@ -977,6 +980,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "0fc8ef4207b47551bce9abe019b8657b2c0b617c"
+    "commit": "f396863685315e838bb3468bad20a01e4967fc86"
   }
 }

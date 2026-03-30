@@ -87,11 +87,11 @@
   },
   "hot": {
     "rank": 471,
-    "score": 45.63,
+    "score": 45.56,
     "signals": {
       "coverage_score": 0.01,
       "breadth_score": 17.5,
-      "freshness_score": 21.66,
+      "freshness_score": 21.59,
       "momentum_score": 6.46,
       "added_score": 0,
       "current_supported_browsers": 7
@@ -214,9 +214,9 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "148",
+        "current_version": "149",
         "current_status": "p d #1",
-        "current_global_usage": 0.13,
+        "current_global_usage": 0,
         "first_partial_version": "77",
         "first_full_version": null,
         "stats": {
@@ -370,6 +370,7 @@
           "149": "p d #1",
           "150": "p d #1",
           "151": "p d #1",
+          "152": "p d #1",
           "3.5": "n",
           "3.6": "n"
         }
@@ -539,9 +540,9 @@
         "short_name": "Saf.",
         "browser": "Safari",
         "type": "desktop",
-        "current_version": "26.3",
-        "current_status": "p d #1",
-        "current_global_usage": 0.28,
+        "current_version": "26.4",
+        "current_status": "y",
+        "current_global_usage": 0,
         "first_partial_version": "16.4",
         "first_full_version": "26.4",
         "stats": {
@@ -598,6 +599,7 @@
           "26.2": "p d #1",
           "26.3": "p d #1",
           "26.4": "y",
+          "26.5": "y",
           "TP": "y"
         }
       },
@@ -743,9 +745,9 @@
         "short_name": "iOS",
         "browser": "Safari on iOS",
         "type": "mobile",
-        "current_version": "26.3",
-        "current_status": "p d #1",
-        "current_global_usage": 1.09,
+        "current_version": "26.4",
+        "current_status": "y",
+        "current_global_usage": 0.02,
         "first_partial_version": "16.4",
         "first_full_version": "26.4",
         "stats": {
@@ -800,7 +802,8 @@
           "26.1": "p d #1",
           "26.2": "p d #1",
           "26.3": "p d #1",
-          "26.4": "y"
+          "26.4": "y",
+          "26.5": "y"
         }
       },
       {
@@ -1030,6 +1033,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "0fc8ef4207b47551bce9abe019b8657b2c0b617c"
+    "commit": "f396863685315e838bb3468bad20a01e4967fc86"
   }
 }

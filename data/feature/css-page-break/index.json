@@ -173,9 +173,9 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "148",
+        "current_version": "149",
         "current_status": "a #2 #3",
-        "current_global_usage": 0.13,
+        "current_global_usage": 0,
         "first_partial_version": "2",
         "first_full_version": null,
         "stats": {
@@ -329,6 +329,7 @@
           "149": "a #2 #3",
           "150": "a #2 #3",
           "151": "a #2 #3",
+          "152": "a #2 #3",
           "3.5": "a #1 #2 #3",
           "3.6": "a #1 #2 #3"
         }
@@ -498,9 +499,9 @@
         "short_name": "Saf.",
         "browser": "Safari",
         "type": "desktop",
-        "current_version": "26.3",
+        "current_version": "26.4",
         "current_status": "a #1 #2 #3",
-        "current_global_usage": 0.28,
+        "current_global_usage": 0,
         "first_partial_version": "4",
         "first_full_version": null,
         "stats": {
@@ -557,6 +558,7 @@
           "26.2": "a #1 #2 #3",
           "26.3": "a #1 #2 #3",
           "26.4": "a #1 #2 #3",
+          "26.5": "a #1 #2 #3",
           "TP": "a #1 #2 #3"
         }
       },
@@ -702,9 +704,9 @@
         "short_name": "iOS",
         "browser": "Safari on iOS",
         "type": "mobile",
-        "current_version": "26.3",
+        "current_version": "26.4",
         "current_status": "a #1 #2 #3",
-        "current_global_usage": 1.09,
+        "current_global_usage": 0.02,
         "first_partial_version": "8",
         "first_full_version": null,
         "stats": {
@@ -759,7 +761,8 @@
           "26.1": "a #1 #2 #3",
           "26.2": "a #1 #2 #3",
           "26.3": "a #1 #2 #3",
-          "26.4": "a #1 #2 #3"
+          "26.4": "a #1 #2 #3",
+          "26.5": "a #1 #2 #3"
         }
       },
       {
@@ -989,6 +992,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "0fc8ef4207b47551bce9abe019b8657b2c0b617c"
+    "commit": "f396863685315e838bb3468bad20a01e4967fc86"
   }
 }
