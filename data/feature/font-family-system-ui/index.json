@@ -856,13 +856,13 @@
         "short_name": "FF/And.",
         "browser": "Firefox for Android",
         "type": "mobile",
-        "current_version": "148",
+        "current_version": "149",
         "current_status": "y",
         "current_global_usage": 0.34,
-        "first_partial_version": "148",
-        "first_full_version": "148",
+        "first_partial_version": "149",
+        "first_full_version": "149",
         "stats": {
-          "148": "y"
+          "149": "y"
         }
       },
       {
@@ -986,6 +986,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "f396863685315e838bb3468bad20a01e4967fc86"
+    "commit": "77f7021a00c4b2b546927042a6cad09a28775a0d"
   }
 }

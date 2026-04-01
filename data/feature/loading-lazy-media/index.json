@@ -60,31 +60,44 @@
     "1": "Available behind the `LazyLoadVideoAndAudio` flag (can be enabled via `chrome://flags` or `--enable-features=LazyLoadVideoAndAudio`)"
   },
   "parent": "loading-lazy-attr",
-  "chrome_id": null,
+  "chrome_id": "5200068565139456",
   "usage": {
     "fully_supported": 0,
     "partially_supported": 0
   },
   "latest_event": {
-    "type": "added",
-    "date": "2026-03-05T21:48:59-08:00",
-    "summary": "Add loading-lazy-media: lazy loading for <video> and <audio> elements (#7488)",
+    "type": "support",
+    "date": "2026-03-31T19:12:27-07:00",
+    "summary": "Update loading-lazy-media.json (#7504)",
     "commit": {
-      "sha": "6e01139f6a5d72277eebd459b2040521e376ac07",
-      "url": "https://github.com/Fyrd/caniuse/commit/6e01139f6a5d72277eebd459b2040521e376ac07"
+      "sha": "97dd38cb267d00f852a5fd01b37057684193485c",
+      "url": "https://github.com/Fyrd/caniuse/commit/97dd38cb267d00f852a5fd01b37057684193485c"
     },
-    "improved_count": 0,
-    "changes": []
+    "improved_count": 2,
+    "changes": [
+      {
+        "browser": "chrome",
+        "version": "148",
+        "from": "n d #1",
+        "to": "y"
+      },
+      {
+        "browser": "chrome",
+        "version": "149",
+        "from": "n d #1",
+        "to": "y"
+      }
+    ]
   },
   "hot": {
     "rank": 495,
-    "score": 28.33,
+    "score": 27.95,
     "signals": {
       "coverage_score": 0,
       "breadth_score": 0,
-      "freshness_score": 22.33,
-      "momentum_score": 0,
-      "added_score": 6,
+      "freshness_score": 23.99,
+      "momentum_score": 3.96,
+      "added_score": 0,
       "current_supported_browsers": 0
     }
   },
@@ -375,8 +388,8 @@
         "current_version": "146",
         "current_status": "n",
         "current_global_usage": 0.02,
-        "first_partial_version": null,
-        "first_full_version": null,
+        "first_partial_version": "148",
+        "first_full_version": "148",
         "stats": {
           "4": "n",
           "5": "n",
@@ -521,8 +534,8 @@
           "145": "n",
           "146": "n",
           "147": "n d #1",
-          "148": "n d #1",
-          "149": "n d #1"
+          "148": "y",
+          "149": "y"
         }
       },
       {
@@ -894,13 +907,13 @@
         "short_name": "FF/And.",
         "browser": "Firefox for Android",
         "type": "mobile",
-        "current_version": "148",
+        "current_version": "149",
         "current_status": "n",
         "current_global_usage": 0.34,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
-          "148": "n"
+          "149": "n"
         }
       },
       {
@@ -1024,6 +1037,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "f396863685315e838bb3468bad20a01e4967fc86"
+    "commit": "77f7021a00c4b2b546927042a6cad09a28775a0d"
   }
 }

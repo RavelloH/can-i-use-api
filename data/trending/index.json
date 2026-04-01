@@ -2,19 +2,32 @@
   {
     "id": "loading-lazy-media",
     "title": "Lazy loading via attribute for video & audio",
-    "type": "added",
-    "date": "2026-03-05T21:48:59-08:00",
-    "summary": "Add loading-lazy-media: lazy loading for <video> and <audio> elements (#7488)",
+    "type": "support",
+    "date": "2026-03-31T19:12:27-07:00",
+    "summary": "Update loading-lazy-media.json (#7504)",
     "usage": {
       "fully_supported": 0,
       "partially_supported": 0
     },
     "commit": {
-      "sha": "6e01139f6a5d72277eebd459b2040521e376ac07",
-      "url": "https://github.com/Fyrd/caniuse/commit/6e01139f6a5d72277eebd459b2040521e376ac07"
+      "sha": "97dd38cb267d00f852a5fd01b37057684193485c",
+      "url": "https://github.com/Fyrd/caniuse/commit/97dd38cb267d00f852a5fd01b37057684193485c"
     },
-    "improved_count": 0,
-    "changes": []
+    "improved_count": 2,
+    "changes": [
+      {
+        "browser": "chrome",
+        "version": "148",
+        "from": "n d #1",
+        "to": "y"
+      },
+      {
+        "browser": "chrome",
+        "version": "149",
+        "from": "n d #1",
+        "to": "y"
+      }
+    ]
   },
   {
     "id": "link-icon-svg",
@@ -1198,7 +1211,7 @@
     "date": "2025-01-08T20:24:53-08:00",
     "summary": "Update css3-attr.json (#7234)",
     "usage": {
-      "fully_supported": 66.66,
+      "fully_supported": 69.37,
       "partially_supported": 0
     },
     "commit": {

@@ -40,7 +40,7 @@
   "parent": null,
   "chrome_id": "4680129030651904",
   "usage": {
-    "fully_supported": 66.66,
+    "fully_supported": 69.37,
     "partially_supported": 0
   },
   "latest_event": {
@@ -68,15 +68,15 @@
     ]
   },
   "hot": {
-    "rank": 469,
-    "score": 47.29,
+    "rank": 456,
+    "score": 53.65,
     "signals": {
-      "coverage_score": 33.33,
-      "breadth_score": 10,
+      "coverage_score": 34.69,
+      "breadth_score": 15,
       "freshness_score": 0,
       "momentum_score": 3.96,
       "added_score": 0,
-      "current_supported_browsers": 4
+      "current_supported_browsers": 6
     }
   },
   "support": {
@@ -592,10 +592,10 @@
         "browser": "Opera",
         "type": "desktop",
         "current_version": "127",
-        "current_status": "n",
+        "current_status": "y",
         "current_global_usage": 0.4,
-        "first_partial_version": null,
-        "first_full_version": null,
+        "first_partial_version": "117",
+        "first_full_version": "117",
         "stats": {
           "9": "n",
           "11": "n",
@@ -700,17 +700,17 @@
           "114": "n",
           "115": "n",
           "116": "n",
-          "117": "n",
-          "118": "n",
-          "119": "n",
-          "120": "n",
-          "121": "n",
-          "122": "n",
-          "123": "n",
-          "124": "n",
-          "125": "n",
-          "126": "n",
-          "127": "n",
+          "117": "y",
+          "118": "y",
+          "119": "y",
+          "120": "y",
+          "121": "y",
+          "122": "y",
+          "123": "y",
+          "124": "y",
+          "125": "y",
+          "126": "y",
+          "127": "y",
           "9.5-9.6": "n",
           "10.0-10.1": "n",
           "10.5": "n",
@@ -885,13 +885,13 @@
         "short_name": "FF/And.",
         "browser": "Firefox for Android",
         "type": "mobile",
-        "current_version": "148",
+        "current_version": "149",
         "current_status": "n",
         "current_global_usage": 0.34,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
-          "148": "n"
+          "149": "n"
         }
       },
       {
@@ -932,10 +932,10 @@
         "browser": "Samsung Internet",
         "type": "mobile",
         "current_version": "29",
-        "current_status": "n",
+        "current_status": "y",
         "current_global_usage": 1.83,
-        "first_partial_version": null,
-        "first_full_version": null,
+        "first_partial_version": "29",
+        "first_full_version": "29",
         "stats": {
           "4": "n",
           "20": "n",
@@ -947,7 +947,7 @@
           "26": "n",
           "27": "n",
           "28": "n",
-          "29": "n",
+          "29": "y",
           "5.0-5.4": "n",
           "6.2-6.4": "n",
           "7.2-7.4": "n",
@@ -1015,6 +1015,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "f396863685315e838bb3468bad20a01e4967fc86"
+    "commit": "77f7021a00c4b2b546927042a6cad09a28775a0d"
   }
 }

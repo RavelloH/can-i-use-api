@@ -59,11 +59,11 @@
   },
   "hot": {
     "rank": 440,
-    "score": 59.49,
+    "score": 59.42,
     "signals": {
       "coverage_score": 33.33,
       "breadth_score": 12.5,
-      "freshness_score": 7.66,
+      "freshness_score": 7.59,
       "momentum_score": 0,
       "added_score": 6,
       "current_supported_browsers": 5
@@ -875,13 +875,13 @@
         "short_name": "FF/And.",
         "browser": "Firefox for Android",
         "type": "mobile",
-        "current_version": "148",
+        "current_version": "149",
         "current_status": "n",
         "current_global_usage": 0.34,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
-          "148": "n"
+          "149": "n"
         }
       },
       {
@@ -1005,6 +1005,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "f396863685315e838bb3468bad20a01e4967fc86"
+    "commit": "77f7021a00c4b2b546927042a6cad09a28775a0d"
   }
 }
