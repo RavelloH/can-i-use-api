@@ -52,7 +52,7 @@
     },
     {
       "url": "https://github.com/WebKit/standards-positions/issues/586",
-      "title": "WebKit Standards Position (positive pending)"
+      "title": "WebKit Standards Position (positive)"
     }
   ],
   "notes": "",
@@ -91,11 +91,11 @@
   },
   "hot": {
     "rank": 495,
-    "score": 27.82,
+    "score": 27.75,
     "signals": {
       "coverage_score": 0,
       "breadth_score": 0,
-      "freshness_score": 23.86,
+      "freshness_score": 23.79,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 0
@@ -1037,6 +1037,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "77f7021a00c4b2b546927042a6cad09a28775a0d"
+    "commit": "ee7dd682dd6d6faff0131ce7dcb270d6107a0d5a"
   }
 }
