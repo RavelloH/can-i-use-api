@@ -31,24 +31,14 @@
     {
       "url": "https://web.dev/trusted-types/",
       "title": "Web.dev article on using trusted types"
-    },
-    {
-      "url": "https://mozilla.github.io/standards-positions/#trusted-types",
-      "title": "Firefox position: positive"
-    },
-    {
-      "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1508286",
-      "title": "Firefox meta bug"
     }
   ],
   "notes": "",
-  "notes_by_num": {
-    "1": "Enabled by default in Firefox Nightly only"
-  },
+  "notes_by_num": {},
   "parent": null,
   "chrome_id": "5650088592408576",
   "usage": {
-    "fully_supported": 88.22,
+    "fully_supported": 88.68,
     "partially_supported": 0
   },
   "latest_event": {
@@ -76,15 +66,15 @@
     ]
   },
   "hot": {
-    "rank": 375,
-    "score": 72.33,
+    "rank": 19,
+    "score": 77.5,
     "signals": {
-      "coverage_score": 44.11,
-      "breadth_score": 20,
-      "freshness_score": 4.26,
+      "coverage_score": 44.34,
+      "breadth_score": 25,
+      "freshness_score": 4.2,
       "momentum_score": 3.96,
       "added_score": 0,
-      "current_supported_browsers": 8
+      "current_supported_browsers": 10
     }
   },
   "support": {
@@ -205,10 +195,10 @@
         "browser": "Firefox",
         "type": "desktop",
         "current_version": "149",
-        "current_status": "n d #1",
+        "current_status": "y",
         "current_global_usage": 0,
-        "first_partial_version": null,
-        "first_full_version": null,
+        "first_partial_version": "148",
+        "first_full_version": "148",
         "stats": {
           "2": "n",
           "3": "n",
@@ -353,14 +343,14 @@
           "142": "n",
           "143": "n",
           "144": "n",
-          "145": "n d #1",
-          "146": "n d #1",
-          "147": "n d #1",
-          "148": "n d #1",
-          "149": "n d #1",
-          "150": "n d #1",
-          "151": "n d #1",
-          "152": "n d #1",
+          "145": "n d",
+          "146": "n d",
+          "147": "n d",
+          "148": "y",
+          "149": "y",
+          "150": "y",
+          "151": "y",
+          "152": "y",
           "3.5": "n",
           "3.6": "n"
         }
@@ -894,12 +884,12 @@
         "browser": "Firefox for Android",
         "type": "mobile",
         "current_version": "149",
-        "current_status": "n",
+        "current_status": "y",
         "current_global_usage": 0.34,
-        "first_partial_version": null,
-        "first_full_version": null,
+        "first_partial_version": "149",
+        "first_full_version": "149",
         "stats": {
-          "149": "n"
+          "149": "y"
         }
       },
       {
@@ -1023,6 +1013,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "ee7dd682dd6d6faff0131ce7dcb270d6107a0d5a"
+    "commit": "66fcebab2b53da72d7f1cf7ac64496115ba16d08"
   }
 }

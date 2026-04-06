@@ -815,7 +815,7 @@
     "date": "2025-06-12T21:24:51-07:00",
     "summary": "Safari 26: SVG favicons, WebGPU, Anchor Positioning, Trusted Types & WebCodecs (#7332)",
     "usage": {
-      "fully_supported": 88.22,
+      "fully_supported": 88.68,
       "partially_supported": 0
     },
     "commit": {
