@@ -49,7 +49,7 @@
   },
   "latest_event": null,
   "hot": {
-    "rank": 214,
+    "rank": 213,
     "score": 73.36,
     "signals": {
       "coverage_score": 48.36,
@@ -89,9 +89,9 @@
         "short_name": "Edge",
         "browser": "Edge",
         "type": "desktop",
-        "current_version": "146",
+        "current_version": "147",
         "current_status": "y x",
-        "current_global_usage": 2.45,
+        "current_global_usage": 0,
         "first_partial_version": "15",
         "first_full_version": "15",
         "stats": {
@@ -168,7 +168,8 @@
           "143": "y x",
           "144": "y x",
           "145": "y x",
-          "146": "y x"
+          "146": "y x",
+          "147": "y x"
         }
       },
       {
@@ -177,9 +178,9 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "149",
+        "current_version": "150",
         "current_status": "y x #1",
-        "current_global_usage": 0.24,
+        "current_global_usage": 0,
         "first_partial_version": "49",
         "first_full_version": "49",
         "stats": {
@@ -334,6 +335,7 @@
           "150": "y x #1",
           "151": "y x #1",
           "152": "y x #1",
+          "153": "y x #1",
           "3.5": "n",
           "3.6": "n"
         }
@@ -573,9 +575,9 @@
         "short_name": "Op.",
         "browser": "Opera",
         "type": "desktop",
-        "current_version": "127",
+        "current_version": "131",
         "current_status": "y x",
-        "current_global_usage": 0.44,
+        "current_global_usage": 0,
         "first_partial_version": "15",
         "first_full_version": "15",
         "stats": {
@@ -693,6 +695,7 @@
           "125": "y x",
           "126": "y x",
           "127": "y x",
+          "131": "y x",
           "9.5-9.6": "n",
           "10.0-10.1": "n",
           "10.5": "n",
@@ -867,13 +870,13 @@
         "short_name": "FF/And.",
         "browser": "Firefox for Android",
         "type": "mobile",
-        "current_version": "149",
+        "current_version": "150",
         "current_status": "y x #1",
         "current_global_usage": 0.35,
-        "first_partial_version": "149",
-        "first_full_version": "149",
+        "first_partial_version": "150",
+        "first_full_version": "150",
         "stats": {
-          "149": "y x #1"
+          "150": "y x #1"
         }
       },
       {
@@ -997,6 +1000,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "6a728d8d24cb3a151267ee55b2d025c4f9e9edf6"
+    "commit": "fec134834d9997ca05b244a1ae445718a40c8edc"
   }
 }

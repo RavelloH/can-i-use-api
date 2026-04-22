@@ -70,11 +70,11 @@
   },
   "hot": {
     "rank": 394,
-    "score": 69.6,
+    "score": 69.54,
     "signals": {
       "coverage_score": 41.99,
       "breadth_score": 20,
-      "freshness_score": 3.65,
+      "freshness_score": 3.59,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 8
@@ -109,9 +109,9 @@
         "short_name": "Edge",
         "browser": "Edge",
         "type": "desktop",
-        "current_version": "146",
+        "current_version": "147",
         "current_status": "y",
-        "current_global_usage": 2.45,
+        "current_global_usage": 0,
         "first_partial_version": "113",
         "first_full_version": "113",
         "stats": {
@@ -188,7 +188,8 @@
           "143": "y",
           "144": "y",
           "145": "y",
-          "146": "y"
+          "146": "y",
+          "147": "y"
         }
       },
       {
@@ -197,9 +198,9 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "149",
+        "current_version": "150",
         "current_status": "a d #1 #8",
-        "current_global_usage": 0.24,
+        "current_global_usage": 0,
         "first_partial_version": "141",
         "first_full_version": null,
         "stats": {
@@ -354,6 +355,7 @@
           "150": "a d #1 #8",
           "151": "a d #1 #8",
           "152": "a d #1 #8",
+          "153": "a d #1 #8",
           "3.5": "n",
           "3.6": "n"
         }
@@ -593,9 +595,9 @@
         "short_name": "Op.",
         "browser": "Opera",
         "type": "desktop",
-        "current_version": "127",
+        "current_version": "131",
         "current_status": "y #5",
-        "current_global_usage": 0.44,
+        "current_global_usage": 0,
         "first_partial_version": "99",
         "first_full_version": "99",
         "stats": {
@@ -713,6 +715,7 @@
           "125": "y #5",
           "126": "y #5",
           "127": "y #5",
+          "131": "y #5",
           "9.5-9.6": "n",
           "10.0-10.1": "n",
           "10.5": "n",
@@ -887,13 +890,13 @@
         "short_name": "FF/And.",
         "browser": "Firefox for Android",
         "type": "mobile",
-        "current_version": "149",
+        "current_version": "150",
         "current_status": "n d #1",
         "current_global_usage": 0.35,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
-          "149": "n d #1"
+          "150": "n d #1"
         }
       },
       {
@@ -1017,6 +1020,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "6a728d8d24cb3a151267ee55b2d025c4f9e9edf6"
+    "commit": "fec134834d9997ca05b244a1ae445718a40c8edc"
   }
 }

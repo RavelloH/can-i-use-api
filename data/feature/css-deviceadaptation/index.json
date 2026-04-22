@@ -93,9 +93,9 @@
         "short_name": "Edge",
         "browser": "Edge",
         "type": "desktop",
-        "current_version": "146",
+        "current_version": "147",
         "current_status": "n d",
-        "current_global_usage": 2.45,
+        "current_global_usage": 0,
         "first_partial_version": "12",
         "first_full_version": null,
         "stats": {
@@ -172,7 +172,8 @@
           "143": "n d",
           "144": "n d",
           "145": "n d",
-          "146": "n d"
+          "146": "n d",
+          "147": "n d"
         }
       },
       {
@@ -181,9 +182,9 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "149",
+        "current_version": "150",
         "current_status": "n",
-        "current_global_usage": 0.24,
+        "current_global_usage": 0,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -338,6 +339,7 @@
           "150": "n",
           "151": "n",
           "152": "n",
+          "153": "n",
           "3.5": "n",
           "3.6": "n"
         }
@@ -577,9 +579,9 @@
         "short_name": "Op.",
         "browser": "Opera",
         "type": "desktop",
-        "current_version": "127",
+        "current_version": "131",
         "current_status": "n d",
-        "current_global_usage": 0.44,
+        "current_global_usage": 0,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -697,6 +699,7 @@
           "125": "n d",
           "126": "n d",
           "127": "n d",
+          "131": "n d",
           "9.5-9.6": "n",
           "10.0-10.1": "n",
           "10.5": "n",
@@ -871,13 +874,13 @@
         "short_name": "FF/And.",
         "browser": "Firefox for Android",
         "type": "mobile",
-        "current_version": "149",
+        "current_version": "150",
         "current_status": "n",
         "current_global_usage": 0.35,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
-          "149": "n"
+          "150": "n"
         }
       },
       {
@@ -1001,6 +1004,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "6a728d8d24cb3a151267ee55b2d025c4f9e9edf6"
+    "commit": "fec134834d9997ca05b244a1ae445718a40c8edc"
   }
 }
