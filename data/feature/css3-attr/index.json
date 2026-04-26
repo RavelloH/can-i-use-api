@@ -45,36 +45,30 @@
   },
   "latest_event": {
     "type": "support",
-    "date": "2025-01-08T20:24:53-08:00",
-    "summary": "Update css3-attr.json (#7234)",
+    "date": "2026-04-25T22:01:53-07:00",
+    "summary": "update CSS3 `attr()` support, activated in Safari TP (#7506)",
     "commit": {
-      "sha": "71d63e58647d6b44add0029188b0df33fb576ca9",
-      "url": "https://github.com/Fyrd/caniuse/commit/71d63e58647d6b44add0029188b0df33fb576ca9"
+      "sha": "df2c81a4477c98be358e9e89315fd7d5bd892245",
+      "url": "https://github.com/Fyrd/caniuse/commit/df2c81a4477c98be358e9e89315fd7d5bd892245"
     },
-    "improved_count": 2,
+    "improved_count": 1,
     "changes": [
       {
-        "browser": "chrome",
-        "version": "133",
-        "from": "n",
-        "to": "y"
-      },
-      {
-        "browser": "chrome",
-        "version": "134",
+        "browser": "safari",
+        "version": "TP",
         "from": "n",
         "to": "y"
       }
     ]
   },
   "hot": {
-    "rank": 447,
-    "score": 54.66,
+    "rank": 19,
+    "score": 77.2,
     "signals": {
       "coverage_score": 35.7,
       "breadth_score": 15,
-      "freshness_score": 0,
-      "momentum_score": 3.96,
+      "freshness_score": 24,
+      "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 6
     }
@@ -528,8 +522,8 @@
         "current_version": "26.4",
         "current_status": "n",
         "current_global_usage": 0.05,
-        "first_partial_version": null,
-        "first_full_version": null,
+        "first_partial_version": "TP",
+        "first_full_version": "TP",
         "stats": {
           "4": "n",
           "5": "n",
@@ -585,7 +579,7 @@
           "26.3": "n",
           "26.4": "n",
           "26.5": "n",
-          "TP": "n"
+          "TP": "y"
         }
       },
       {
@@ -1019,6 +1013,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "fec134834d9997ca05b244a1ae445718a40c8edc"
+    "commit": "685967ae29b81412dd1c12705e16d178a9a82449"
   }
 }
