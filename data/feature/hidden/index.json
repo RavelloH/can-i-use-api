@@ -23,15 +23,15 @@
   "parent": null,
   "chrome_id": null,
   "usage": {
-    "fully_supported": 97.02,
+    "fully_supported": 96.13,
     "partially_supported": 0
   },
   "latest_event": null,
   "hot": {
-    "rank": 82,
-    "score": 73.51,
+    "rank": 117,
+    "score": 73.06,
     "signals": {
-      "coverage_score": 48.51,
+      "coverage_score": 48.06,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -49,7 +49,7 @@
         "type": "desktop",
         "current_version": "11",
         "current_status": "y",
-        "current_global_usage": 0.29,
+        "current_global_usage": 0.14,
         "first_partial_version": "11",
         "first_full_version": "11",
         "stats": {
@@ -70,7 +70,7 @@
         "type": "desktop",
         "current_version": "147",
         "current_status": "y",
-        "current_global_usage": 0,
+        "current_global_usage": 2.48,
         "first_partial_version": "12",
         "first_full_version": "12",
         "stats": {
@@ -159,7 +159,7 @@
         "type": "desktop",
         "current_version": "150",
         "current_status": "y",
-        "current_global_usage": 0,
+        "current_global_usage": 0.33,
         "first_partial_version": "4",
         "first_full_version": "4",
         "stats": {
@@ -325,9 +325,9 @@
         "short_name": "Chr.",
         "browser": "Chrome",
         "type": "desktop",
-        "current_version": "147",
+        "current_version": "148",
         "current_status": "y",
-        "current_global_usage": 0.03,
+        "current_global_usage": 0.02,
         "first_partial_version": "6",
         "first_full_version": "6",
         "stats": {
@@ -476,7 +476,8 @@
           "147": "y",
           "148": "y",
           "149": "y",
-          "150": "y"
+          "150": "y",
+          "151": "y"
         }
       },
       {
@@ -487,7 +488,7 @@
         "type": "desktop",
         "current_version": "26.4",
         "current_status": "y",
-        "current_global_usage": 0.05,
+        "current_global_usage": 0.32,
         "first_partial_version": "6",
         "first_full_version": "6",
         "stats": {
@@ -693,7 +694,7 @@
         "type": "mobile",
         "current_version": "26.4",
         "current_status": "y",
-        "current_global_usage": 0.27,
+        "current_global_usage": 1.63,
         "first_partial_version": "8",
         "first_full_version": "8",
         "stats": {
@@ -775,7 +776,7 @@
         "type": "mobile",
         "current_version": "147",
         "current_status": "y",
-        "current_global_usage": 0.05,
+        "current_global_usage": 0.24,
         "first_partial_version": "4",
         "first_full_version": "4",
         "stats": {
@@ -815,7 +816,7 @@
         "type": "mobile",
         "current_version": "80",
         "current_status": "y",
-        "current_global_usage": 0.9,
+        "current_global_usage": 0.86,
         "first_partial_version": "12",
         "first_full_version": "12",
         "stats": {
@@ -836,7 +837,7 @@
         "type": "mobile",
         "current_version": "147",
         "current_status": "y",
-        "current_global_usage": 44.76,
+        "current_global_usage": 43.34,
         "first_partial_version": "147",
         "first_full_version": "147",
         "stats": {
@@ -882,7 +883,7 @@
         "type": "mobile",
         "current_version": "15.5",
         "current_status": "y",
-        "current_global_usage": 0.64,
+        "current_global_usage": 0.63,
         "first_partial_version": "15.5",
         "first_full_version": "15.5",
         "stats": {
@@ -897,7 +898,7 @@
         "type": "mobile",
         "current_version": "29",
         "current_status": "y",
-        "current_global_usage": 1.94,
+        "current_global_usage": 1.41,
         "first_partial_version": "4",
         "first_full_version": "4",
         "stats": {
@@ -979,6 +980,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "685967ae29b81412dd1c12705e16d178a9a82449"
+    "commit": "b669b3f6fa7b9ba9d2b3ab54f830d073d05950ee"
   }
 }
