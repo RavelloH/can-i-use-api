@@ -43,7 +43,7 @@
   },
   "latest_event": null,
   "hot": {
-    "rank": 473,
+    "rank": 474,
     "score": 45.02,
     "signals": {
       "coverage_score": 25.02,
@@ -83,9 +83,9 @@
         "short_name": "Edge",
         "browser": "Edge",
         "type": "desktop",
-        "current_version": "147",
+        "current_version": "148",
         "current_status": "y x",
-        "current_global_usage": 2.48,
+        "current_global_usage": 0,
         "first_partial_version": "79",
         "first_full_version": "79",
         "stats": {
@@ -163,7 +163,8 @@
           "144": "y x",
           "145": "y x",
           "146": "y x",
-          "147": "y x"
+          "147": "y x",
+          "148": "y x"
         }
       },
       {
@@ -789,15 +790,15 @@
         "short_name": "And.",
         "browser": "Android Browser",
         "type": "mobile",
-        "current_version": "147",
+        "current_version": "148",
         "current_status": "y x",
         "current_global_usage": 0.24,
-        "first_partial_version": "147",
-        "first_full_version": "147",
+        "first_partial_version": "148",
+        "first_full_version": "148",
         "stats": {
           "3": "u",
           "4": "u",
-          "147": "y x",
+          "148": "y x",
           "2.1": "u",
           "2.2": "u",
           "2.3": "u",
@@ -850,13 +851,13 @@
         "short_name": "Chr/And.",
         "browser": "Chrome for Android",
         "type": "mobile",
-        "current_version": "147",
+        "current_version": "148",
         "current_status": "u",
         "current_global_usage": 43.34,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
-          "147": "u"
+          "148": "u"
         }
       },
       {
@@ -995,6 +996,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "a2b7a47b561624b4cc8458b77730e3871f8b17c8"
+    "commit": "f4ce8ca88dd254b5233ce4a2370f2bb7cee05f57"
   }
 }

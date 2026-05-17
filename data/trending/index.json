@@ -30,7 +30,7 @@
     "date": "2026-03-31T19:12:27-07:00",
     "summary": "Update loading-lazy-media.json (#7504)",
     "usage": {
-      "fully_supported": 0.03,
+      "fully_supported": 43.61,
       "partially_supported": 0
     },
     "commit": {

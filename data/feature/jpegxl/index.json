@@ -60,7 +60,8 @@
     "3": "Can be enabled via the `--enable-features=JXL` runtime flag.",
     "4": "Supports still images. Animated image sequences are not supported.",
     "5": "Partial support refers to not supporting progressive decoding.",
-    "6": "Can be enabled via `chrome://flags/#enable-jxl-image-format`"
+    "6": "Can be enabled via `chrome://flags/#enable-jxl-image-format`.",
+    "7": "Can be enabled via the `image.jxl.enabled` flag in `about:config`."
   },
   "parent": null,
   "chrome_id": "5188299478007808",
@@ -110,9 +111,9 @@
         "short_name": "Edge",
         "browser": "Edge",
         "type": "desktop",
-        "current_version": "147",
+        "current_version": "148",
         "current_status": "n",
-        "current_global_usage": 2.48,
+        "current_global_usage": 0,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -190,7 +191,8 @@
           "144": "n",
           "145": "n",
           "146": "n",
-          "147": "n"
+          "147": "n",
+          "148": "n"
         }
       },
       {
@@ -355,8 +357,8 @@
           "149": "n d #2 #5",
           "150": "n d #2 #5",
           "151": "n d #2",
-          "152": "n d #2",
-          "153": "n d #2",
+          "152": "n d #7",
+          "153": "n d #7",
           "3.5": "n",
           "3.6": "n"
         }
@@ -368,7 +370,7 @@
         "browser": "Chrome",
         "type": "desktop",
         "current_version": "148",
-        "current_status": "n d #5 #6",
+        "current_status": "n d #6",
         "current_global_usage": 0.02,
         "first_partial_version": null,
         "first_full_version": null,
@@ -516,10 +518,10 @@
           "145": "n d #5 #6",
           "146": "n d #5 #6",
           "147": "n d #5 #6",
-          "148": "n d #5 #6",
-          "149": "n d #5 #6",
-          "150": "n d #5 #6",
-          "151": "n d #5 #6"
+          "148": "n d #6",
+          "149": "n d #6",
+          "150": "n d #6",
+          "151": "n d #6"
         }
       },
       {
@@ -816,7 +818,7 @@
         "short_name": "And.",
         "browser": "Android Browser",
         "type": "mobile",
-        "current_version": "147",
+        "current_version": "148",
         "current_status": "n",
         "current_global_usage": 0.24,
         "first_partial_version": null,
@@ -824,7 +826,7 @@
         "stats": {
           "3": "n",
           "4": "n",
-          "147": "n",
+          "148": "n",
           "2.1": "n",
           "2.2": "n",
           "2.3": "n",
@@ -877,13 +879,13 @@
         "short_name": "Chr/And.",
         "browser": "Chrome for Android",
         "type": "mobile",
-        "current_version": "147",
-        "current_status": "n d #5 #6",
+        "current_version": "148",
+        "current_status": "n d #6",
         "current_global_usage": 43.34,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
-          "147": "n d #5 #6"
+          "148": "n d #6"
         }
       },
       {
@@ -1022,6 +1024,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "a2b7a47b561624b4cc8458b77730e3871f8b17c8"
+    "commit": "f4ce8ca88dd254b5233ce4a2370f2bb7cee05f57"
   }
 }
