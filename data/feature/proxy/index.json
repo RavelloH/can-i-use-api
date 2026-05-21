@@ -52,7 +52,7 @@
   },
   "latest_event": null,
   "hot": {
-    "rank": 256,
+    "rank": 255,
     "score": 72.84,
     "signals": {
       "coverage_score": 47.84,
