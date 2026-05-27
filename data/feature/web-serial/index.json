@@ -44,17 +44,46 @@
     "fully_supported": 72.96,
     "partially_supported": 0
   },
-  "latest_event": null,
+  "latest_event": {
+    "type": "support",
+    "date": "2026-05-26T22:37:21-07:00",
+    "summary": "Firefox 151 and above supports Web Serial (#7523)",
+    "commit": {
+      "sha": "054332e86ac7d3066a0b8cbe54becd8777dc20e0",
+      "url": "https://github.com/Fyrd/caniuse/commit/054332e86ac7d3066a0b8cbe54becd8777dc20e0"
+    },
+    "improved_count": 3,
+    "changes": [
+      {
+        "browser": "firefox",
+        "version": "151",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "firefox",
+        "version": "152",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "firefox",
+        "version": "153",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
   "hot": {
-    "rank": 470,
-    "score": 46.48,
+    "rank": 16,
+    "score": 77.98,
     "signals": {
       "coverage_score": 36.48,
-      "breadth_score": 10,
-      "freshness_score": 0,
-      "momentum_score": 0,
+      "breadth_score": 12.5,
+      "freshness_score": 24,
+      "momentum_score": 5,
       "added_score": 0,
-      "current_supported_browsers": 4
+      "current_supported_browsers": 5
     }
   },
   "support": {
@@ -176,11 +205,11 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "150",
-        "current_status": "n",
-        "current_global_usage": 0.33,
-        "first_partial_version": null,
-        "first_full_version": null,
+        "current_version": "151",
+        "current_status": "y",
+        "current_global_usage": 0,
+        "first_partial_version": "151",
+        "first_full_version": "151",
         "stats": {
           "2": "n",
           "3": "n",
@@ -331,9 +360,10 @@
           "148": "n",
           "149": "n",
           "150": "n",
-          "151": "n",
-          "152": "n",
-          "153": "n",
+          "151": "y",
+          "152": "y",
+          "153": "y",
+          "154": "y",
           "3.5": "n",
           "3.6": "n"
         }
@@ -999,6 +1029,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "f4ce8ca88dd254b5233ce4a2370f2bb7cee05f57"
+    "commit": "0741550f9cd62d31a3ee600954bd4cef86c47e9a"
   }
 }

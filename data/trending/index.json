@@ -1,5 +1,41 @@
 [
   {
+    "id": "web-serial",
+    "title": "Web Serial API",
+    "type": "support",
+    "date": "2026-05-26T22:37:21-07:00",
+    "summary": "Firefox 151 and above supports Web Serial (#7523)",
+    "usage": {
+      "fully_supported": 72.96,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "054332e86ac7d3066a0b8cbe54becd8777dc20e0",
+      "url": "https://github.com/Fyrd/caniuse/commit/054332e86ac7d3066a0b8cbe54becd8777dc20e0"
+    },
+    "improved_count": 3,
+    "changes": [
+      {
+        "browser": "firefox",
+        "version": "151",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "firefox",
+        "version": "152",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "firefox",
+        "version": "153",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
     "id": "css3-attr",
     "title": "CSS3 attr() function for all properties",
     "type": "support",
@@ -1313,42 +1349,6 @@
     "commit": {
       "sha": "31e00eda9b48c9797f7514240ee06980eec67ef0",
       "url": "https://github.com/Fyrd/caniuse/commit/31e00eda9b48c9797f7514240ee06980eec67ef0"
-    },
-    "improved_count": 3,
-    "changes": [
-      {
-        "browser": "safari",
-        "version": "18.2",
-        "from": "n",
-        "to": "y"
-      },
-      {
-        "browser": "safari",
-        "version": "TP",
-        "from": "n",
-        "to": "y"
-      },
-      {
-        "browser": "ios_saf",
-        "version": "18.2",
-        "from": "n",
-        "to": "y"
-      }
-    ]
-  },
-  {
-    "id": "auxclick",
-    "title": "Auxclick",
-    "type": "support",
-    "date": "2024-11-23T22:46:06-08:00",
-    "summary": "Safari 18.2 supports auxclick.json (#7213)",
-    "usage": {
-      "fully_supported": 93.03,
-      "partially_supported": 0
-    },
-    "commit": {
-      "sha": "5a794e6f32b7e7178aba313c6992d83cdf1306bc",
-      "url": "https://github.com/Fyrd/caniuse/commit/5a794e6f32b7e7178aba313c6992d83cdf1306bc"
     },
     "improved_count": 3,
     "changes": [

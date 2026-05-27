@@ -36,7 +36,9 @@
     }
   ],
   "notes": "See the [generated content](/css-gencontent) table for support for `attr()` for the `content` property.",
-  "notes_by_num": {},
+  "notes_by_num": {
+    "1": "Can be enabled via the `layout.css.attr.enabled` flag in `about:config`. Enabled by default in Nightly only."
+  },
   "parent": null,
   "chrome_id": "4680129030651904",
   "usage": {
@@ -63,11 +65,11 @@
   },
   "hot": {
     "rank": 26,
-    "score": 74.09,
+    "score": 74.02,
     "signals": {
       "coverage_score": 34.59,
       "breadth_score": 15,
-      "freshness_score": 22,
+      "freshness_score": 21.93,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 6
@@ -192,9 +194,9 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "150",
+        "current_version": "151",
         "current_status": "n",
-        "current_global_usage": 0.33,
+        "current_global_usage": 0,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -348,8 +350,9 @@
           "149": "n",
           "150": "n",
           "151": "n",
-          "152": "n",
-          "153": "n",
+          "152": "n d #1",
+          "153": "n d #1",
+          "154": "n d #1",
           "3.5": "n",
           "3.6": "n"
         }
@@ -1015,6 +1018,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "f4ce8ca88dd254b5233ce4a2370f2bb7cee05f57"
+    "commit": "0741550f9cd62d31a3ee600954bd4cef86c47e9a"
   }
 }

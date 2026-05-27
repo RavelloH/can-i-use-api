@@ -164,9 +164,9 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "150",
+        "current_version": "151",
         "current_status": "y x",
-        "current_global_usage": 0.33,
+        "current_global_usage": 0,
         "first_partial_version": "68",
         "first_full_version": "68",
         "stats": {
@@ -322,6 +322,7 @@
           "151": "y x",
           "152": "y x",
           "153": "y x",
+          "154": "y x",
           "3.5": "n",
           "3.6": "n"
         }
@@ -987,6 +988,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "f4ce8ca88dd254b5233ce4a2370f2bb7cee05f57"
+    "commit": "0741550f9cd62d31a3ee600954bd4cef86c47e9a"
   }
 }
