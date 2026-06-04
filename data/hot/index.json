@@ -3,7 +3,7 @@
     "rank": 1,
     "id": "background-attachment",
     "title": "CSS background-attachment",
-    "score": 88.85,
+    "score": 88.78,
     "usage": {
       "fully_supported": 80.29,
       "partially_supported": 15.71
@@ -13,7 +13,7 @@
     "signals": {
       "coverage_score": 42.5,
       "breadth_score": 22.5,
-      "freshness_score": 15.93,
+      "freshness_score": 15.86,
       "momentum_score": 7.92,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -23,7 +23,7 @@
     "rank": 2,
     "id": "css-scrollbar",
     "title": "CSS scrollbar styling",
-    "score": 88.12,
+    "score": 88.05,
     "usage": {
       "fully_supported": 82.7,
       "partially_supported": 8.71
@@ -33,7 +33,7 @@
     "signals": {
       "coverage_score": 42.66,
       "breadth_score": 25,
-      "freshness_score": 14,
+      "freshness_score": 13.93,
       "momentum_score": 6.46,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -43,7 +43,7 @@
     "rank": 3,
     "id": "srcset",
     "title": "Srcset and sizes attributes",
-    "score": 87.43,
+    "score": 87.36,
     "usage": {
       "fully_supported": 80.8,
       "partially_supported": 15.15
@@ -53,7 +53,7 @@
     "signals": {
       "coverage_score": 42.67,
       "breadth_score": 25,
-      "freshness_score": 17.26,
+      "freshness_score": 17.19,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -63,7 +63,7 @@
     "rank": 4,
     "id": "link-icon-svg",
     "title": "SVG favicons",
-    "score": 86.95,
+    "score": 86.89,
     "usage": {
       "fully_supported": 88.47,
       "partially_supported": 0.05
@@ -73,7 +73,7 @@
     "signals": {
       "coverage_score": 44.24,
       "breadth_score": 22.5,
-      "freshness_score": 17.71,
+      "freshness_score": 17.65,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -83,7 +83,7 @@
     "rank": 5,
     "id": "css-text-indent",
     "title": "CSS text-indent",
-    "score": 85.93,
+    "score": 85.86,
     "usage": {
       "fully_supported": 82.08,
       "partially_supported": 14.19
@@ -93,7 +93,7 @@
     "signals": {
       "coverage_score": 43.17,
       "breadth_score": 25,
-      "freshness_score": 15.26,
+      "freshness_score": 15.19,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -103,7 +103,7 @@
     "rank": 6,
     "id": "webtransport",
     "title": "WebTransport",
-    "score": 85.38,
+    "score": 85.32,
     "usage": {
       "fully_supported": 80.35,
       "partially_supported": 0
@@ -113,7 +113,7 @@
     "signals": {
       "coverage_score": 40.17,
       "breadth_score": 25,
-      "freshness_score": 17.71,
+      "freshness_score": 17.65,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -123,7 +123,7 @@
     "rank": 7,
     "id": "createimagebitmap",
     "title": "createImageBitmap",
-    "score": 83.53,
+    "score": 83.46,
     "usage": {
       "fully_supported": 93.88,
       "partially_supported": 1.35
@@ -133,7 +133,7 @@
     "signals": {
       "coverage_score": 47.14,
       "breadth_score": 25,
-      "freshness_score": 3.39,
+      "freshness_score": 3.32,
       "momentum_score": 8,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -143,7 +143,7 @@
     "rank": 8,
     "id": "css-anchor-positioning",
     "title": "CSS Anchor Positioning",
-    "score": 82.23,
+    "score": 82.17,
     "usage": {
       "fully_supported": 82.83,
       "partially_supported": 0
@@ -153,7 +153,7 @@
     "signals": {
       "coverage_score": 41.41,
       "breadth_score": 25,
-      "freshness_score": 11.86,
+      "freshness_score": 11.8,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -163,7 +163,7 @@
     "rank": 9,
     "id": "link-rel-dns-prefetch",
     "title": "Resource Hints: dns-prefetch",
-    "score": 82.02,
+    "score": 81.96,
     "usage": {
       "fully_supported": 90.93,
       "partially_supported": 0.33
@@ -173,7 +173,7 @@
     "signals": {
       "coverage_score": 45.51,
       "breadth_score": 22.5,
-      "freshness_score": 10.05,
+      "freshness_score": 9.99,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -183,7 +183,7 @@
     "rank": 10,
     "id": "css-cascade-scope",
     "title": "Scoped Styles: the @scope rule",
-    "score": 81.5,
+    "score": 81.43,
     "usage": {
       "fully_supported": 88.41,
       "partially_supported": 0
@@ -193,7 +193,7 @@
     "signals": {
       "coverage_score": 44.2,
       "breadth_score": 25,
-      "freshness_score": 9.8,
+      "freshness_score": 9.73,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -203,7 +203,7 @@
     "rank": 11,
     "id": "zstd",
     "title": "zstd (Zstandard) content-encoding",
-    "score": 80.98,
+    "score": 80.91,
     "usage": {
       "fully_supported": 78.65,
       "partially_supported": 3.01
@@ -213,7 +213,7 @@
     "signals": {
       "coverage_score": 39.78,
       "breadth_score": 22.5,
-      "freshness_score": 16.2,
+      "freshness_score": 16.13,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -243,7 +243,7 @@
     "rank": 13,
     "id": "input-file-directory",
     "title": "Directory selection from file input",
-    "score": 80.15,
+    "score": 80.08,
     "usage": {
       "fully_supported": 90.89,
       "partially_supported": 0
@@ -253,7 +253,7 @@
     "signals": {
       "coverage_score": 45.45,
       "breadth_score": 22.5,
-      "freshness_score": 5.18,
+      "freshness_score": 5.11,
       "momentum_score": 7.02,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -263,7 +263,7 @@
     "rank": 14,
     "id": "css-overflow-anchor",
     "title": "CSS overflow-anchor (Scroll Anchoring)",
-    "score": 79.52,
+    "score": 79.46,
     "usage": {
       "fully_supported": 78.63,
       "partially_supported": 0
@@ -273,7 +273,7 @@
     "signals": {
       "coverage_score": 39.31,
       "breadth_score": 20,
-      "freshness_score": 17.71,
+      "freshness_score": 17.65,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 8
@@ -283,7 +283,7 @@
     "rank": 15,
     "id": "view-transitions",
     "title": "View Transitions API (single-document)",
-    "score": 79.47,
+    "score": 79.41,
     "usage": {
       "fully_supported": 89.88,
       "partially_supported": 0
@@ -293,7 +293,7 @@
     "signals": {
       "coverage_score": 44.94,
       "breadth_score": 25,
-      "freshness_score": 5.57,
+      "freshness_score": 5.51,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -303,7 +303,7 @@
     "rank": 16,
     "id": "web-serial",
     "title": "Web Serial API",
-    "score": 77.51,
+    "score": 77.44,
     "usage": {
       "fully_supported": 72.96,
       "partially_supported": 0
@@ -313,7 +313,7 @@
     "signals": {
       "coverage_score": 36.48,
       "breadth_score": 12.5,
-      "freshness_score": 23.53,
+      "freshness_score": 23.46,
       "momentum_score": 5,
       "added_score": 0,
       "current_supported_browsers": 5
@@ -383,7 +383,7 @@
     "rank": 20,
     "id": "http3",
     "title": "HTTP/3 protocol",
-    "score": 75.75,
+    "score": 75.69,
     "usage": {
       "fully_supported": 92.86,
       "partially_supported": 0.45
@@ -393,7 +393,7 @@
     "signals": {
       "coverage_score": 46.5,
       "breadth_score": 22.5,
-      "freshness_score": 4.25,
+      "freshness_score": 4.19,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -463,7 +463,7 @@
     "rank": 24,
     "id": "cross-document-view-transitions",
     "title": "View Transitions (cross-document)",
-    "score": 74.14,
+    "score": 74.08,
     "usage": {
       "fully_supported": 83.66,
       "partially_supported": 1.87
@@ -473,7 +473,7 @@
     "signals": {
       "coverage_score": 42.11,
       "breadth_score": 22.5,
-      "freshness_score": 5.57,
+      "freshness_score": 5.51,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -483,7 +483,7 @@
     "rank": 25,
     "id": "trusted-types",
     "title": "Trusted Types for DOM manipulation",
-    "score": 73.81,
+    "score": 73.74,
     "usage": {
       "fully_supported": 89.03,
       "partially_supported": 0
@@ -493,7 +493,7 @@
     "signals": {
       "coverage_score": 44.52,
       "breadth_score": 25,
-      "freshness_score": 0.33,
+      "freshness_score": 0.26,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -503,7 +503,7 @@
     "rank": 26,
     "id": "css3-attr",
     "title": "CSS3 attr() function for all properties",
-    "score": 73.55,
+    "score": 73.48,
     "usage": {
       "fully_supported": 69.18,
       "partially_supported": 0
@@ -513,7 +513,7 @@
     "signals": {
       "coverage_score": 34.59,
       "breadth_score": 15,
-      "freshness_score": 21.46,
+      "freshness_score": 21.39,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 6
@@ -1881,26 +1881,6 @@
   },
   {
     "rank": 95,
-    "id": "http-live-streaming",
-    "title": "HTTP Live Streaming (HLS)",
-    "score": 73.09,
-    "usage": {
-      "fully_supported": 81.86,
-      "partially_supported": 0
-    },
-    "latest_event_type": "support",
-    "latest_event_at": "2025-10-30T21:42:12-07:00",
-    "signals": {
-      "coverage_score": 40.93,
-      "breadth_score": 17.5,
-      "freshness_score": 9.66,
-      "momentum_score": 5,
-      "added_score": 0,
-      "current_supported_browsers": 7
-    }
-  },
-  {
-    "rank": 96,
     "id": "input-event",
     "title": "input event",
     "score": 73.09,
@@ -1920,7 +1900,7 @@
     }
   },
   {
-    "rank": 97,
+    "rank": 96,
     "id": "insertadjacenthtml",
     "title": "Element.insertAdjacentHTML()",
     "score": 73.09,
@@ -1940,7 +1920,7 @@
     }
   },
   {
-    "rank": 98,
+    "rank": 97,
     "id": "maxlength",
     "title": "maxlength attribute for input and textarea elements",
     "score": 73.09,
@@ -1960,7 +1940,7 @@
     }
   },
   {
-    "rank": 99,
+    "rank": 98,
     "id": "rem",
     "title": "rem (root em) units",
     "score": 73.09,
@@ -1980,7 +1960,7 @@
     }
   },
   {
-    "rank": 100,
+    "rank": 99,
     "id": "script-defer",
     "title": "defer attribute for external scripts",
     "score": 73.09,
@@ -1992,6 +1972,26 @@
     "latest_event_at": null,
     "signals": {
       "coverage_score": 48.09,
+      "breadth_score": 25,
+      "freshness_score": 0,
+      "momentum_score": 0,
+      "added_score": 0,
+      "current_supported_browsers": 10
+    }
+  },
+  {
+    "rank": 100,
+    "id": "es5",
+    "title": "ECMAScript 5",
+    "score": 73.07,
+    "usage": {
+      "fully_supported": 96.09,
+      "partially_supported": 0.18
+    },
+    "latest_event_type": null,
+    "latest_event_at": null,
+    "signals": {
+      "coverage_score": 48.07,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
