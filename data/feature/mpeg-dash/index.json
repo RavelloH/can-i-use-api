@@ -520,6 +520,7 @@
           "13": "n",
           "14": "n",
           "15": "n",
+          "27": "n",
           "3.1": "n",
           "3.2": "n",
           "5.1": "n",
@@ -790,7 +791,7 @@
         "short_name": "And.",
         "browser": "Android Browser",
         "type": "mobile",
-        "current_version": "148",
+        "current_version": "149",
         "current_status": "n",
         "current_global_usage": 0.3,
         "first_partial_version": null,
@@ -798,7 +799,7 @@
         "stats": {
           "3": "n",
           "4": "n",
-          "148": "n",
+          "149": "n",
           "2.1": "n",
           "2.2": "n",
           "2.3": "n",
@@ -851,13 +852,13 @@
         "short_name": "Chr/And.",
         "browser": "Chrome for Android",
         "type": "mobile",
-        "current_version": "148",
+        "current_version": "149",
         "current_status": "n",
         "current_global_usage": 42.2,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
-          "148": "n"
+          "149": "n"
         }
       },
       {
@@ -866,13 +867,13 @@
         "short_name": "FF/And.",
         "browser": "Firefox for Android",
         "type": "mobile",
-        "current_version": "150",
+        "current_version": "151",
         "current_status": "n",
         "current_global_usage": 0.37,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
-          "150": "n"
+          "151": "n"
         }
       },
       {
@@ -914,7 +915,7 @@
         "type": "mobile",
         "current_version": "30",
         "current_status": "n",
-        "current_global_usage": 0,
+        "current_global_usage": 0.19,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -997,6 +998,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "4adfc5cceeb097e7dfc531035ed5f6adf9360b98"
+    "commit": "cf68cdff27b15a9cfb405de1c23120a787bee6ea"
   }
 }

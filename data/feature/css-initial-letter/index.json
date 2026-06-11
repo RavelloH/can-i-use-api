@@ -51,14 +51,14 @@
   "chrome_id": "5167442033115136",
   "usage": {
     "fully_supported": 0,
-    "partially_supported": 88.99
+    "partially_supported": 89.18
   },
   "latest_event": null,
   "hot": {
-    "rank": 493,
-    "score": 33.35,
+    "rank": 494,
+    "score": 33.38,
     "signals": {
-      "coverage_score": 13.35,
+      "coverage_score": 13.38,
       "breadth_score": 20,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -535,6 +535,7 @@
           "13": "a x #1 #2",
           "14": "a x #1 #2",
           "15": "a x #1 #2",
+          "27": "a x #2",
           "3.1": "n",
           "3.2": "n",
           "5.1": "n",
@@ -805,15 +806,15 @@
         "short_name": "And.",
         "browser": "Android Browser",
         "type": "mobile",
-        "current_version": "148",
+        "current_version": "149",
         "current_status": "a #2",
         "current_global_usage": 0.3,
-        "first_partial_version": "148",
+        "first_partial_version": "149",
         "first_full_version": null,
         "stats": {
           "3": "n",
           "4": "n",
-          "148": "a #2",
+          "149": "a #2",
           "2.1": "n",
           "2.2": "n",
           "2.3": "n",
@@ -866,13 +867,13 @@
         "short_name": "Chr/And.",
         "browser": "Chrome for Android",
         "type": "mobile",
-        "current_version": "148",
+        "current_version": "149",
         "current_status": "a #2",
         "current_global_usage": 42.2,
-        "first_partial_version": "148",
+        "first_partial_version": "149",
         "first_full_version": null,
         "stats": {
-          "148": "a #2"
+          "149": "a #2"
         }
       },
       {
@@ -881,13 +882,13 @@
         "short_name": "FF/And.",
         "browser": "Firefox for Android",
         "type": "mobile",
-        "current_version": "150",
+        "current_version": "151",
         "current_status": "n",
         "current_global_usage": 0.37,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
-          "150": "n"
+          "151": "n"
         }
       },
       {
@@ -929,7 +930,7 @@
         "type": "mobile",
         "current_version": "30",
         "current_status": "a #2",
-        "current_global_usage": 0,
+        "current_global_usage": 0.19,
         "first_partial_version": "21",
         "first_full_version": null,
         "stats": {
@@ -1012,6 +1013,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "4adfc5cceeb097e7dfc531035ed5f6adf9360b98"
+    "commit": "cf68cdff27b15a9cfb405de1c23120a787bee6ea"
   }
 }

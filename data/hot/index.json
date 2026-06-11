@@ -3,17 +3,17 @@
     "rank": 1,
     "id": "srcset",
     "title": "Srcset and sizes attributes",
-    "score": 89.02,
+    "score": 89.04,
     "usage": {
-      "fully_supported": 86.57,
+      "fully_supported": 86.76,
       "partially_supported": 9.63
     },
     "latest_event_type": "support",
     "latest_event_at": "2026-02-21T19:51:26-08:00",
     "signals": {
-      "coverage_score": 44.73,
+      "coverage_score": 44.82,
       "breadth_score": 25,
-      "freshness_score": 16.79,
+      "freshness_score": 16.72,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -23,17 +23,17 @@
     "rank": 2,
     "id": "background-attachment",
     "title": "CSS background-attachment",
-    "score": 89.01,
+    "score": 88.98,
     "usage": {
       "fully_supported": 82.01,
-      "partially_supported": 14.17
+      "partially_supported": 14.36
     },
     "latest_event_type": "support",
     "latest_event_at": "2026-02-01T21:40:11-08:00",
     "signals": {
-      "coverage_score": 43.13,
+      "coverage_score": 43.16,
       "breadth_score": 22.5,
-      "freshness_score": 15.46,
+      "freshness_score": 15.4,
       "momentum_score": 7.92,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -43,17 +43,17 @@
     "rank": 3,
     "id": "webtransport",
     "title": "WebTransport",
-    "score": 87.4,
+    "score": 87.42,
     "usage": {
-      "fully_supported": 85.29,
+      "fully_supported": 85.48,
       "partially_supported": 0
     },
     "latest_event_type": "support",
     "latest_event_at": "2026-02-28T15:41:06-08:00",
     "signals": {
-      "coverage_score": 42.65,
+      "coverage_score": 42.74,
       "breadth_score": 25,
-      "freshness_score": 17.25,
+      "freshness_score": 17.18,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -63,17 +63,17 @@
     "rank": 4,
     "id": "css-scrollbar",
     "title": "CSS scrollbar styling",
-    "score": 87.06,
+    "score": 87.09,
     "usage": {
-      "fully_supported": 80.6,
+      "fully_supported": 80.79,
       "partially_supported": 11.82
     },
     "latest_event_type": "support",
     "latest_event_at": "2026-01-03T21:29:49-08:00",
     "signals": {
-      "coverage_score": 42.07,
+      "coverage_score": 42.17,
       "breadth_score": 25,
-      "freshness_score": 13.53,
+      "freshness_score": 13.46,
       "momentum_score": 6.46,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -83,17 +83,17 @@
     "rank": 5,
     "id": "link-icon-svg",
     "title": "SVG favicons",
-    "score": 86.33,
+    "score": 86.36,
     "usage": {
-      "fully_supported": 88.15,
+      "fully_supported": 88.34,
       "partially_supported": 0.04
     },
     "latest_event_type": "support",
     "latest_event_at": "2026-02-28T15:45:04-08:00",
     "signals": {
-      "coverage_score": 44.08,
+      "coverage_score": 44.18,
       "breadth_score": 22.5,
-      "freshness_score": 17.25,
+      "freshness_score": 17.18,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -103,17 +103,17 @@
     "rank": 6,
     "id": "css-text-indent",
     "title": "CSS text-indent",
-    "score": 84.31,
+    "score": 84.28,
     "usage": {
       "fully_supported": 78.69,
-      "partially_supported": 17.82
+      "partially_supported": 18.01
     },
     "latest_event_type": "support",
     "latest_event_at": "2026-01-22T20:46:17-08:00",
     "signals": {
-      "coverage_score": 42.02,
+      "coverage_score": 42.05,
       "breadth_score": 25,
-      "freshness_score": 14.79,
+      "freshness_score": 14.73,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -123,17 +123,17 @@
     "rank": 7,
     "id": "createimagebitmap",
     "title": "createImageBitmap",
-    "score": 82.7,
+    "score": 82.74,
     "usage": {
-      "fully_supported": 93.05,
+      "fully_supported": 93.24,
       "partially_supported": 1.73
     },
     "latest_event_type": "support",
     "latest_event_at": "2025-07-28T20:39:42-07:00",
     "signals": {
-      "coverage_score": 46.78,
+      "coverage_score": 46.88,
       "breadth_score": 25,
-      "freshness_score": 2.92,
+      "freshness_score": 2.86,
       "momentum_score": 8,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -143,17 +143,17 @@
     "rank": 8,
     "id": "link-rel-dns-prefetch",
     "title": "Resource Hints: dns-prefetch",
-    "score": 81.98,
+    "score": 82,
     "usage": {
-      "fully_supported": 91.75,
+      "fully_supported": 91.94,
       "partially_supported": 0.35
     },
     "latest_event_type": "support",
     "latest_event_at": "2025-11-05T18:55:31-08:00",
     "signals": {
-      "coverage_score": 45.93,
+      "coverage_score": 46.02,
       "breadth_score": 22.5,
-      "freshness_score": 9.59,
+      "freshness_score": 9.52,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -163,17 +163,17 @@
     "rank": 9,
     "id": "css-anchor-positioning",
     "title": "CSS Anchor Positioning",
-    "score": 80.63,
+    "score": 80.66,
     "usage": {
-      "fully_supported": 80.55,
+      "fully_supported": 80.74,
       "partially_supported": 0
     },
     "latest_event_type": "support",
     "latest_event_at": "2025-12-02T22:08:47-08:00",
     "signals": {
-      "coverage_score": 40.27,
+      "coverage_score": 40.37,
       "breadth_score": 25,
-      "freshness_score": 11.4,
+      "freshness_score": 11.33,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -183,17 +183,17 @@
     "rank": 10,
     "id": "css-cascade-scope",
     "title": "Scoped Styles: the @scope rule",
-    "score": 80.24,
+    "score": 80.27,
     "usage": {
-      "fully_supported": 86.83,
+      "fully_supported": 87.02,
       "partially_supported": 0
     },
     "latest_event_type": "support",
     "latest_event_at": "2025-11-01T23:14:58-07:00",
     "signals": {
-      "coverage_score": 43.41,
+      "coverage_score": 43.51,
       "breadth_score": 25,
-      "freshness_score": 9.33,
+      "freshness_score": 9.26,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -203,7 +203,7 @@
     "rank": 11,
     "id": "input-file-directory",
     "title": "Directory selection from file input",
-    "score": 80.14,
+    "score": 80.08,
     "usage": {
       "fully_supported": 91.83,
       "partially_supported": 0
@@ -213,7 +213,7 @@
     "signals": {
       "coverage_score": 45.91,
       "breadth_score": 22.5,
-      "freshness_score": 4.71,
+      "freshness_score": 4.65,
       "momentum_score": 7.02,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -223,15 +223,15 @@
     "rank": 12,
     "id": "input-inputmode",
     "title": "inputmode attribute",
-    "score": 79.96,
+    "score": 80.05,
     "usage": {
-      "fully_supported": 93.92,
+      "fully_supported": 94.11,
       "partially_supported": 0
     },
     "latest_event_type": "support",
     "latest_event_at": "2025-02-06T21:23:01-08:00",
     "signals": {
-      "coverage_score": 46.96,
+      "coverage_score": 47.05,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 8,
@@ -243,7 +243,7 @@
     "rank": 13,
     "id": "zstd",
     "title": "zstd (Zstandard) content-encoding",
-    "score": 79.86,
+    "score": 79.79,
     "usage": {
       "fully_supported": 77.51,
       "partially_supported": 2.47
@@ -253,7 +253,7 @@
     "signals": {
       "coverage_score": 39.13,
       "breadth_score": 22.5,
-      "freshness_score": 15.73,
+      "freshness_score": 15.66,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -263,17 +263,17 @@
     "rank": 14,
     "id": "css-overflow-anchor",
     "title": "CSS overflow-anchor (Scroll Anchoring)",
-    "score": 79.34,
+    "score": 79.37,
     "usage": {
-      "fully_supported": 79.19,
+      "fully_supported": 79.38,
       "partially_supported": 0
     },
     "latest_event_type": "support",
     "latest_event_at": "2026-02-28T15:40:30-08:00",
     "signals": {
-      "coverage_score": 39.59,
+      "coverage_score": 39.69,
       "breadth_score": 20,
-      "freshness_score": 17.25,
+      "freshness_score": 17.18,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 8
@@ -281,29 +281,49 @@
   },
   {
     "rank": 15,
+    "id": "picture-in-picture",
+    "title": "Picture-in-Picture",
+    "score": 78.42,
+    "usage": {
+      "fully_supported": 47.54,
+      "partially_supported": 44.64
+    },
+    "latest_event_type": "support",
+    "latest_event_at": "2026-06-10T19:01:01-07:00",
+    "signals": {
+      "coverage_score": 30.47,
+      "breadth_score": 20,
+      "freshness_score": 23.99,
+      "momentum_score": 3.96,
+      "added_score": 0,
+      "current_supported_browsers": 8
+    }
+  },
+  {
+    "rank": 16,
     "id": "view-transitions",
     "title": "View Transitions API (single-document)",
-    "score": 78.3,
+    "score": 78.32,
     "usage": {
-      "fully_supported": 88.45,
+      "fully_supported": 88.64,
       "partially_supported": 0
     },
     "latest_event_type": "support",
     "latest_event_at": "2025-08-30T14:52:29-07:00",
     "signals": {
-      "coverage_score": 44.23,
+      "coverage_score": 44.32,
       "breadth_score": 25,
-      "freshness_score": 5.11,
+      "freshness_score": 5.04,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 10
     }
   },
   {
-    "rank": 16,
+    "rank": 17,
     "id": "web-serial",
     "title": "Web Serial API",
-    "score": 77.61,
+    "score": 77.55,
     "usage": {
       "fully_supported": 74.11,
       "partially_supported": 0
@@ -313,45 +333,25 @@
     "signals": {
       "coverage_score": 37.05,
       "breadth_score": 12.5,
-      "freshness_score": 23.06,
+      "freshness_score": 23,
       "momentum_score": 5,
       "added_score": 0,
       "current_supported_browsers": 5
     }
   },
   {
-    "rank": 17,
+    "rank": 18,
     "id": "ogg-vorbis",
     "title": "Ogg Vorbis audio format",
-    "score": 77.07,
+    "score": 77.16,
     "usage": {
-      "fully_supported": 93.76,
+      "fully_supported": 93.95,
       "partially_supported": 1.25
     },
     "latest_event_type": "support",
     "latest_event_at": "2025-03-12T22:30:54-07:00",
     "signals": {
-      "coverage_score": 47.07,
-      "breadth_score": 25,
-      "freshness_score": 0,
-      "momentum_score": 5,
-      "added_score": 0,
-      "current_supported_browsers": 10
-    }
-  },
-  {
-    "rank": 18,
-    "id": "opus",
-    "title": "Opus audio format",
-    "score": 76.58,
-    "usage": {
-      "fully_supported": 91.86,
-      "partially_supported": 4.32
-    },
-    "latest_event_type": "support",
-    "latest_event_at": "2025-03-12T22:33:03-07:00",
-    "signals": {
-      "coverage_score": 46.58,
+      "coverage_score": 47.16,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 5,
@@ -361,17 +361,37 @@
   },
   {
     "rank": 19,
+    "id": "opus",
+    "title": "Opus audio format",
+    "score": 76.67,
+    "usage": {
+      "fully_supported": 92.05,
+      "partially_supported": 4.32
+    },
+    "latest_event_type": "support",
+    "latest_event_at": "2025-03-12T22:33:03-07:00",
+    "signals": {
+      "coverage_score": 46.67,
+      "breadth_score": 25,
+      "freshness_score": 0,
+      "momentum_score": 5,
+      "added_score": 0,
+      "current_supported_browsers": 10
+    }
+  },
+  {
+    "rank": 20,
     "id": "css-text-wrap-balance",
     "title": "CSS text-wrap: balance",
-    "score": 75.02,
+    "score": 75.05,
     "usage": {
       "fully_supported": 82.45,
-      "partially_supported": 5.3
+      "partially_supported": 5.49
     },
     "latest_event_type": "support",
     "latest_event_at": "2024-12-18T19:34:39-08:00",
     "signals": {
-      "coverage_score": 42.02,
+      "coverage_score": 42.05,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 8,
@@ -380,10 +400,10 @@
     }
   },
   {
-    "rank": 20,
+    "rank": 21,
     "id": "http3",
     "title": "HTTP/3 protocol",
-    "score": 74.96,
+    "score": 74.89,
     "usage": {
       "fully_supported": 92.22,
       "partially_supported": 0.38
@@ -393,25 +413,25 @@
     "signals": {
       "coverage_score": 46.17,
       "breadth_score": 22.5,
-      "freshness_score": 3.79,
+      "freshness_score": 3.72,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 9
     }
   },
   {
-    "rank": 21,
+    "rank": 22,
     "id": "cookie-store-api",
     "title": "Cookie Store API",
-    "score": 74.66,
+    "score": 74.76,
     "usage": {
-      "fully_supported": 91.4,
+      "fully_supported": 91.59,
       "partially_supported": 0
     },
     "latest_event_type": "support",
     "latest_event_at": "2025-04-19T10:07:38-07:00",
     "signals": {
-      "coverage_score": 45.7,
+      "coverage_score": 45.8,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 3.96,
@@ -420,18 +440,18 @@
     }
   },
   {
-    "rank": 22,
+    "rank": 23,
     "id": "css-nesting",
     "title": "CSS Nesting",
-    "score": 73.46,
+    "score": 73.55,
     "usage": {
-      "fully_supported": 85.84,
+      "fully_supported": 86.03,
       "partially_supported": 3.59
     },
     "latest_event_type": "support",
     "latest_event_at": "2025-04-15T22:41:36-07:00",
     "signals": {
-      "coverage_score": 43.46,
+      "coverage_score": 43.55,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 5,
@@ -440,18 +460,18 @@
     }
   },
   {
-    "rank": 23,
+    "rank": 24,
     "id": "trusted-types",
     "title": "Trusted Types for DOM manipulation",
-    "score": 73.3,
+    "score": 73.4,
     "usage": {
-      "fully_supported": 88.69,
+      "fully_supported": 88.88,
       "partially_supported": 0
     },
     "latest_event_type": "support",
     "latest_event_at": "2025-06-12T21:24:51-07:00",
     "signals": {
-      "coverage_score": 44.34,
+      "coverage_score": 44.44,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 3.96,
@@ -460,38 +480,18 @@
     }
   },
   {
-    "rank": 24,
+    "rank": 25,
     "id": "addeventlistener",
     "title": "EventTarget.addEventListener()",
-    "score": 73.26,
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
-      "breadth_score": 25,
-      "freshness_score": 0,
-      "momentum_score": 0,
-      "added_score": 0,
-      "current_supported_browsers": 10
-    }
-  },
-  {
-    "rank": 25,
-    "id": "background-img-opts",
-    "title": "CSS3 Background-image options",
-    "score": 73.26,
-    "usage": {
-      "fully_supported": 96.51,
-      "partially_supported": 0
-    },
-    "latest_event_type": null,
-    "latest_event_at": null,
-    "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -501,17 +501,17 @@
   },
   {
     "rank": 26,
-    "id": "border-radius",
-    "title": "CSS3 Border-radius (rounded corners)",
-    "score": 73.26,
+    "id": "background-img-opts",
+    "title": "CSS3 Background-image options",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -521,17 +521,17 @@
   },
   {
     "rank": 27,
-    "id": "canvas",
-    "title": "Canvas (basic support)",
-    "score": 73.26,
+    "id": "border-radius",
+    "title": "CSS3 Border-radius (rounded corners)",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -541,17 +541,17 @@
   },
   {
     "rank": 28,
-    "id": "canvas-text",
-    "title": "Text API for Canvas",
-    "score": 73.26,
+    "id": "canvas",
+    "title": "Canvas (basic support)",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -561,17 +561,17 @@
   },
   {
     "rank": 29,
-    "id": "contenteditable",
-    "title": "contenteditable attribute (basic support)",
-    "score": 73.26,
+    "id": "canvas-text",
+    "title": "Text API for Canvas",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -581,17 +581,17 @@
   },
   {
     "rank": 30,
-    "id": "css-boxshadow",
-    "title": "CSS3 Box-shadow",
-    "score": 73.26,
+    "id": "comparedocumentposition",
+    "title": "Node.compareDocumentPosition()",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
-      "partially_supported": 0
+      "fully_supported": 96.69,
+      "partially_supported": 0.01
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -601,17 +601,17 @@
   },
   {
     "rank": 31,
-    "id": "css-counters",
-    "title": "CSS Counters",
-    "score": 73.26,
+    "id": "contenteditable",
+    "title": "contenteditable attribute (basic support)",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -621,17 +621,17 @@
   },
   {
     "rank": 32,
-    "id": "css-first-letter",
-    "title": "::first-letter CSS pseudo-element selector",
-    "score": 73.26,
+    "id": "css-boxshadow",
+    "title": "CSS3 Box-shadow",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -641,17 +641,17 @@
   },
   {
     "rank": 33,
-    "id": "css-first-line",
-    "title": "CSS first-line pseudo-element",
-    "score": 73.26,
+    "id": "css-counters",
+    "title": "CSS Counters",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -661,17 +661,17 @@
   },
   {
     "rank": 34,
-    "id": "css-gencontent",
-    "title": "CSS Generated content for pseudo-elements",
-    "score": 73.26,
+    "id": "css-first-letter",
+    "title": "::first-letter CSS pseudo-element selector",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -681,17 +681,17 @@
   },
   {
     "rank": 35,
-    "id": "css-letter-spacing",
-    "title": "letter-spacing CSS property",
-    "score": 73.26,
+    "id": "css-first-line",
+    "title": "CSS first-line pseudo-element",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -701,17 +701,17 @@
   },
   {
     "rank": 36,
-    "id": "css-mediaqueries",
-    "title": "CSS3 Media Queries",
-    "score": 73.26,
+    "id": "css-gencontent",
+    "title": "CSS Generated content for pseudo-elements",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -721,17 +721,17 @@
   },
   {
     "rank": 37,
-    "id": "css-namespaces",
-    "title": "CSS namespaces",
-    "score": 73.26,
+    "id": "css-letter-spacing",
+    "title": "letter-spacing CSS property",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -741,17 +741,17 @@
   },
   {
     "rank": 38,
-    "id": "css-opacity",
-    "title": "CSS3 Opacity",
-    "score": 73.26,
+    "id": "css-mediaqueries",
+    "title": "CSS3 Media Queries",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -761,17 +761,17 @@
   },
   {
     "rank": 39,
-    "id": "css-sel2",
-    "title": "CSS 2.1 selectors",
-    "score": 73.26,
+    "id": "css-namespaces",
+    "title": "CSS namespaces",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -781,17 +781,17 @@
   },
   {
     "rank": 40,
-    "id": "css-sel3",
-    "title": "CSS3 selectors",
-    "score": 73.26,
+    "id": "css-opacity",
+    "title": "CSS3 Opacity",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -801,17 +801,17 @@
   },
   {
     "rank": 41,
-    "id": "css-table",
-    "title": "CSS Table display",
-    "score": 73.26,
+    "id": "css-sel2",
+    "title": "CSS 2.1 selectors",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -821,17 +821,17 @@
   },
   {
     "rank": 42,
-    "id": "css3-boxsizing",
-    "title": "CSS3 Box-sizing",
-    "score": 73.26,
+    "id": "css-sel3",
+    "title": "CSS3 selectors",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -841,17 +841,17 @@
   },
   {
     "rank": 43,
-    "id": "css3-colors",
-    "title": "CSS3 Colors",
-    "score": 73.26,
+    "id": "css-table",
+    "title": "CSS Table display",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -861,17 +861,17 @@
   },
   {
     "rank": 44,
-    "id": "currentcolor",
-    "title": "CSS currentColor value",
-    "score": 73.26,
+    "id": "css3-boxsizing",
+    "title": "CSS3 Box-sizing",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -881,17 +881,17 @@
   },
   {
     "rank": 45,
-    "id": "dispatchevent",
-    "title": "EventTarget.dispatchEvent",
-    "score": 73.26,
+    "id": "css3-colors",
+    "title": "CSS3 Colors",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -901,17 +901,17 @@
   },
   {
     "rank": 46,
-    "id": "document-execcommand",
-    "title": "Document.execCommand()",
-    "score": 73.26,
+    "id": "currentcolor",
+    "title": "CSS currentColor value",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -921,17 +921,17 @@
   },
   {
     "rank": 47,
-    "id": "documenthead",
-    "title": "document.head",
-    "score": 73.26,
+    "id": "dispatchevent",
+    "title": "EventTarget.dispatchEvent",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -941,17 +941,17 @@
   },
   {
     "rank": 48,
-    "id": "dom-range",
-    "title": "Document Object Model Range",
-    "score": 73.26,
+    "id": "document-execcommand",
+    "title": "Document.execCommand()",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -961,17 +961,17 @@
   },
   {
     "rank": 49,
-    "id": "domcontentloaded",
-    "title": "DOMContentLoaded",
-    "score": 73.26,
+    "id": "documenthead",
+    "title": "document.head",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -981,17 +981,17 @@
   },
   {
     "rank": 50,
-    "id": "element-from-point",
-    "title": "document.elementFromPoint()",
-    "score": 73.26,
+    "id": "dom-range",
+    "title": "Document Object Model Range",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1001,17 +1001,17 @@
   },
   {
     "rank": 51,
-    "id": "fontface",
-    "title": "@font-face Web fonts",
-    "score": 73.26,
+    "id": "domcontentloaded",
+    "title": "DOMContentLoaded",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1021,17 +1021,17 @@
   },
   {
     "rank": 52,
-    "id": "geolocation",
-    "title": "Geolocation",
-    "score": 73.26,
+    "id": "element-from-point",
+    "title": "document.elementFromPoint()",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1041,17 +1041,17 @@
   },
   {
     "rank": 53,
-    "id": "getcomputedstyle",
-    "title": "getComputedStyle",
-    "score": 73.26,
+    "id": "fontface",
+    "title": "@font-face Web fonts",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1061,17 +1061,17 @@
   },
   {
     "rank": 54,
-    "id": "getelementsbyclassname",
-    "title": "getElementsByClassName",
-    "score": 73.26,
+    "id": "geolocation",
+    "title": "Geolocation",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1081,17 +1081,17 @@
   },
   {
     "rank": 55,
-    "id": "hashchange",
-    "title": "Hashchange event",
-    "score": 73.26,
+    "id": "getcomputedstyle",
+    "title": "getComputedStyle",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1101,17 +1101,17 @@
   },
   {
     "rank": 56,
-    "id": "img-naturalwidth-naturalheight",
-    "title": "naturalWidth & naturalHeight image properties",
-    "score": 73.26,
+    "id": "getelementsbyclassname",
+    "title": "getElementsByClassName",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1121,17 +1121,17 @@
   },
   {
     "rank": 57,
-    "id": "inline-block",
-    "title": "CSS inline-block",
-    "score": 73.26,
+    "id": "hashchange",
+    "title": "Hashchange event",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1141,17 +1141,17 @@
   },
   {
     "rank": 58,
-    "id": "input-selection",
-    "title": "Selection controls for input & textarea",
-    "score": 73.26,
+    "id": "img-naturalwidth-naturalheight",
+    "title": "naturalWidth & naturalHeight image properties",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1161,17 +1161,17 @@
   },
   {
     "rank": 59,
-    "id": "json",
-    "title": "JSON parsing",
-    "score": 73.26,
+    "id": "inline-block",
+    "title": "CSS inline-block",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1181,17 +1181,17 @@
   },
   {
     "rank": 60,
-    "id": "minmaxwh",
-    "title": "CSS min/max-width/height",
-    "score": 73.26,
+    "id": "input-selection",
+    "title": "Selection controls for input & textarea",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1201,17 +1201,17 @@
   },
   {
     "rank": 61,
-    "id": "multibackgrounds",
-    "title": "CSS3 Multiple backgrounds",
-    "score": 73.26,
+    "id": "json",
+    "title": "JSON parsing",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1221,17 +1221,17 @@
   },
   {
     "rank": 62,
-    "id": "namevalue-storage",
-    "title": "Web Storage - name/value pairs",
-    "score": 73.26,
+    "id": "minmaxwh",
+    "title": "CSS min/max-width/height",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1241,17 +1241,17 @@
   },
   {
     "rank": 63,
-    "id": "png-alpha",
-    "title": "PNG alpha transparency",
-    "score": 73.26,
+    "id": "multibackgrounds",
+    "title": "CSS3 Multiple backgrounds",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1261,17 +1261,17 @@
   },
   {
     "rank": 64,
-    "id": "queryselector",
-    "title": "querySelector/querySelectorAll",
-    "score": 73.26,
+    "id": "namevalue-storage",
+    "title": "Web Storage - name/value pairs",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1281,17 +1281,17 @@
   },
   {
     "rank": 65,
-    "id": "readonly-attr",
-    "title": "readonly attribute of input and textarea elements",
-    "score": 73.26,
+    "id": "png-alpha",
+    "title": "PNG alpha transparency",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1301,17 +1301,17 @@
   },
   {
     "rank": 66,
-    "id": "sni",
-    "title": "Server Name Indication",
-    "score": 73.26,
+    "id": "queryselector",
+    "title": "querySelector/querySelectorAll",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1321,17 +1321,17 @@
   },
   {
     "rank": 67,
-    "id": "svg-html5",
-    "title": "Inline SVG in HTML5",
-    "score": 73.26,
+    "id": "readonly-attr",
+    "title": "readonly attribute of input and textarea elements",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1341,17 +1341,17 @@
   },
   {
     "rank": 68,
-    "id": "text-overflow",
-    "title": "CSS3 Text-overflow",
-    "score": 73.26,
+    "id": "sni",
+    "title": "Server Name Indication",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1361,17 +1361,17 @@
   },
   {
     "rank": 69,
-    "id": "textcontent",
-    "title": "Node.textContent",
-    "score": 73.26,
+    "id": "svg-html5",
+    "title": "Inline SVG in HTML5",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1381,17 +1381,17 @@
   },
   {
     "rank": 70,
-    "id": "transforms2d",
-    "title": "CSS3 2D Transforms",
-    "score": 73.26,
+    "id": "text-overflow",
+    "title": "CSS3 Text-overflow",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1401,17 +1401,17 @@
   },
   {
     "rank": 71,
-    "id": "woff",
-    "title": "WOFF - Web Open Font Format",
-    "score": 73.26,
+    "id": "textcontent",
+    "title": "Node.textContent",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1421,17 +1421,17 @@
   },
   {
     "rank": 72,
-    "id": "xhtml",
-    "title": "XHTML served as application/xhtml+xml",
-    "score": 73.26,
+    "id": "transforms2d",
+    "title": "CSS3 2D Transforms",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.51,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.26,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1441,17 +1441,17 @@
   },
   {
     "rank": 73,
-    "id": "comparedocumentposition",
-    "title": "Node.compareDocumentPosition()",
-    "score": 73.25,
+    "id": "woff",
+    "title": "WOFF - Web Open Font Format",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.5,
-      "partially_supported": 0.01
+      "fully_supported": 96.7,
+      "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.25,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1461,17 +1461,17 @@
   },
   {
     "rank": 74,
-    "id": "css-fixed",
-    "title": "CSS position:fixed",
-    "score": 73.25,
+    "id": "xhtml",
+    "title": "XHTML served as application/xhtml+xml",
+    "score": 73.35,
     "usage": {
-      "fully_supported": 96.5,
+      "fully_supported": 96.7,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.25,
+      "coverage_score": 48.35,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1481,17 +1481,17 @@
   },
   {
     "rank": 75,
-    "id": "nav-timing",
-    "title": "Navigation Timing API",
-    "score": 73.25,
+    "id": "css-fixed",
+    "title": "CSS position:fixed",
+    "score": 73.34,
     "usage": {
-      "fully_supported": 96.5,
+      "fully_supported": 96.69,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.25,
+      "coverage_score": 48.34,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1501,17 +1501,17 @@
   },
   {
     "rank": 76,
-    "id": "svg-img",
-    "title": "SVG in HTML img element",
-    "score": 73.25,
+    "id": "nav-timing",
+    "title": "Navigation Timing API",
+    "score": 73.34,
     "usage": {
-      "fully_supported": 96.5,
+      "fully_supported": 96.69,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.25,
+      "coverage_score": 48.34,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1521,17 +1521,17 @@
   },
   {
     "rank": 77,
-    "id": "getboundingclientrect",
-    "title": "Element.getBoundingClientRect()",
-    "score": 73.24,
+    "id": "svg-img",
+    "title": "SVG in HTML img element",
+    "score": 73.34,
     "usage": {
-      "fully_supported": 96.46,
-      "partially_supported": 0.04
+      "fully_supported": 96.69,
+      "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.24,
+      "coverage_score": 48.34,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1541,17 +1541,17 @@
   },
   {
     "rank": 78,
-    "id": "mp3",
-    "title": "MP3 audio format",
-    "score": 73.24,
+    "id": "background-position-x-y",
+    "title": "background-position-x & background-position-y",
+    "score": 73.33,
     "usage": {
-      "fully_supported": 96.46,
-      "partially_supported": 0.04
+      "fully_supported": 96.65,
+      "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.24,
+      "coverage_score": 48.33,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1561,17 +1561,17 @@
   },
   {
     "rank": 79,
-    "id": "online-status",
-    "title": "Online/offline status",
-    "score": 73.24,
+    "id": "css-background-offsets",
+    "title": "CSS background-position edge offsets",
+    "score": 73.33,
     "usage": {
-      "fully_supported": 96.46,
-      "partially_supported": 0.04
+      "fully_supported": 96.65,
+      "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.24,
+      "coverage_score": 48.33,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1581,17 +1581,17 @@
   },
   {
     "rank": 80,
-    "id": "svg-css",
-    "title": "SVG in CSS backgrounds",
-    "score": 73.24,
+    "id": "focusin-focusout-events",
+    "title": "focusin & focusout events",
+    "score": 73.33,
     "usage": {
-      "fully_supported": 96.46,
-      "partially_supported": 0.04
+      "fully_supported": 96.65,
+      "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.24,
+      "coverage_score": 48.33,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1601,17 +1601,17 @@
   },
   {
     "rank": 81,
-    "id": "video",
-    "title": "Video element",
-    "score": 73.24,
+    "id": "getboundingclientrect",
+    "title": "Element.getBoundingClientRect()",
+    "score": 73.33,
     "usage": {
-      "fully_supported": 96.46,
+      "fully_supported": 96.65,
       "partially_supported": 0.04
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.24,
+      "coverage_score": 48.33,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1621,17 +1621,17 @@
   },
   {
     "rank": 82,
-    "id": "background-position-x-y",
-    "title": "background-position-x & background-position-y",
-    "score": 73.23,
+    "id": "innertext",
+    "title": "HTMLElement.innerText",
+    "score": 73.33,
     "usage": {
-      "fully_supported": 96.46,
+      "fully_supported": 96.65,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.23,
+      "coverage_score": 48.33,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1641,17 +1641,17 @@
   },
   {
     "rank": 83,
-    "id": "css-background-offsets",
-    "title": "CSS background-position edge offsets",
-    "score": 73.23,
+    "id": "insert-adjacent",
+    "title": "Element.insertAdjacentElement() & Element.insertAdjacentText()",
+    "score": 73.33,
     "usage": {
-      "fully_supported": 96.46,
+      "fully_supported": 96.65,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.23,
+      "coverage_score": 48.33,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1661,17 +1661,17 @@
   },
   {
     "rank": 84,
-    "id": "focusin-focusout-events",
-    "title": "focusin & focusout events",
-    "score": 73.23,
+    "id": "keyboardevent-getmodifierstate",
+    "title": "KeyboardEvent.getModifierState()",
+    "score": 73.33,
     "usage": {
-      "fully_supported": 96.46,
+      "fully_supported": 96.65,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.23,
+      "coverage_score": 48.33,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1681,17 +1681,17 @@
   },
   {
     "rank": 85,
-    "id": "innertext",
-    "title": "HTMLElement.innerText",
-    "score": 73.23,
+    "id": "keyboardevent-location",
+    "title": "KeyboardEvent.location",
+    "score": 73.33,
     "usage": {
-      "fully_supported": 96.46,
+      "fully_supported": 96.65,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.23,
+      "coverage_score": 48.33,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1701,17 +1701,17 @@
   },
   {
     "rank": 86,
-    "id": "insert-adjacent",
-    "title": "Element.insertAdjacentElement() & Element.insertAdjacentText()",
-    "score": 73.23,
+    "id": "mp3",
+    "title": "MP3 audio format",
+    "score": 73.33,
     "usage": {
-      "fully_supported": 96.46,
-      "partially_supported": 0
+      "fully_supported": 96.65,
+      "partially_supported": 0.04
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.23,
+      "coverage_score": 48.33,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1721,17 +1721,17 @@
   },
   {
     "rank": 87,
-    "id": "keyboardevent-getmodifierstate",
-    "title": "KeyboardEvent.getModifierState()",
-    "score": 73.23,
+    "id": "mpeg4",
+    "title": "MPEG-4/H.264 video format",
+    "score": 73.33,
     "usage": {
-      "fully_supported": 96.46,
+      "fully_supported": 96.65,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.23,
+      "coverage_score": 48.33,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1741,17 +1741,17 @@
   },
   {
     "rank": 88,
-    "id": "keyboardevent-location",
-    "title": "KeyboardEvent.location",
-    "score": 73.23,
+    "id": "online-status",
+    "title": "Online/offline status",
+    "score": 73.33,
     "usage": {
-      "fully_supported": 96.46,
-      "partially_supported": 0
+      "fully_supported": 96.65,
+      "partially_supported": 0.04
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.23,
+      "coverage_score": 48.33,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1761,17 +1761,17 @@
   },
   {
     "rank": 89,
-    "id": "mpeg4",
-    "title": "MPEG-4/H.264 video format",
-    "score": 73.23,
+    "id": "svg-css",
+    "title": "SVG in CSS backgrounds",
+    "score": 73.33,
     "usage": {
-      "fully_supported": 96.46,
-      "partially_supported": 0
+      "fully_supported": 96.65,
+      "partially_supported": 0.04
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.23,
+      "coverage_score": 48.33,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1781,17 +1781,17 @@
   },
   {
     "rank": 90,
-    "id": "cors",
-    "title": "Cross-Origin Resource Sharing",
-    "score": 73.21,
+    "id": "video",
+    "title": "Video element",
+    "score": 73.33,
     "usage": {
-      "fully_supported": 96.38,
-      "partially_supported": 0.13
+      "fully_supported": 96.65,
+      "partially_supported": 0.04
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.21,
+      "coverage_score": 48.33,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1801,17 +1801,17 @@
   },
   {
     "rank": 91,
-    "id": "dataset",
-    "title": "dataset & data-* attributes",
-    "score": 73.21,
+    "id": "cors",
+    "title": "Cross-Origin Resource Sharing",
+    "score": 73.3,
     "usage": {
-      "fully_supported": 96.38,
+      "fully_supported": 96.57,
       "partially_supported": 0.13
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.21,
+      "coverage_score": 48.3,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1821,17 +1821,17 @@
   },
   {
     "rank": 92,
-    "id": "input-event",
-    "title": "input event",
-    "score": 73.21,
+    "id": "dataset",
+    "title": "dataset & data-* attributes",
+    "score": 73.3,
     "usage": {
-      "fully_supported": 96.38,
+      "fully_supported": 96.57,
       "partially_supported": 0.13
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.21,
+      "coverage_score": 48.3,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1841,17 +1841,17 @@
   },
   {
     "rank": 93,
-    "id": "insertadjacenthtml",
-    "title": "Element.insertAdjacentHTML()",
-    "score": 73.21,
+    "id": "input-event",
+    "title": "input event",
+    "score": 73.3,
     "usage": {
-      "fully_supported": 96.38,
+      "fully_supported": 96.57,
       "partially_supported": 0.13
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.21,
+      "coverage_score": 48.3,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1861,17 +1861,17 @@
   },
   {
     "rank": 94,
-    "id": "maxlength",
-    "title": "maxlength attribute for input and textarea elements",
-    "score": 73.21,
+    "id": "insertadjacenthtml",
+    "title": "Element.insertAdjacentHTML()",
+    "score": 73.3,
     "usage": {
-      "fully_supported": 96.38,
+      "fully_supported": 96.57,
       "partially_supported": 0.13
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.21,
+      "coverage_score": 48.3,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1881,17 +1881,17 @@
   },
   {
     "rank": 95,
-    "id": "rem",
-    "title": "rem (root em) units",
-    "score": 73.21,
+    "id": "maxlength",
+    "title": "maxlength attribute for input and textarea elements",
+    "score": 73.3,
     "usage": {
-      "fully_supported": 96.38,
+      "fully_supported": 96.57,
       "partially_supported": 0.13
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.21,
+      "coverage_score": 48.3,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1901,17 +1901,17 @@
   },
   {
     "rank": 96,
-    "id": "script-defer",
-    "title": "defer attribute for external scripts",
-    "score": 73.21,
+    "id": "rem",
+    "title": "rem (root em) units",
+    "score": 73.3,
     "usage": {
-      "fully_supported": 96.38,
+      "fully_supported": 96.57,
       "partially_supported": 0.13
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.21,
+      "coverage_score": 48.3,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1921,17 +1921,17 @@
   },
   {
     "rank": 97,
-    "id": "atob-btoa",
-    "title": "Base64 encoding and decoding",
-    "score": 73.19,
+    "id": "script-defer",
+    "title": "defer attribute for external scripts",
+    "score": 73.3,
     "usage": {
-      "fully_supported": 96.38,
-      "partially_supported": 0
+      "fully_supported": 96.57,
+      "partially_supported": 0.13
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.19,
+      "coverage_score": 48.3,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1941,17 +1941,17 @@
   },
   {
     "rank": 98,
-    "id": "bloburls",
-    "title": "Blob URLs",
-    "score": 73.19,
+    "id": "es5",
+    "title": "ECMAScript 5",
+    "score": 73.29,
     "usage": {
-      "fully_supported": 96.38,
-      "partially_supported": 0
+      "fully_supported": 96.52,
+      "partially_supported": 0.18
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.19,
+      "coverage_score": 48.29,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1961,17 +1961,17 @@
   },
   {
     "rank": 99,
-    "id": "console-time",
-    "title": "console.time and console.timeEnd",
-    "score": 73.19,
+    "id": "xml-serializer",
+    "title": "DOM Parsing and Serialization",
+    "score": 73.29,
     "usage": {
-      "fully_supported": 96.38,
-      "partially_supported": 0
+      "fully_supported": 96.52,
+      "partially_supported": 0.18
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.19,
+      "coverage_score": 48.29,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -1981,17 +1981,17 @@
   },
   {
     "rank": 100,
-    "id": "css-animation",
-    "title": "CSS Animation",
-    "score": 73.19,
+    "id": "atob-btoa",
+    "title": "Base64 encoding and decoding",
+    "score": 73.28,
     "usage": {
-      "fully_supported": 96.38,
+      "fully_supported": 96.57,
       "partially_supported": 0
     },
     "latest_event_type": null,
     "latest_event_at": null,
     "signals": {
-      "coverage_score": 48.19,
+      "coverage_score": 48.28,
       "breadth_score": 25,
       "freshness_score": 0,
       "momentum_score": 0,
