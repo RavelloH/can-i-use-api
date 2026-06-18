@@ -58,12 +58,12 @@
     "changes": []
   },
   "hot": {
-    "rank": 456,
-    "score": 53.62,
+    "rank": 457,
+    "score": 53.55,
     "signals": {
       "coverage_score": 32.66,
       "breadth_score": 12.5,
-      "freshness_score": 2.46,
+      "freshness_score": 2.39,
       "momentum_score": 0,
       "added_score": 6,
       "current_supported_browsers": 5
