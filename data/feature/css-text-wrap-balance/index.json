@@ -42,80 +42,15 @@
     "fully_supported": 82.45,
     "partially_supported": 5.49
   },
-  "latest_event": {
-    "type": "support",
-    "date": "2024-12-18T19:34:39-08:00",
-    "summary": "Update css-text-wrap-balance.json (#7225)",
-    "commit": {
-      "sha": "812b6fa7ca84f1bd88bf0766980b7e483bdf3fee",
-      "url": "https://github.com/Fyrd/caniuse/commit/812b6fa7ca84f1bd88bf0766980b7e483bdf3fee"
-    },
-    "improved_count": 9,
-    "changes": [
-      {
-        "browser": "edge",
-        "version": "130",
-        "from": "a #1",
-        "to": "y"
-      },
-      {
-        "browser": "edge",
-        "version": "131",
-        "from": "a #1",
-        "to": "y"
-      },
-      {
-        "browser": "chrome",
-        "version": "130",
-        "from": "a #1",
-        "to": "y"
-      },
-      {
-        "browser": "chrome",
-        "version": "131",
-        "from": "a #1",
-        "to": "y"
-      },
-      {
-        "browser": "chrome",
-        "version": "132",
-        "from": "a #1",
-        "to": "y"
-      },
-      {
-        "browser": "chrome",
-        "version": "133",
-        "from": "a #1",
-        "to": "y"
-      },
-      {
-        "browser": "chrome",
-        "version": "134",
-        "from": "a #1",
-        "to": "y"
-      },
-      {
-        "browser": "android",
-        "version": "131",
-        "from": "a #1",
-        "to": "y"
-      },
-      {
-        "browser": "and_chr",
-        "version": "131",
-        "from": "a #1",
-        "to": "y"
-      }
-    ]
-  },
+  "latest_event": null,
   "hot": {
-    "rank": 20,
-    "score": 75.05,
+    "rank": 414,
+    "score": 67.05,
     "signals": {
       "coverage_score": 42.05,
       "breadth_score": 25,
       "freshness_score": 0,
-      "momentum_score": 8,
+      "momentum_score": 0,
       "added_score": 0,
       "current_supported_browsers": 10
     }
@@ -240,9 +175,9 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "151",
+        "current_version": "152",
         "current_status": "y",
-        "current_global_usage": 0.39,
+        "current_global_usage": 0,
         "first_partial_version": "121",
         "first_full_version": "121",
         "stats": {
@@ -399,6 +334,7 @@
           "152": "y",
           "153": "y",
           "154": "y",
+          "155": "y",
           "3.5": "n",
           "3.6": "n"
         }
@@ -1067,6 +1003,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "a51f31917be172b1475670019602c107dc77f4bb"
+    "commit": "a83460fa7b804d71887aa03d407a46693cc49c89"
   }
 }

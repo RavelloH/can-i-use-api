@@ -1,5 +1,35 @@
 [
   {
+    "id": "sharedworkers",
+    "title": "Shared Web Workers",
+    "type": "support",
+    "date": "2026-06-28T12:40:28-07:00",
+    "summary": "SharedWorker is supported by (Chrome for) Android 148+ (#7534)",
+    "usage": {
+      "fully_supported": 50.32,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "4e61457c0fd3a116de055e1c7fa5bc791662b83a",
+      "url": "https://github.com/Fyrd/caniuse/commit/4e61457c0fd3a116de055e1c7fa5bc791662b83a"
+    },
+    "improved_count": 2,
+    "changes": [
+      {
+        "browser": "android",
+        "version": "149",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "and_chr",
+        "version": "149",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
     "id": "picture-in-picture",
     "title": "Picture-in-Picture",
     "type": "support",
@@ -1332,78 +1362,6 @@
         "browser": "safari",
         "version": "16.0",
         "from": "n",
-        "to": "y"
-      }
-    ]
-  },
-  {
-    "id": "css-text-wrap-balance",
-    "title": "CSS text-wrap: balance",
-    "type": "support",
-    "date": "2024-12-18T19:34:39-08:00",
-    "summary": "Update css-text-wrap-balance.json (#7225)",
-    "usage": {
-      "fully_supported": 82.45,
-      "partially_supported": 5.49
-    },
-    "commit": {
-      "sha": "812b6fa7ca84f1bd88bf0766980b7e483bdf3fee",
-      "url": "https://github.com/Fyrd/caniuse/commit/812b6fa7ca84f1bd88bf0766980b7e483bdf3fee"
-    },
-    "improved_count": 9,
-    "changes": [
-      {
-        "browser": "edge",
-        "version": "130",
-        "from": "a #1",
-        "to": "y"
-      },
-      {
-        "browser": "edge",
-        "version": "131",
-        "from": "a #1",
-        "to": "y"
-      },
-      {
-        "browser": "chrome",
-        "version": "130",
-        "from": "a #1",
-        "to": "y"
-      },
-      {
-        "browser": "chrome",
-        "version": "131",
-        "from": "a #1",
-        "to": "y"
-      },
-      {
-        "browser": "chrome",
-        "version": "132",
-        "from": "a #1",
-        "to": "y"
-      },
-      {
-        "browser": "chrome",
-        "version": "133",
-        "from": "a #1",
-        "to": "y"
-      },
-      {
-        "browser": "chrome",
-        "version": "134",
-        "from": "a #1",
-        "to": "y"
-      },
-      {
-        "browser": "android",
-        "version": "131",
-        "from": "a #1",
-        "to": "y"
-      },
-      {
-        "browser": "and_chr",
-        "version": "131",
-        "from": "a #1",
         "to": "y"
       }
     ]

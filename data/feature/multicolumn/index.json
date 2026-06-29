@@ -72,7 +72,7 @@
   },
   "latest_event": null,
   "hot": {
-    "rank": 474,
+    "rank": 475,
     "score": 44.95,
     "signals": {
       "coverage_score": 19.95,
@@ -203,9 +203,9 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "151",
+        "current_version": "152",
         "current_status": "a #4",
-        "current_global_usage": 0.39,
+        "current_global_usage": 0,
         "first_partial_version": "2",
         "first_full_version": null,
         "stats": {
@@ -362,6 +362,7 @@
           "152": "a #4",
           "153": "a #4",
           "154": "a #4",
+          "155": "a #4",
           "3.5": "a x #1",
           "3.6": "a x #1"
         }
@@ -1030,6 +1031,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "a51f31917be172b1475670019602c107dc77f4bb"
+    "commit": "a83460fa7b804d71887aa03d407a46693cc49c89"
   }
 }

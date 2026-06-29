@@ -26,6 +26,10 @@
     {
       "url": "https://greenido.wordpress.com/2011/11/03/web-workers-part-3-out-of-3-shared-wrokers/",
       "title": "Blog post"
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/SharedWorker",
+      "title": "MDN article about SharedWorker"
     }
   ],
   "notes": "",
@@ -36,15 +40,38 @@
     "fully_supported": 50.32,
     "partially_supported": 0
   },
-  "latest_event": null,
+  "latest_event": {
+    "type": "support",
+    "date": "2026-06-28T12:40:28-07:00",
+    "summary": "SharedWorker is supported by (Chrome for) Android 148+ (#7534)",
+    "commit": {
+      "sha": "4e61457c0fd3a116de055e1c7fa5bc791662b83a",
+      "url": "https://github.com/Fyrd/caniuse/commit/4e61457c0fd3a116de055e1c7fa5bc791662b83a"
+    },
+    "improved_count": 2,
+    "changes": [
+      {
+        "browser": "android",
+        "version": "149",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "and_chr",
+        "version": "149",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
   "hot": {
-    "rank": 479,
-    "score": 42.66,
+    "rank": 381,
+    "score": 70.59,
     "signals": {
       "coverage_score": 25.16,
       "breadth_score": 17.5,
-      "freshness_score": 0,
-      "momentum_score": 0,
+      "freshness_score": 23.97,
+      "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 7
     }
@@ -169,9 +196,9 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "151",
+        "current_version": "152",
         "current_status": "y",
-        "current_global_usage": 0.39,
+        "current_global_usage": 0,
         "first_partial_version": "29",
         "first_full_version": "29",
         "stats": {
@@ -328,6 +355,7 @@
           "152": "y",
           "153": "y",
           "154": "y",
+          "155": "y",
           "3.5": "n",
           "3.6": "n"
         }
@@ -996,6 +1024,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "a51f31917be172b1475670019602c107dc77f4bb"
+    "commit": "a83460fa7b804d71887aa03d407a46693cc49c89"
   }
 }

@@ -34,8 +34,8 @@
       "title": "WebKit implementation bug"
     },
     {
-      "url": "https://2ality.com/2021/06/temporal-api.html",
-      "title": "Blog post: Temporal: getting started with JavaScript’s new date time API"
+      "url": "https://web.archive.org/web/20260409180559/https://2ality.com/2021/06/temporal-api.html",
+      "title": "Archived blog post: Temporal: getting started with JavaScript’s new date time API"
     }
   ],
   "notes": "",
@@ -68,12 +68,12 @@
     ]
   },
   "hot": {
-    "rank": 450,
-    "score": 56.55,
+    "rank": 451,
+    "score": 56.48,
     "signals": {
       "coverage_score": 32.58,
       "breadth_score": 15,
-      "freshness_score": 6.47,
+      "freshness_score": 6.4,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 6
@@ -199,9 +199,9 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "151",
+        "current_version": "152",
         "current_status": "y",
-        "current_global_usage": 0.39,
+        "current_global_usage": 0,
         "first_partial_version": "139",
         "first_full_version": "139",
         "stats": {
@@ -358,6 +358,7 @@
           "152": "y",
           "153": "y",
           "154": "y",
+          "155": "y",
           "3.5": "n",
           "3.6": "n"
         }
@@ -1026,6 +1027,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "a51f31917be172b1475670019602c107dc77f4bb"
+    "commit": "a83460fa7b804d71887aa03d407a46693cc49c89"
   }
 }
