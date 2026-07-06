@@ -40,8 +40,8 @@
   "parent": null,
   "chrome_id": "5416033485586432",
   "usage": {
-    "fully_supported": 81.54,
-    "partially_supported": 13.2
+    "fully_supported": 82.36,
+    "partially_supported": 12.76
   },
   "latest_event": {
     "type": "support",
@@ -92,10 +92,10 @@
     ]
   },
   "hot": {
-    "rank": 310,
-    "score": 72.27,
+    "rank": 287,
+    "score": 72.61,
     "signals": {
-      "coverage_score": 42.75,
+      "coverage_score": 43.09,
       "breadth_score": 22.5,
       "freshness_score": 0,
       "momentum_score": 7.02,
@@ -113,7 +113,7 @@
         "type": "desktop",
         "current_version": "11",
         "current_status": "n",
-        "current_global_usage": 0.13,
+        "current_global_usage": 0.22,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -132,7 +132,7 @@
         "short_name": "Edge",
         "browser": "Edge",
         "type": "desktop",
-        "current_version": "149",
+        "current_version": "150",
         "current_status": "y #2",
         "current_global_usage": 0,
         "first_partial_version": "17",
@@ -214,7 +214,8 @@
           "146": "y #2",
           "147": "y #2",
           "148": "y #2",
-          "149": "y #2"
+          "149": "y #2",
+          "150": "y #2"
         }
       },
       {
@@ -225,7 +226,7 @@
         "type": "desktop",
         "current_version": "152",
         "current_status": "y #2",
-        "current_global_usage": 0,
+        "current_global_usage": 0.47,
         "first_partial_version": "44",
         "first_full_version": "44",
         "stats": {
@@ -393,9 +394,9 @@
         "short_name": "Chr.",
         "browser": "Chrome",
         "type": "desktop",
-        "current_version": "149",
+        "current_version": "150",
         "current_status": "y #2",
-        "current_global_usage": 0.03,
+        "current_global_usage": 0.04,
         "first_partial_version": "44",
         "first_full_version": "50",
         "stats": {
@@ -546,7 +547,8 @@
           "149": "y #2",
           "150": "y #2",
           "151": "y #2",
-          "152": "y #2"
+          "152": "y #2",
+          "153": "y #2"
         }
       },
       {
@@ -557,7 +559,7 @@
         "type": "desktop",
         "current_version": "26.4",
         "current_status": "y #3 #6",
-        "current_global_usage": 0.63,
+        "current_global_usage": 0.09,
         "first_partial_version": "27",
         "first_full_version": "27",
         "stats": {
@@ -627,7 +629,7 @@
         "type": "desktop",
         "current_version": "131",
         "current_status": "y #2",
-        "current_global_usage": 0.42,
+        "current_global_usage": 0.39,
         "first_partial_version": "42",
         "first_full_version": "42",
         "stats": {
@@ -764,7 +766,7 @@
         "type": "mobile",
         "current_version": "26.4",
         "current_status": "a #7",
-        "current_global_usage": 4.32,
+        "current_global_usage": 0.62,
         "first_partial_version": "16.4",
         "first_full_version": null,
         "stats": {
@@ -846,7 +848,7 @@
         "type": "mobile",
         "current_version": "149",
         "current_status": "n",
-        "current_global_usage": 0.3,
+        "current_global_usage": 0.14,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -886,7 +888,7 @@
         "type": "mobile",
         "current_version": "80",
         "current_status": "y",
-        "current_global_usage": 0.84,
+        "current_global_usage": 0.89,
         "first_partial_version": "80",
         "first_full_version": "80",
         "stats": {
@@ -907,7 +909,7 @@
         "type": "mobile",
         "current_version": "149",
         "current_status": "y",
-        "current_global_usage": 42.2,
+        "current_global_usage": 44.75,
         "first_partial_version": "149",
         "first_full_version": "149",
         "stats": {
@@ -920,13 +922,13 @@
         "short_name": "FF/And.",
         "browser": "Firefox for Android",
         "type": "mobile",
-        "current_version": "151",
+        "current_version": "152",
         "current_status": "y",
         "current_global_usage": 0.37,
-        "first_partial_version": "151",
-        "first_full_version": "151",
+        "first_partial_version": "152",
+        "first_full_version": "152",
         "stats": {
-          "151": "y"
+          "152": "y"
         }
       },
       {
@@ -953,7 +955,7 @@
         "type": "mobile",
         "current_version": "15.5",
         "current_status": "y",
-        "current_global_usage": 0.57,
+        "current_global_usage": 0.62,
         "first_partial_version": "15.5",
         "first_full_version": "15.5",
         "stats": {
@@ -968,7 +970,7 @@
         "type": "mobile",
         "current_version": "30",
         "current_status": "y",
-        "current_global_usage": 0.19,
+        "current_global_usage": 0.99,
         "first_partial_version": "4",
         "first_full_version": "4",
         "stats": {
@@ -1009,7 +1011,7 @@
         "type": "mobile",
         "current_version": "14.9",
         "current_status": "y",
-        "current_global_usage": 0.11,
+        "current_global_usage": 0.1,
         "first_partial_version": "14.9",
         "first_full_version": "14.9",
         "stats": {
@@ -1051,6 +1053,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "a83460fa7b804d71887aa03d407a46693cc49c89"
+    "commit": "b3d9e50da9a70d65b3ed48194406730c4a0b0ebc"
   }
 }
