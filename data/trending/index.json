@@ -6,7 +6,7 @@
     "date": "2026-06-28T12:40:28-07:00",
     "summary": "SharedWorker is supported by (Chrome for) Android 148+ (#7534)",
     "usage": {
-      "fully_supported": 47.99,
+      "fully_supported": 92.88,
       "partially_supported": 0
     },
     "commit": {
