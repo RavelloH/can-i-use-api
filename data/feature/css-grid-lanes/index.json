@@ -31,6 +31,10 @@
     {
       "url": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
       "title": "Introducing CSS Grid Lanes"
+    },
+    {
+      "url": "https://gridlanes.webkit.org/",
+      "title": "WebKit: The Field Guide to Grid Lanes"
     }
   ],
   "notes": "",
@@ -87,11 +91,11 @@
   },
   "hot": {
     "rank": 479,
-    "score": 43.13,
+    "score": 43.07,
     "signals": {
       "coverage_score": 4.45,
       "breadth_score": 17.5,
-      "freshness_score": 14.72,
+      "freshness_score": 14.66,
       "momentum_score": 6.46,
       "added_score": 0,
       "current_supported_browsers": 7
@@ -840,7 +844,7 @@
         "short_name": "And.",
         "browser": "Android Browser",
         "type": "mobile",
-        "current_version": "149",
+        "current_version": "150",
         "current_status": "n",
         "current_global_usage": 0.14,
         "first_partial_version": null,
@@ -848,7 +852,7 @@
         "stats": {
           "3": "n",
           "4": "n",
-          "149": "n",
+          "150": "n",
           "2.1": "n",
           "2.2": "n",
           "2.3": "n",
@@ -901,13 +905,13 @@
         "short_name": "Chr/And.",
         "browser": "Chrome for Android",
         "type": "mobile",
-        "current_version": "149",
+        "current_version": "150",
         "current_status": "p d #1",
         "current_global_usage": 44.75,
-        "first_partial_version": "149",
+        "first_partial_version": "150",
         "first_full_version": null,
         "stats": {
-          "149": "p d #1"
+          "150": "p d #1"
         }
       },
       {
@@ -1047,6 +1051,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "8a19096513950031e003f6b72f4d651b6a60d192"
+    "commit": "54f6cafada1b92dc96a4503304a9f7f92c9cc1cb"
   }
 }

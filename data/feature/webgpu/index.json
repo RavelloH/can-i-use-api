@@ -36,7 +36,8 @@
     "5": "Not enabled on Linux by default.",
     "6": "Only enabled by default on Windows.",
     "7": "Partial support refers to only being enabled by default on macOS 26 Tahoe or later.",
-    "8": "Only enabled by default on Windows as well as macOS 26 Tahoe or later on Apple Silicon."
+    "8": "Only enabled by default on Windows as well as macOS 26 Tahoe or later on Apple Silicon.",
+    "9": "Support on Linux depends on hardware and drivers."
   },
   "parent": null,
   "chrome_id": "6213121689518080",
@@ -823,7 +824,7 @@
         "short_name": "And.",
         "browser": "Android Browser",
         "type": "mobile",
-        "current_version": "149",
+        "current_version": "150",
         "current_status": "n",
         "current_global_usage": 0.14,
         "first_partial_version": null,
@@ -831,7 +832,7 @@
         "stats": {
           "3": "n",
           "4": "n",
-          "149": "n",
+          "150": "n",
           "2.1": "n",
           "2.2": "n",
           "2.3": "n",
@@ -884,13 +885,13 @@
         "short_name": "Chr/And.",
         "browser": "Chrome for Android",
         "type": "mobile",
-        "current_version": "149",
+        "current_version": "150",
         "current_status": "y",
         "current_global_usage": 44.75,
-        "first_partial_version": "149",
-        "first_full_version": "149",
+        "first_partial_version": "150",
+        "first_full_version": "150",
         "stats": {
-          "149": "y"
+          "150": "y"
         }
       },
       {
@@ -1030,6 +1031,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "8a19096513950031e003f6b72f4d651b6a60d192"
+    "commit": "54f6cafada1b92dc96a4503304a9f7f92c9cc1cb"
   }
 }

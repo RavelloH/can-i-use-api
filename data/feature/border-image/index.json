@@ -48,7 +48,7 @@
   },
   "latest_event": null,
   "hot": {
-    "rank": 255,
+    "rank": 254,
     "score": 72.94,
     "signals": {
       "coverage_score": 47.94,
@@ -802,15 +802,15 @@
         "short_name": "And.",
         "browser": "Android Browser",
         "type": "mobile",
-        "current_version": "149",
+        "current_version": "150",
         "current_status": "y",
         "current_global_usage": 0.14,
         "first_partial_version": "3",
-        "first_full_version": "149",
+        "first_full_version": "150",
         "stats": {
           "3": "a x #1 #2 #3 #4",
           "4": "a x #1 #2 #3 #4",
-          "149": "y",
+          "150": "y",
           "2.1": "a x #1 #2 #3 #4",
           "2.2": "a x #1 #2 #3 #4",
           "2.3": "a x #1 #2 #3 #4",
@@ -863,13 +863,13 @@
         "short_name": "Chr/And.",
         "browser": "Chrome for Android",
         "type": "mobile",
-        "current_version": "149",
+        "current_version": "150",
         "current_status": "y",
         "current_global_usage": 44.75,
-        "first_partial_version": "149",
-        "first_full_version": "149",
+        "first_partial_version": "150",
+        "first_full_version": "150",
         "stats": {
-          "149": "y"
+          "150": "y"
         }
       },
       {
@@ -1009,6 +1009,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "8a19096513950031e003f6b72f4d651b6a60d192"
+    "commit": "54f6cafada1b92dc96a4503304a9f7f92c9cc1cb"
   }
 }
