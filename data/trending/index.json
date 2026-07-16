@@ -1,5 +1,35 @@
 [
   {
+    "id": "css-text-box-trim",
+    "title": "CSS Text Box",
+    "type": "support",
+    "date": "2026-07-15T19:19:52-07:00",
+    "summary": "Update css-text-box-trim.json (#7549)",
+    "usage": {
+      "fully_supported": 80.11,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "2c9038022b52014ea3b7dd0cb1b2e43c5d472add",
+      "url": "https://github.com/Fyrd/caniuse/commit/2c9038022b52014ea3b7dd0cb1b2e43c5d472add"
+    },
+    "improved_count": 2,
+    "changes": [
+      {
+        "browser": "firefox",
+        "version": "154",
+        "from": "n d #3",
+        "to": "y"
+      },
+      {
+        "browser": "firefox",
+        "version": "155",
+        "from": "n d #3",
+        "to": "y"
+      }
+    ]
+  },
+  {
     "id": "sharedworkers",
     "title": "Shared Web Workers",
     "type": "support",
@@ -1195,30 +1225,6 @@
         "version": "138",
         "from": "n d #7",
         "to": "a #8"
-      }
-    ]
-  },
-  {
-    "id": "css-text-box-trim",
-    "title": "CSS Text Box",
-    "type": "support",
-    "date": "2025-02-25T21:49:40-08:00",
-    "summary": "Update css-text-box-trim.json (#7265)",
-    "usage": {
-      "fully_supported": 80.11,
-      "partially_supported": 0
-    },
-    "commit": {
-      "sha": "fe5af935f346ef4337fda2811cfbae4d85a2a602",
-      "url": "https://github.com/Fyrd/caniuse/commit/fe5af935f346ef4337fda2811cfbae4d85a2a602"
-    },
-    "improved_count": 1,
-    "changes": [
-      {
-        "browser": "edge",
-        "version": "132",
-        "from": "n d #2",
-        "to": "y"
       }
     ]
   },

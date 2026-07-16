@@ -70,7 +70,7 @@
     ]
   },
   "hot": {
-    "rank": 425,
+    "rank": 426,
     "score": 65.47,
     "signals": {
       "coverage_score": 41.51,
@@ -373,7 +373,7 @@
         "browser": "Chrome",
         "type": "desktop",
         "current_version": "150",
-        "current_status": "y #5",
+        "current_status": "y #9",
         "current_global_usage": 0.04,
         "first_partial_version": "113",
         "first_full_version": "113",
@@ -517,16 +517,16 @@
           "141": "y #5",
           "142": "y #5",
           "143": "y #5",
-          "144": "y #5",
-          "145": "y #5",
-          "146": "y #5",
-          "147": "y #5",
-          "148": "y #5",
-          "149": "y #5",
-          "150": "y #5",
-          "151": "y #5",
-          "152": "y #5",
-          "153": "y #5"
+          "144": "y #9",
+          "145": "y #9",
+          "146": "y #9",
+          "147": "y #9",
+          "148": "y #9",
+          "149": "y #9",
+          "150": "y #9",
+          "151": "y #9",
+          "152": "y #9",
+          "153": "y #9"
         }
       },
       {
@@ -1031,6 +1031,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "54f6cafada1b92dc96a4503304a9f7f92c9cc1cb"
+    "commit": "820bf1c43ca8d179b75a52503464a138120d783c"
   }
 }

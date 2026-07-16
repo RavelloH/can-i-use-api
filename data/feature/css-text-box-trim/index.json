@@ -31,7 +31,7 @@
   "notes_by_num": {
     "1": "Available behind a [Safari feature flag](https://developer.apple.com/documentation/safari-developer-tools/feature-flag-settings).",
     "2": "Can be enabled via the `#text-box-trim` flag in `chrome://flags`",
-    "3": "Can be enabled via the `layout.css.text-box.enabled` flag in `about:config`. Enabled by default in Nightly only."
+    "3": "Can be enabled via the `layout.css.text-box.enabled` flag in `about:config`."
   },
   "parent": null,
   "chrome_id": "5174589850648576",
@@ -41,30 +41,36 @@
   },
   "latest_event": {
     "type": "support",
-    "date": "2025-02-25T21:49:40-08:00",
-    "summary": "Update css-text-box-trim.json (#7265)",
+    "date": "2026-07-15T19:19:52-07:00",
+    "summary": "Update css-text-box-trim.json (#7549)",
     "commit": {
-      "sha": "fe5af935f346ef4337fda2811cfbae4d85a2a602",
-      "url": "https://github.com/Fyrd/caniuse/commit/fe5af935f346ef4337fda2811cfbae4d85a2a602"
+      "sha": "2c9038022b52014ea3b7dd0cb1b2e43c5d472add",
+      "url": "https://github.com/Fyrd/caniuse/commit/2c9038022b52014ea3b7dd0cb1b2e43c5d472add"
     },
-    "improved_count": 1,
+    "improved_count": 2,
     "changes": [
       {
-        "browser": "edge",
-        "version": "132",
-        "from": "n d #2",
+        "browser": "firefox",
+        "version": "154",
+        "from": "n d #3",
+        "to": "y"
+      },
+      {
+        "browser": "firefox",
+        "version": "155",
+        "from": "n d #3",
         "to": "y"
       }
     ]
   },
   "hot": {
-    "rank": 444,
-    "score": 60.05,
+    "rank": 6,
+    "score": 85.5,
     "signals": {
       "coverage_score": 40.05,
       "breadth_score": 17.5,
-      "freshness_score": 0,
-      "momentum_score": 2.5,
+      "freshness_score": 23.99,
+      "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 7
     }
@@ -191,10 +197,10 @@
         "browser": "Firefox",
         "type": "desktop",
         "current_version": "152",
-        "current_status": "n",
+        "current_status": "n d #3",
         "current_global_usage": 0.47,
-        "first_partial_version": null,
-        "first_full_version": null,
+        "first_partial_version": "154",
+        "first_full_version": "154",
         "stats": {
           "2": "n",
           "3": "n",
@@ -346,10 +352,10 @@
           "149": "n",
           "150": "n",
           "151": "n",
-          "152": "n",
-          "153": "n",
-          "154": "n d #3",
-          "155": "n d #3",
+          "152": "n d #3",
+          "153": "n d #3",
+          "154": "y",
+          "155": "y",
           "3.5": "n",
           "3.6": "n"
         }
@@ -1019,6 +1025,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "54f6cafada1b92dc96a4503304a9f7f92c9cc1cb"
+    "commit": "820bf1c43ca8d179b75a52503464a138120d783c"
   }
 }
