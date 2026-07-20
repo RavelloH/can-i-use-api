@@ -84,11 +84,11 @@
   },
   "hot": {
     "rank": 12,
-    "score": 78.6,
+    "score": 78.53,
     "signals": {
       "coverage_score": 40.84,
       "breadth_score": 25,
-      "freshness_score": 8.8,
+      "freshness_score": 8.73,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 10
