@@ -3,7 +3,7 @@
     "rank": 1,
     "id": "sharedworkers",
     "title": "Shared Web Workers",
-    "score": 95.46,
+    "score": 95.4,
     "usage": {
       "fully_supported": 92.88,
       "partially_supported": 0
@@ -13,7 +13,7 @@
     "signals": {
       "coverage_score": 46.44,
       "breadth_score": 22.5,
-      "freshness_score": 22.56,
+      "freshness_score": 22.5,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -23,7 +23,7 @@
     "rank": 2,
     "id": "srcset",
     "title": "Srcset and sizes attributes",
-    "score": 87.37,
+    "score": 87.31,
     "usage": {
       "fully_supported": 89.29,
       "partially_supported": 7.39
@@ -33,7 +33,7 @@
     "signals": {
       "coverage_score": 45.75,
       "breadth_score": 25,
-      "freshness_score": 14.12,
+      "freshness_score": 14.06,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -43,7 +43,7 @@
     "rank": 3,
     "id": "background-attachment",
     "title": "CSS background-attachment",
-    "score": 86.67,
+    "score": 86.61,
     "usage": {
       "fully_supported": 82.71,
       "partially_supported": 14.06
@@ -53,7 +53,7 @@
     "signals": {
       "coverage_score": 43.46,
       "breadth_score": 22.5,
-      "freshness_score": 12.79,
+      "freshness_score": 12.73,
       "momentum_score": 7.92,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -63,7 +63,7 @@
     "rank": 4,
     "id": "webtransport",
     "title": "WebTransport",
-    "score": 86.27,
+    "score": 86.2,
     "usage": {
       "fully_supported": 88.38,
       "partially_supported": 0
@@ -73,7 +73,7 @@
     "signals": {
       "coverage_score": 44.19,
       "breadth_score": 25,
-      "freshness_score": 14.58,
+      "freshness_score": 14.51,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -83,7 +83,7 @@
     "rank": 5,
     "id": "css-scrollbar",
     "title": "CSS scrollbar styling",
-    "score": 85.41,
+    "score": 85.34,
     "usage": {
       "fully_supported": 83.14,
       "partially_supported": 10.13
@@ -93,7 +93,7 @@
     "signals": {
       "coverage_score": 43.09,
       "breadth_score": 25,
-      "freshness_score": 10.86,
+      "freshness_score": 10.79,
       "momentum_score": 6.46,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -103,7 +103,7 @@
     "rank": 6,
     "id": "css-text-box-trim",
     "title": "CSS Text Box",
-    "score": 85.23,
+    "score": 85.16,
     "usage": {
       "fully_supported": 80.11,
       "partially_supported": 0
@@ -113,7 +113,7 @@
     "signals": {
       "coverage_score": 40.05,
       "breadth_score": 17.5,
-      "freshness_score": 23.72,
+      "freshness_score": 23.65,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 7
@@ -123,7 +123,7 @@
     "rank": 7,
     "id": "link-icon-svg",
     "title": "SVG favicons",
-    "score": 84.14,
+    "score": 84.07,
     "usage": {
       "fully_supported": 89.11,
       "partially_supported": 0.03
@@ -133,7 +133,7 @@
     "signals": {
       "coverage_score": 44.56,
       "breadth_score": 22.5,
-      "freshness_score": 14.58,
+      "freshness_score": 14.51,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -143,7 +143,7 @@
     "rank": 8,
     "id": "css-text-indent",
     "title": "CSS text-indent",
-    "score": 82.78,
+    "score": 82.72,
     "usage": {
       "fully_supported": 81.76,
       "partially_supported": 15.17
@@ -153,7 +153,7 @@
     "signals": {
       "coverage_score": 43.16,
       "breadth_score": 25,
-      "freshness_score": 12.12,
+      "freshness_score": 12.06,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -163,7 +163,7 @@
     "rank": 9,
     "id": "createimagebitmap",
     "title": "createImageBitmap",
-    "score": 80.26,
+    "score": 80.2,
     "usage": {
       "fully_supported": 93.52,
       "partially_supported": 1.66
@@ -173,7 +173,7 @@
     "signals": {
       "coverage_score": 47.01,
       "breadth_score": 25,
-      "freshness_score": 0.25,
+      "freshness_score": 0.19,
       "momentum_score": 8,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -203,7 +203,7 @@
     "rank": 11,
     "id": "link-rel-dns-prefetch",
     "title": "Resource Hints: dns-prefetch",
-    "score": 79.58,
+    "score": 79.51,
     "usage": {
       "fully_supported": 92.19,
       "partially_supported": 0.73
@@ -213,7 +213,7 @@
     "signals": {
       "coverage_score": 46.2,
       "breadth_score": 22.5,
-      "freshness_score": 6.92,
+      "freshness_score": 6.85,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -223,7 +223,7 @@
     "rank": 12,
     "id": "css-anchor-positioning",
     "title": "CSS Anchor Positioning",
-    "score": 78.53,
+    "score": 78.46,
     "usage": {
       "fully_supported": 81.67,
       "partially_supported": 0
@@ -233,7 +233,7 @@
     "signals": {
       "coverage_score": 40.84,
       "breadth_score": 25,
-      "freshness_score": 8.73,
+      "freshness_score": 8.66,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -243,7 +243,7 @@
     "rank": 13,
     "id": "css-cascade-scope",
     "title": "Scoped Styles: the @scope rule",
-    "score": 78.16,
+    "score": 78.1,
     "usage": {
       "fully_supported": 88,
       "partially_supported": 0
@@ -253,7 +253,7 @@
     "signals": {
       "coverage_score": 44,
       "breadth_score": 25,
-      "freshness_score": 6.66,
+      "freshness_score": 6.6,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -263,7 +263,7 @@
     "rank": 14,
     "id": "zstd",
     "title": "zstd (Zstandard) content-encoding",
-    "score": 78.14,
+    "score": 78.08,
     "usage": {
       "fully_supported": 79.52,
       "partially_supported": 2.11
@@ -273,7 +273,7 @@
     "signals": {
       "coverage_score": 40.08,
       "breadth_score": 22.5,
-      "freshness_score": 13.06,
+      "freshness_score": 13,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -283,7 +283,7 @@
     "rank": 15,
     "id": "input-file-directory",
     "title": "Directory selection from file input",
-    "score": 77.55,
+    "score": 77.49,
     "usage": {
       "fully_supported": 91.98,
       "partially_supported": 0
@@ -293,7 +293,7 @@
     "signals": {
       "coverage_score": 45.99,
       "breadth_score": 22.5,
-      "freshness_score": 2.04,
+      "freshness_score": 1.98,
       "momentum_score": 7.02,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -323,7 +323,7 @@
     "rank": 17,
     "id": "css-overflow-anchor",
     "title": "CSS overflow-anchor (Scroll Anchoring)",
-    "score": 77.17,
+    "score": 77.1,
     "usage": {
       "fully_supported": 80.18,
       "partially_supported": 0
@@ -333,7 +333,7 @@
     "signals": {
       "coverage_score": 40.09,
       "breadth_score": 20,
-      "freshness_score": 14.58,
+      "freshness_score": 14.51,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 8
@@ -363,7 +363,7 @@
     "rank": 19,
     "id": "view-transitions",
     "title": "View Transitions API (single-document)",
-    "score": 75.63,
+    "score": 75.56,
     "usage": {
       "fully_supported": 88.46,
       "partially_supported": 0
@@ -373,7 +373,7 @@
     "signals": {
       "coverage_score": 44.23,
       "breadth_score": 25,
-      "freshness_score": 2.44,
+      "freshness_score": 2.37,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -383,7 +383,7 @@
     "rank": 20,
     "id": "web-serial",
     "title": "Web Serial API",
-    "score": 75.17,
+    "score": 75.11,
     "usage": {
       "fully_supported": 74.56,
       "partially_supported": 0
@@ -393,7 +393,7 @@
     "signals": {
       "coverage_score": 37.28,
       "breadth_score": 12.5,
-      "freshness_score": 20.39,
+      "freshness_score": 20.33,
       "momentum_score": 5,
       "added_score": 0,
       "current_supported_browsers": 5
@@ -403,7 +403,7 @@
     "rank": 21,
     "id": "picture-in-picture",
     "title": "Picture-in-Picture",
-    "score": 74.66,
+    "score": 74.6,
     "usage": {
       "fully_supported": 44.08,
       "partially_supported": 48.55
@@ -413,7 +413,7 @@
     "signals": {
       "coverage_score": 29.32,
       "breadth_score": 20,
-      "freshness_score": 21.38,
+      "freshness_score": 21.32,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 8
