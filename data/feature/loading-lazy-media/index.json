@@ -91,11 +91,11 @@
   },
   "hot": {
     "rank": 438,
-    "score": 61.83,
+    "score": 61.76,
     "signals": {
       "coverage_score": 31.75,
       "breadth_score": 10,
-      "freshness_score": 16.12,
+      "freshness_score": 16.05,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 4
@@ -1051,6 +1051,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "820bf1c43ca8d179b75a52503464a138120d783c"
+    "commit": "b4967d2cdb4c2e3ee7f37ffa4ff0e8eed577994c"
   }
 }

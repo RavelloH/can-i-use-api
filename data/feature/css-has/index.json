@@ -52,7 +52,7 @@
   },
   "latest_event": null,
   "hot": {
-    "rank": 369,
+    "rank": 370,
     "score": 71.33,
     "signals": {
       "coverage_score": 46.33,
@@ -1013,6 +1013,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "820bf1c43ca8d179b75a52503464a138120d783c"
+    "commit": "b4967d2cdb4c2e3ee7f37ffa4ff0e8eed577994c"
   }
 }
