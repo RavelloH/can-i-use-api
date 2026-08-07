@@ -1,5 +1,53 @@
 [
   {
+    "id": "css-if",
+    "title": "CSS if() function",
+    "type": "support",
+    "date": "2026-08-06T09:16:01+01:00",
+    "summary": "Safari TP 249: CSS `if()` & Temporal (#7557)",
+    "usage": {
+      "fully_supported": 66.83,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "a166484e573d69b5808b4d6f99427e197b60745f",
+      "url": "https://github.com/Fyrd/caniuse/commit/a166484e573d69b5808b4d6f99427e197b60745f"
+    },
+    "improved_count": 1,
+    "changes": [
+      {
+        "browser": "safari",
+        "version": "TP",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
+    "id": "temporal",
+    "title": "Temporal",
+    "type": "support",
+    "date": "2026-08-06T09:16:01+01:00",
+    "summary": "Safari TP 249: CSS `if()` & Temporal (#7557)",
+    "usage": {
+      "fully_supported": 67.12,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "a166484e573d69b5808b4d6f99427e197b60745f",
+      "url": "https://github.com/Fyrd/caniuse/commit/a166484e573d69b5808b4d6f99427e197b60745f"
+    },
+    "improved_count": 1,
+    "changes": [
+      {
+        "browser": "safari",
+        "version": "TP",
+        "from": "n d #2",
+        "to": "y"
+      }
+    ]
+  },
+  {
     "id": "css3-attr",
     "title": "CSS3 attr() function for all properties",
     "type": "support",
@@ -702,30 +750,6 @@
     ]
   },
   {
-    "id": "temporal",
-    "title": "Temporal",
-    "type": "support",
-    "date": "2025-10-07T23:27:41-07:00",
-    "summary": "Chrome 144 is shipping Temporal (#7401)",
-    "usage": {
-      "fully_supported": 67.12,
-      "partially_supported": 0
-    },
-    "commit": {
-      "sha": "894ea7b72a742000cc1cbe1e8f04f47ff8df9e3d",
-      "url": "https://github.com/Fyrd/caniuse/commit/894ea7b72a742000cc1cbe1e8f04f47ff8df9e3d"
-    },
-    "improved_count": 1,
-    "changes": [
-      {
-        "browser": "chrome",
-        "version": "144",
-        "from": "n",
-        "to": "y"
-      }
-    ]
-  },
-  {
     "id": "cross-document-view-transitions",
     "title": "View Transitions (cross-document)",
     "type": "support",
@@ -862,23 +886,6 @@
         "to": "y"
       }
     ]
-  },
-  {
-    "id": "css-if",
-    "title": "CSS if() function",
-    "type": "added",
-    "date": "2025-07-28T20:41:51-07:00",
-    "summary": "Create CSS if() function dataset (#7345)",
-    "usage": {
-      "fully_supported": 66.83,
-      "partially_supported": 0
-    },
-    "commit": {
-      "sha": "a1ebb7f0ea920a438cde8a6c7197a3c1e354f853",
-      "url": "https://github.com/Fyrd/caniuse/commit/a1ebb7f0ea920a438cde8a6c7197a3c1e354f853"
-    },
-    "improved_count": 0,
-    "changes": []
   },
   {
     "id": "createimagebitmap",

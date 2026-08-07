@@ -47,25 +47,32 @@
     "partially_supported": 0
   },
   "latest_event": {
-    "type": "added",
-    "date": "2025-07-28T20:41:51-07:00",
-    "summary": "Create CSS if() function dataset (#7345)",
+    "type": "support",
+    "date": "2026-08-06T09:16:01+01:00",
+    "summary": "Safari TP 249: CSS `if()` & Temporal (#7557)",
     "commit": {
-      "sha": "a1ebb7f0ea920a438cde8a6c7197a3c1e354f853",
-      "url": "https://github.com/Fyrd/caniuse/commit/a1ebb7f0ea920a438cde8a6c7197a3c1e354f853"
+      "sha": "a166484e573d69b5808b4d6f99427e197b60745f",
+      "url": "https://github.com/Fyrd/caniuse/commit/a166484e573d69b5808b4d6f99427e197b60745f"
     },
-    "improved_count": 0,
-    "changes": []
+    "improved_count": 1,
+    "changes": [
+      {
+        "browser": "safari",
+        "version": "TP",
+        "from": "n",
+        "to": "y"
+      }
+    ]
   },
   "hot": {
-    "rank": 464,
-    "score": 51.91,
+    "rank": 322,
+    "score": 72.35,
     "signals": {
       "coverage_score": 33.41,
       "breadth_score": 12.5,
-      "freshness_score": 0,
-      "momentum_score": 0,
-      "added_score": 6,
+      "freshness_score": 23.94,
+      "momentum_score": 2.5,
+      "added_score": 0,
       "current_supported_browsers": 5
     }
   },
@@ -98,7 +105,7 @@
         "short_name": "Edge",
         "browser": "Edge",
         "type": "desktop",
-        "current_version": "150",
+        "current_version": "151",
         "current_status": "y",
         "current_global_usage": 0,
         "first_partial_version": "137",
@@ -181,7 +188,8 @@
           "147": "y",
           "148": "y",
           "149": "y",
-          "150": "y"
+          "150": "y",
+          "151": "y"
         }
       },
       {
@@ -190,9 +198,9 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "152",
+        "current_version": "153",
         "current_status": "n",
-        "current_global_usage": 0.47,
+        "current_global_usage": 0,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -350,6 +358,7 @@
           "153": "n",
           "154": "n",
           "155": "n",
+          "156": "n",
           "3.5": "n",
           "3.6": "n"
         }
@@ -360,9 +369,9 @@
         "short_name": "Chr.",
         "browser": "Chrome",
         "type": "desktop",
-        "current_version": "150",
+        "current_version": "151",
         "current_status": "y",
-        "current_global_usage": 0.04,
+        "current_global_usage": 0.01,
         "first_partial_version": "137",
         "first_full_version": "137",
         "stats": {
@@ -514,7 +523,8 @@
           "150": "y",
           "151": "y",
           "152": "y",
-          "153": "y"
+          "153": "y",
+          "154": "y"
         }
       },
       {
@@ -812,15 +822,15 @@
         "short_name": "And.",
         "browser": "Android Browser",
         "type": "mobile",
-        "current_version": "150",
+        "current_version": "151",
         "current_status": "y",
         "current_global_usage": 0.14,
-        "first_partial_version": "150",
-        "first_full_version": "150",
+        "first_partial_version": "151",
+        "first_full_version": "151",
         "stats": {
           "3": "n",
           "4": "n",
-          "150": "y",
+          "151": "y",
           "2.1": "n",
           "2.2": "n",
           "2.3": "n",
@@ -873,13 +883,13 @@
         "short_name": "Chr/And.",
         "browser": "Chrome for Android",
         "type": "mobile",
-        "current_version": "150",
+        "current_version": "151",
         "current_status": "y",
         "current_global_usage": 44.75,
-        "first_partial_version": "150",
-        "first_full_version": "150",
+        "first_partial_version": "151",
+        "first_full_version": "151",
         "stats": {
-          "150": "y"
+          "151": "y"
         }
       },
       {
@@ -888,13 +898,13 @@
         "short_name": "FF/And.",
         "browser": "Firefox for Android",
         "type": "mobile",
-        "current_version": "152",
+        "current_version": "153",
         "current_status": "n",
         "current_global_usage": 0.37,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
-          "152": "n"
+          "153": "n"
         }
       },
       {
@@ -1019,6 +1029,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "b4967d2cdb4c2e3ee7f37ffa4ff0e8eed577994c"
+    "commit": "dc63d7b77566ec49193c933c0b047e832ebdf8d9"
   }
 }
