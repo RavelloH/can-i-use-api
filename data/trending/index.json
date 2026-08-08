@@ -6,7 +6,7 @@
     "date": "2026-08-06T09:16:01+01:00",
     "summary": "Safari TP 249: CSS `if()` & Temporal (#7557)",
     "usage": {
-      "fully_supported": 66.83,
+      "fully_supported": 68.26,
       "partially_supported": 0
     },
     "commit": {
@@ -30,7 +30,7 @@
     "date": "2026-08-06T09:16:01+01:00",
     "summary": "Safari TP 249: CSS `if()` & Temporal (#7557)",
     "usage": {
-      "fully_supported": 67.12,
+      "fully_supported": 69.14,
       "partially_supported": 0
     },
     "commit": {
@@ -54,7 +54,7 @@
     "date": "2026-07-28T22:24:04-07:00",
     "summary": "Update css3-attr.json (#7556)",
     "usage": {
-      "fully_supported": 68.45,
+      "fully_supported": 70.01,
       "partially_supported": 0
     },
     "commit": {
@@ -78,7 +78,7 @@
     "date": "2026-07-15T19:19:52-07:00",
     "summary": "Update css-text-box-trim.json (#7549)",
     "usage": {
-      "fully_supported": 80.11,
+      "fully_supported": 83.04,
       "partially_supported": 0
     },
     "commit": {
@@ -108,7 +108,7 @@
     "date": "2026-06-28T12:40:28-07:00",
     "summary": "SharedWorker is supported by (Chrome for) Android 148+ (#7534)",
     "usage": {
-      "fully_supported": 92.88,
+      "fully_supported": 92.71,
       "partially_supported": 0
     },
     "commit": {
@@ -138,8 +138,8 @@
     "date": "2026-06-10T19:01:01-07:00",
     "summary": "Update picture-in-picture.json (#7530)",
     "usage": {
-      "fully_supported": 44.08,
-      "partially_supported": 48.55
+      "fully_supported": 44.23,
+      "partially_supported": 49.48
     },
     "commit": {
       "sha": "cbed7df32f20cd0919b1a1a12c4d655fc813f0b8",
@@ -168,8 +168,8 @@
     "date": "2026-06-10T19:00:32-07:00",
     "summary": "Update css-container-queries-style.json (#7529)",
     "usage": {
-      "fully_supported": 1.64,
-      "partially_supported": 86.74
+      "fully_supported": 1.68,
+      "partially_supported": 88.47
     },
     "commit": {
       "sha": "22de9e3b6a75f2700e28fbf36280e5c3a8de3ff4",
@@ -210,7 +210,7 @@
     "date": "2026-05-26T22:37:21-07:00",
     "summary": "Firefox 151 and above supports Web Serial (#7523)",
     "usage": {
-      "fully_supported": 74.56,
+      "fully_supported": 74.5,
       "partially_supported": 0
     },
     "commit": {
@@ -246,7 +246,7 @@
     "date": "2026-03-31T19:12:27-07:00",
     "summary": "Update loading-lazy-media.json (#7504)",
     "usage": {
-      "fully_supported": 63.49,
+      "fully_supported": 65.89,
       "partially_supported": 0
     },
     "commit": {
@@ -276,8 +276,8 @@
     "date": "2026-02-28T15:45:04-08:00",
     "summary": "link-icon-svg: update FF for Android support information (#7477)",
     "usage": {
-      "fully_supported": 89.11,
-      "partially_supported": 0.03
+      "fully_supported": 90.48,
+      "partially_supported": 0.01
     },
     "commit": {
       "sha": "9429debac3b030b9a3add8e7f01f88993f78ee93",
@@ -300,7 +300,7 @@
     "date": "2026-02-28T15:41:06-08:00",
     "summary": "Fixing error in webtransport.json (#7481)",
     "usage": {
-      "fully_supported": 88.38,
+      "fully_supported": 89.96,
       "partially_supported": 0
     },
     "commit": {
@@ -324,7 +324,7 @@
     "date": "2026-02-28T15:40:30-08:00",
     "summary": "Update css-overflow-anchor.json (#7484)",
     "usage": {
-      "fully_supported": 80.18,
+      "fully_supported": 79.8,
       "partially_supported": 0
     },
     "commit": {
@@ -348,7 +348,7 @@
     "date": "2026-02-28T15:40:00-08:00",
     "summary": "Update customizable-select.json (#7485)",
     "usage": {
-      "fully_supported": 66.78,
+      "fully_supported": 68.52,
       "partially_supported": 0
     },
     "commit": {
@@ -372,7 +372,7 @@
     "date": "2026-02-21T19:52:38-08:00",
     "summary": "Grid Lanes is supported in Safari 26.4 (#7474)",
     "usage": {
-      "fully_supported": 8.9,
+      "fully_supported": 10.55,
       "partially_supported": 0
     },
     "commit": {
@@ -420,8 +420,8 @@
     "date": "2026-02-21T19:51:26-08:00",
     "summary": "min(), max(), & clamp() now supported for `sizes` in Safari 26.4 (#7476)",
     "usage": {
-      "fully_supported": 89.29,
-      "partially_supported": 7.39
+      "fully_supported": 89.35,
+      "partially_supported": 7.06
     },
     "commit": {
       "sha": "04bb071dfb46af809b8d905f6582d12bd85c6943",
@@ -444,8 +444,8 @@
     "date": "2026-02-05T22:16:47-08:00",
     "summary": "Update Zstandard support for Safari (#7466)",
     "usage": {
-      "fully_supported": 79.52,
-      "partially_supported": 2.11
+      "fully_supported": 81.68,
+      "partially_supported": 2.16
     },
     "commit": {
       "sha": "188bc05673b7c6bf83077982cbed0c2ec15df532",
@@ -468,8 +468,8 @@
     "date": "2026-02-01T21:40:11-08:00",
     "summary": "iOS Safari's `background-attachment: fixed` is partially implemented (#7465)",
     "usage": {
-      "fully_supported": 82.71,
-      "partially_supported": 14.06
+      "fully_supported": 81.54,
+      "partially_supported": 15.09
     },
     "commit": {
       "sha": "7e288ac0094d69aeb4c95e6b53fca6bdab3b6e11",
@@ -534,8 +534,8 @@
     "date": "2026-01-22T20:46:17-08:00",
     "summary": "Update css-text-indent.json (#7461)",
     "usage": {
-      "fully_supported": 81.76,
-      "partially_supported": 15.17
+      "fully_supported": 84.83,
+      "partially_supported": 11.85
     },
     "commit": {
       "sha": "333caf8fc73e074cd1988d3da4304b01bf4b50b3",
@@ -558,8 +558,8 @@
     "date": "2026-01-03T21:29:49-08:00",
     "summary": "Update css-scrollbar.json (#7447)",
     "usage": {
-      "fully_supported": 83.14,
-      "partially_supported": 10.13
+      "fully_supported": 85.62,
+      "partially_supported": 7.42
     },
     "commit": {
       "sha": "0296f64c0693f7e859080642bd21ae037b39a909",
@@ -606,8 +606,8 @@
     "date": "2025-12-18T20:08:44-08:00",
     "summary": "Update css-text-justify.json (#7438)",
     "usage": {
-      "fully_supported": 68.31,
-      "partially_supported": 0.22
+      "fully_supported": 70.46,
+      "partially_supported": 0.27
     },
     "commit": {
       "sha": "30e9e49a1c667847b15959d83429e85dcaf36186",
@@ -636,7 +636,7 @@
     "date": "2025-12-02T22:08:47-08:00",
     "summary": "Update css-anchor-positioning.json (#7428)",
     "usage": {
-      "fully_supported": 81.67,
+      "fully_supported": 84.12,
       "partially_supported": 0
     },
     "commit": {
@@ -666,8 +666,8 @@
     "date": "2025-11-05T18:55:31-08:00",
     "summary": "iOS 26 and later support <link rel=dns-prefetch> (#7414)",
     "usage": {
-      "fully_supported": 92.19,
-      "partially_supported": 0.73
+      "fully_supported": 92.27,
+      "partially_supported": 0.79
     },
     "commit": {
       "sha": "0ade790689bbd84a088a8eca0e18e1f112a00da9",
@@ -696,7 +696,7 @@
     "date": "2025-11-01T23:14:58-07:00",
     "summary": "Update css-cascade-scope.json (#7411)",
     "usage": {
-      "fully_supported": 88,
+      "fully_supported": 89.99,
       "partially_supported": 0
     },
     "commit": {
@@ -720,7 +720,7 @@
     "date": "2025-10-30T21:42:12-07:00",
     "summary": "Change values for keys 142, 143, and 144 (#7410)",
     "usage": {
-      "fully_supported": 79.71,
+      "fully_supported": 82.75,
       "partially_supported": 0
     },
     "commit": {
@@ -756,8 +756,8 @@
     "date": "2025-08-30T14:52:29-07:00",
     "summary": "Firefox is letting View Transitions ride the trains in 144 (#7374)",
     "usage": {
-      "fully_supported": 81.7,
-      "partially_supported": 1.73
+      "fully_supported": 84.54,
+      "partially_supported": 1.74
     },
     "commit": {
       "sha": "bb48b93521036cf40ea313f070f3ad345452843e",
@@ -786,7 +786,7 @@
     "date": "2025-08-30T14:52:29-07:00",
     "summary": "Firefox is letting View Transitions ride the trains in 144 (#7374)",
     "usage": {
-      "fully_supported": 88.46,
+      "fully_supported": 90.2,
       "partially_supported": 0
     },
     "commit": {
@@ -816,7 +816,7 @@
     "date": "2025-08-24T17:00:40-07:00",
     "summary": "Update input-file-directory.json (#7369)",
     "usage": {
-      "fully_supported": 91.98,
+      "fully_supported": 91.82,
       "partially_supported": 0
     },
     "commit": {
@@ -870,8 +870,8 @@
     "date": "2025-08-10T19:16:21-07:00",
     "summary": "samsung browser: drop http/3 support based on real world data + device testing (#7355)",
     "usage": {
-      "fully_supported": 92.43,
-      "partially_supported": 0.37
+      "fully_supported": 93.74,
+      "partially_supported": 0.38
     },
     "commit": {
       "sha": "29718f9f315e91b808bfe2f060d3270a69880527",
@@ -894,8 +894,8 @@
     "date": "2025-07-28T20:39:42-07:00",
     "summary": "Align createImageBitmap with web-features (#7348)",
     "usage": {
-      "fully_supported": 93.52,
-      "partially_supported": 1.66
+      "fully_supported": 94.75,
+      "partially_supported": 1.13
     },
     "commit": {
       "sha": "61a25039174b0b9c434eda855346dca02f5dbca7",
@@ -984,8 +984,8 @@
     "date": "2025-06-19T18:55:25-07:00",
     "summary": "Firefox 141 ships WebGPU on Windows (#7338)",
     "usage": {
-      "fully_supported": 82.17,
-      "partially_supported": 2.83
+      "fully_supported": 83.99,
+      "partially_supported": 2.95
     },
     "commit": {
       "sha": "1d7ba925cde013103e28f530ba9d2ce88a68b749",
@@ -1014,7 +1014,7 @@
     "date": "2025-06-12T21:24:51-07:00",
     "summary": "Safari 26: SVG favicons, WebGPU, Anchor Positioning, Trusted Types & WebCodecs (#7332)",
     "usage": {
-      "fully_supported": 88.28,
+      "fully_supported": 89.66,
       "partially_supported": 0
     },
     "commit": {
@@ -1044,8 +1044,8 @@
     "date": "2025-06-12T21:24:51-07:00",
     "summary": "Safari 26: SVG favicons, WebGPU, Anchor Positioning, Trusted Types & WebCodecs (#7332)",
     "usage": {
-      "fully_supported": 88.53,
-      "partially_supported": 3.72
+      "fully_supported": 89.83,
+      "partially_supported": 3.77
     },
     "commit": {
       "sha": "70efdadc29e483a4c156e52d43a5e462f6a76598",
@@ -1074,7 +1074,7 @@
     "date": "2025-04-19T10:07:38-07:00",
     "summary": "Update cookie-store-api.json (#7309)",
     "usage": {
-      "fully_supported": 90.65,
+      "fully_supported": 92.06,
       "partially_supported": 0
     },
     "commit": {
@@ -1104,8 +1104,8 @@
     "date": "2025-04-15T22:41:36-07:00",
     "summary": "Samsung Internet fully supports CSS nesting (#7306)",
     "usage": {
-      "fully_supported": 88.08,
-      "partially_supported": 2.73
+      "fully_supported": 90.66,
+      "partially_supported": 1.91
     },
     "commit": {
       "sha": "e1d1a74ce28b535f97276e4f632397119563460c",
@@ -1140,8 +1140,8 @@
     "date": "2025-03-12T22:33:03-07:00",
     "summary": "More Safari 18.4: Opus & Cookie Store API (#7282)",
     "usage": {
-      "fully_supported": 92.46,
-      "partially_supported": 4.21
+      "fully_supported": 92.36,
+      "partially_supported": 4.03
     },
     "commit": {
       "sha": "41dd45ee58ed2ff37a2bae5342ccf893ba01483d",
@@ -1177,7 +1177,7 @@
     "summary": "Safari 18.4 supports Ogg Vorbis (#7281)",
     "usage": {
       "fully_supported": 94.24,
-      "partially_supported": 1.16
+      "partially_supported": 1.15
     },
     "commit": {
       "sha": "92e918d5884cb70c28ca3a98e3d9f25322ce8ef9",
@@ -1212,8 +1212,8 @@
     "date": "2025-03-09T11:27:18-07:00",
     "summary": "Update hevc.json (#7276)",
     "usage": {
-      "fully_supported": 16.33,
-      "partially_supported": 74.74
+      "fully_supported": 17.51,
+      "partially_supported": 74.81
     },
     "commit": {
       "sha": "05451ef6c499c8013bf6148546585fc73f3b2be6",
@@ -1242,8 +1242,8 @@
     "date": "2025-02-25T21:48:49-08:00",
     "summary": "Correct errors in Push API (#7262)",
     "usage": {
-      "fully_supported": 82.36,
-      "partially_supported": 12.76
+      "fully_supported": 81.85,
+      "partially_supported": 13.71
     },
     "commit": {
       "sha": "dc90ffa8b933da4cef761971fcf10cc0e4a65f18",
@@ -1296,7 +1296,7 @@
     "date": "2025-02-06T21:23:01-08:00",
     "summary": "Update `inputmode` support on desktop Safari (#7256)",
     "usage": {
-      "fully_supported": 94.35,
+      "fully_supported": 95.7,
       "partially_supported": 0
     },
     "commit": {

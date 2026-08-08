@@ -68,14 +68,14 @@
   "chrome_id": "5188299478007808",
   "usage": {
     "fully_supported": 0,
-    "partially_supported": 13.6
+    "partially_supported": 15.02
   },
   "latest_event": null,
   "hot": {
-    "rank": 521,
-    "score": 7.04,
+    "rank": 520,
+    "score": 7.25,
     "signals": {
-      "coverage_score": 2.04,
+      "coverage_score": 2.25,
       "breadth_score": 5,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -93,7 +93,7 @@
         "type": "desktop",
         "current_version": "11",
         "current_status": "n",
-        "current_global_usage": 0.22,
+        "current_global_usage": 0.27,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -207,7 +207,7 @@
         "type": "desktop",
         "current_version": "153",
         "current_status": "n d #8",
-        "current_global_usage": 0,
+        "current_global_usage": 0.3,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -378,7 +378,7 @@
         "type": "desktop",
         "current_version": "151",
         "current_status": "n d #6",
-        "current_global_usage": 0.01,
+        "current_global_usage": 0.14,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -542,7 +542,7 @@
         "type": "desktop",
         "current_version": "26.4",
         "current_status": "a #4 #5",
-        "current_global_usage": 0.09,
+        "current_global_usage": 0.05,
         "first_partial_version": "27",
         "first_full_version": null,
         "stats": {
@@ -612,7 +612,7 @@
         "type": "desktop",
         "current_version": "131",
         "current_status": "n",
-        "current_global_usage": 0.39,
+        "current_global_usage": 0.06,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -749,7 +749,7 @@
         "type": "mobile",
         "current_version": "26.4",
         "current_status": "a #4 #5",
-        "current_global_usage": 0.62,
+        "current_global_usage": 0.34,
         "first_partial_version": "17.0",
         "first_full_version": null,
         "stats": {
@@ -831,7 +831,7 @@
         "type": "mobile",
         "current_version": "151",
         "current_status": "n",
-        "current_global_usage": 0.14,
+        "current_global_usage": 0.03,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -871,7 +871,7 @@
         "type": "mobile",
         "current_version": "80",
         "current_status": "n",
-        "current_global_usage": 0.89,
+        "current_global_usage": 0.98,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -892,7 +892,7 @@
         "type": "mobile",
         "current_version": "151",
         "current_status": "n d #6",
-        "current_global_usage": 44.75,
+        "current_global_usage": 46.33,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -907,7 +907,7 @@
         "type": "mobile",
         "current_version": "153",
         "current_status": "n",
-        "current_global_usage": 0.37,
+        "current_global_usage": 0.36,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -938,7 +938,7 @@
         "type": "mobile",
         "current_version": "15.5",
         "current_status": "n",
-        "current_global_usage": 0.62,
+        "current_global_usage": 0.68,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -953,7 +953,7 @@
         "type": "mobile",
         "current_version": "30",
         "current_status": "n",
-        "current_global_usage": 0.99,
+        "current_global_usage": 1.09,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -1036,6 +1036,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "dc63d7b77566ec49193c933c0b047e832ebdf8d9"
+    "commit": "923dc04b5651bb7d612dcc224bd918ba37d34eb7"
   }
 }
