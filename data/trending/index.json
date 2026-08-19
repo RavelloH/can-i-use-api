@@ -1,5 +1,29 @@
 [
   {
+    "id": "temporal",
+    "title": "Temporal",
+    "type": "support",
+    "date": "2026-08-18T23:07:16+02:00",
+    "summary": "Update temporal.json (#7561)",
+    "usage": {
+      "fully_supported": 69.14,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "90550899db27ae2dc941f07850e04e32ca48f363",
+      "url": "https://github.com/Fyrd/caniuse/commit/90550899db27ae2dc941f07850e04e32ca48f363"
+    },
+    "improved_count": 1,
+    "changes": [
+      {
+        "browser": "safari",
+        "version": "TP",
+        "from": "n d #2",
+        "to": "y"
+      }
+    ]
+  },
+  {
     "id": "css-if",
     "title": "CSS if() function",
     "type": "support",
@@ -19,30 +43,6 @@
         "browser": "safari",
         "version": "TP",
         "from": "n",
-        "to": "y"
-      }
-    ]
-  },
-  {
-    "id": "temporal",
-    "title": "Temporal",
-    "type": "support",
-    "date": "2026-08-06T09:16:01+01:00",
-    "summary": "Safari TP 249: CSS `if()` & Temporal (#7557)",
-    "usage": {
-      "fully_supported": 69.14,
-      "partially_supported": 0
-    },
-    "commit": {
-      "sha": "a166484e573d69b5808b4d6f99427e197b60745f",
-      "url": "https://github.com/Fyrd/caniuse/commit/a166484e573d69b5808b4d6f99427e197b60745f"
-    },
-    "improved_count": 1,
-    "changes": [
-      {
-        "browser": "safari",
-        "version": "TP",
-        "from": "n d #2",
         "to": "y"
       }
     ]
