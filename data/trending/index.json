@@ -6,7 +6,7 @@
     "date": "2026-08-18T23:07:16+02:00",
     "summary": "Update temporal.json (#7561)",
     "usage": {
-      "fully_supported": 69.14,
+      "fully_supported": 69.2,
       "partially_supported": 0
     },
     "commit": {
@@ -534,8 +534,8 @@
     "date": "2026-01-22T20:46:17-08:00",
     "summary": "Update css-text-indent.json (#7461)",
     "usage": {
-      "fully_supported": 84.83,
-      "partially_supported": 11.85
+      "fully_supported": 84.89,
+      "partially_supported": 11.79
     },
     "commit": {
       "sha": "333caf8fc73e074cd1988d3da4304b01bf4b50b3",
@@ -606,7 +606,7 @@
     "date": "2025-12-18T20:08:44-08:00",
     "summary": "Update css-text-justify.json (#7438)",
     "usage": {
-      "fully_supported": 70.46,
+      "fully_supported": 70.52,
       "partially_supported": 0.27
     },
     "commit": {
@@ -1286,96 +1286,6 @@
         "version": "TP",
         "from": "a #3 #5",
         "to": "y #3 #6"
-      }
-    ]
-  },
-  {
-    "id": "input-inputmode",
-    "title": "inputmode attribute",
-    "type": "support",
-    "date": "2025-02-06T21:23:01-08:00",
-    "summary": "Update `inputmode` support on desktop Safari (#7256)",
-    "usage": {
-      "fully_supported": 95.7,
-      "partially_supported": 0
-    },
-    "commit": {
-      "sha": "a7746ced1caea9e88d6b5385f48916c619654afb",
-      "url": "https://github.com/Fyrd/caniuse/commit/a7746ced1caea9e88d6b5385f48916c619654afb"
-    },
-    "improved_count": 31,
-    "changes": [
-      {
-        "browser": "safari",
-        "version": "13",
-        "from": "n",
-        "to": "y"
-      },
-      {
-        "browser": "safari",
-        "version": "14",
-        "from": "n",
-        "to": "y"
-      },
-      {
-        "browser": "safari",
-        "version": "15",
-        "from": "n",
-        "to": "y"
-      },
-      {
-        "browser": "safari",
-        "version": "12.1",
-        "from": "n",
-        "to": "y"
-      },
-      {
-        "browser": "safari",
-        "version": "13.1",
-        "from": "n",
-        "to": "y"
-      },
-      {
-        "browser": "safari",
-        "version": "14.1",
-        "from": "n",
-        "to": "y"
-      },
-      {
-        "browser": "safari",
-        "version": "15.1",
-        "from": "n",
-        "to": "y"
-      },
-      {
-        "browser": "safari",
-        "version": "15.2-15.3",
-        "from": "n",
-        "to": "y"
-      },
-      {
-        "browser": "safari",
-        "version": "15.4",
-        "from": "n",
-        "to": "y"
-      },
-      {
-        "browser": "safari",
-        "version": "15.5",
-        "from": "n",
-        "to": "y"
-      },
-      {
-        "browser": "safari",
-        "version": "15.6",
-        "from": "n",
-        "to": "y"
-      },
-      {
-        "browser": "safari",
-        "version": "16.0",
-        "from": "n",
-        "to": "y"
       }
     ]
   }

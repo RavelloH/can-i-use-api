@@ -92,7 +92,7 @@
     ]
   },
   "hot": {
-    "rank": 356,
+    "rank": 355,
     "score": 72.5,
     "signals": {
       "coverage_score": 42.98,
@@ -225,9 +225,9 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "153",
+        "current_version": "154",
         "current_status": "y #2",
-        "current_global_usage": 0.3,
+        "current_global_usage": 0,
         "first_partial_version": "44",
         "first_full_version": "44",
         "stats": {
@@ -386,6 +386,7 @@
           "154": "y #2",
           "155": "y #2",
           "156": "y #2",
+          "157": "y #2",
           "3.5": "n",
           "3.6": "n"
         }
@@ -560,9 +561,9 @@
         "short_name": "Saf.",
         "browser": "Safari",
         "type": "desktop",
-        "current_version": "26.4",
+        "current_version": "26.6",
         "current_status": "y #6",
-        "current_global_usage": 0.05,
+        "current_global_usage": 0,
         "first_partial_version": "27",
         "first_full_version": "27",
         "stats": {
@@ -621,6 +622,7 @@
           "26.3": "y #3 #6",
           "26.4": "y #6",
           "26.5": "y #6",
+          "26.6": "y #6",
           "TP": "y #6"
         }
       },
@@ -630,9 +632,9 @@
         "short_name": "Op.",
         "browser": "Opera",
         "type": "desktop",
-        "current_version": "131",
+        "current_version": "134",
         "current_status": "y #2",
-        "current_global_usage": 0.06,
+        "current_global_usage": 0,
         "first_partial_version": "42",
         "first_full_version": "42",
         "stats": {
@@ -751,6 +753,9 @@
           "126": "y #2",
           "127": "y #2",
           "131": "y #2",
+          "132": "y #2",
+          "133": "y #2",
+          "134": "y #2",
           "9.5-9.6": "n",
           "10.0-10.1": "n",
           "10.5": "n",
@@ -767,9 +772,9 @@
         "short_name": "iOS",
         "browser": "Safari on iOS",
         "type": "mobile",
-        "current_version": "26.4",
+        "current_version": "26.6",
         "current_status": "a #7",
-        "current_global_usage": 0.34,
+        "current_global_usage": 0,
         "first_partial_version": "16.4",
         "first_full_version": null,
         "stats": {
@@ -825,7 +830,8 @@
           "26.2": "a #7",
           "26.3": "a #7",
           "26.4": "a #7",
-          "26.5": "a #7"
+          "26.5": "a #7",
+          "26.6": "a #7"
         }
       },
       {
@@ -1056,6 +1062,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "90550899db27ae2dc941f07850e04e32ca48f363"
+    "commit": "fb9613d041c25361db6e8dbb3f644fd2546ac667"
   }
 }

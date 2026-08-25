@@ -40,13 +40,12 @@
   ],
   "notes": "",
   "notes_by_num": {
-    "1": "Supported in Firefox Nightly behind the `javascript.options.experimental.temporal` flag, enabled by default since 137",
-    "2": "Can be enabled via the `useTemporal` runtime flag"
+    "1": "Supported in Firefox Nightly behind the `javascript.options.experimental.temporal` flag, enabled by default since 137"
   },
   "parent": null,
   "chrome_id": "5668291307634688",
   "usage": {
-    "fully_supported": 69.14,
+    "fully_supported": 69.2,
     "partially_supported": 0
   },
   "latest_event": {
@@ -68,15 +67,15 @@
     ]
   },
   "hot": {
-    "rank": 17,
-    "score": 75.71,
+    "rank": 10,
+    "score": 78.18,
     "signals": {
-      "coverage_score": 34.57,
-      "breadth_score": 15,
-      "freshness_score": 23.64,
+      "coverage_score": 34.6,
+      "breadth_score": 17.5,
+      "freshness_score": 23.58,
       "momentum_score": 2.5,
       "added_score": 0,
-      "current_supported_browsers": 6
+      "current_supported_browsers": 7
     }
   },
   "support": {
@@ -201,9 +200,9 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "153",
+        "current_version": "154",
         "current_status": "y",
-        "current_global_usage": 0.3,
+        "current_global_usage": 0,
         "first_partial_version": "139",
         "first_full_version": "139",
         "stats": {
@@ -362,6 +361,7 @@
           "154": "y",
           "155": "y",
           "156": "y",
+          "157": "y",
           "3.5": "n",
           "3.6": "n"
         }
@@ -536,11 +536,11 @@
         "short_name": "Saf.",
         "browser": "Safari",
         "type": "desktop",
-        "current_version": "26.4",
+        "current_version": "26.6",
         "current_status": "n",
-        "current_global_usage": 0.05,
-        "first_partial_version": null,
-        "first_full_version": null,
+        "current_global_usage": 0,
+        "first_partial_version": "TP",
+        "first_full_version": "TP",
         "stats": {
           "4": "n",
           "5": "n",
@@ -597,7 +597,8 @@
           "26.3": "n",
           "26.4": "n",
           "26.5": "n",
-          "TP": "n d #2"
+          "26.6": "n",
+          "TP": "y"
         }
       },
       {
@@ -606,11 +607,11 @@
         "short_name": "Op.",
         "browser": "Opera",
         "type": "desktop",
-        "current_version": "131",
-        "current_status": "n",
-        "current_global_usage": 0.06,
-        "first_partial_version": null,
-        "first_full_version": null,
+        "current_version": "134",
+        "current_status": "y",
+        "current_global_usage": 0,
+        "first_partial_version": "131",
+        "first_full_version": "131",
         "stats": {
           "9": "n",
           "11": "n",
@@ -726,7 +727,10 @@
           "125": "n",
           "126": "n",
           "127": "n",
-          "131": "n",
+          "131": "y",
+          "132": "y",
+          "133": "y",
+          "134": "y",
           "9.5-9.6": "n",
           "10.0-10.1": "n",
           "10.5": "n",
@@ -743,9 +747,9 @@
         "short_name": "iOS",
         "browser": "Safari on iOS",
         "type": "mobile",
-        "current_version": "26.4",
+        "current_version": "26.6",
         "current_status": "n",
-        "current_global_usage": 0.34,
+        "current_global_usage": 0,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -801,7 +805,8 @@
           "26.2": "n",
           "26.3": "n",
           "26.4": "n",
-          "26.5": "n"
+          "26.5": "n",
+          "26.6": "n"
         }
       },
       {
@@ -1032,6 +1037,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "90550899db27ae2dc941f07850e04e32ca48f363"
+    "commit": "fb9613d041c25361db6e8dbb3f644fd2546ac667"
   }
 }

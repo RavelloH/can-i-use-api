@@ -203,9 +203,9 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "153",
+        "current_version": "154",
         "current_status": "a d #1 #8",
-        "current_global_usage": 0.3,
+        "current_global_usage": 0,
         "first_partial_version": "141",
         "first_full_version": null,
         "stats": {
@@ -364,6 +364,7 @@
           "154": "a d #1 #8",
           "155": "a d #1 #8",
           "156": "a d #1 #8",
+          "157": "a d #1 #8",
           "3.5": "n",
           "3.6": "n"
         }
@@ -538,9 +539,9 @@
         "short_name": "Saf.",
         "browser": "Safari",
         "type": "desktop",
-        "current_version": "26.4",
+        "current_version": "26.6",
         "current_status": "a #2 #7",
-        "current_global_usage": 0.05,
+        "current_global_usage": 0,
         "first_partial_version": "27",
         "first_full_version": null,
         "stats": {
@@ -599,6 +600,7 @@
           "26.3": "a #2 #7",
           "26.4": "a #2 #7",
           "26.5": "a #2 #7",
+          "26.6": "a #2 #7",
           "TP": "a #2 #7"
         }
       },
@@ -608,9 +610,9 @@
         "short_name": "Op.",
         "browser": "Opera",
         "type": "desktop",
-        "current_version": "131",
+        "current_version": "134",
         "current_status": "y #5",
-        "current_global_usage": 0.06,
+        "current_global_usage": 0,
         "first_partial_version": "99",
         "first_full_version": "99",
         "stats": {
@@ -729,6 +731,9 @@
           "126": "y #5",
           "127": "y #5",
           "131": "y #5",
+          "132": "y #5",
+          "133": "y #5",
+          "134": "y #5",
           "9.5-9.6": "n",
           "10.0-10.1": "n",
           "10.5": "n",
@@ -745,9 +750,9 @@
         "short_name": "iOS",
         "browser": "Safari on iOS",
         "type": "mobile",
-        "current_version": "26.4",
+        "current_version": "26.6",
         "current_status": "y",
-        "current_global_usage": 0.34,
+        "current_global_usage": 0,
         "first_partial_version": "26.0",
         "first_full_version": "26.0",
         "stats": {
@@ -803,7 +808,8 @@
           "26.2": "y",
           "26.3": "y",
           "26.4": "y",
-          "26.5": "y"
+          "26.5": "y",
+          "26.6": "y"
         }
       },
       {
@@ -1034,6 +1040,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "90550899db27ae2dc941f07850e04e32ca48f363"
+    "commit": "fb9613d041c25361db6e8dbb3f644fd2546ac667"
   }
 }
