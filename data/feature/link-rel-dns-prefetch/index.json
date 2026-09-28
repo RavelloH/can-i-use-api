@@ -67,11 +67,11 @@
   },
   "hot": {
     "rank": 17,
-    "score": 75.48,
+    "score": 75.41,
     "signals": {
       "coverage_score": 46.71,
       "breadth_score": 22.5,
-      "freshness_score": 2.31,
+      "freshness_score": 2.24,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 9
@@ -106,9 +106,9 @@
         "short_name": "Edge",
         "browser": "Edge",
         "type": "desktop",
-        "current_version": "152",
+        "current_version": "154",
         "current_status": "y",
-        "current_global_usage": 0.21,
+        "current_global_usage": 0,
         "first_partial_version": "12",
         "first_full_version": "12",
         "stats": {
@@ -191,7 +191,9 @@
           "149": "y",
           "150": "y",
           "151": "y",
-          "152": "y"
+          "152": "y",
+          "153": "y",
+          "154": "y"
         }
       },
       {
@@ -841,7 +843,7 @@
         "short_name": "And.",
         "browser": "Android Browser",
         "type": "mobile",
-        "current_version": "152",
+        "current_version": "154",
         "current_status": "u",
         "current_global_usage": 0.03,
         "first_partial_version": null,
@@ -849,7 +851,7 @@
         "stats": {
           "3": "u",
           "4": "u",
-          "152": "u",
+          "154": "u",
           "2.1": "u",
           "2.2": "u",
           "2.3": "u",
@@ -902,13 +904,13 @@
         "short_name": "Chr/And.",
         "browser": "Chrome for Android",
         "type": "mobile",
-        "current_version": "152",
+        "current_version": "154",
         "current_status": "y",
         "current_global_usage": 44.02,
-        "first_partial_version": "152",
-        "first_full_version": "152",
+        "first_partial_version": "154",
+        "first_full_version": "154",
         "stats": {
-          "152": "y"
+          "154": "y"
         }
       },
       {
@@ -1048,6 +1050,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "f533da4c77efd0c1b2f159421596993750c7d6ca"
+    "commit": "beaa65d30a27fdc140a8fbd48b1589ec005c45e6"
   }
 }
