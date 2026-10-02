@@ -1336,35 +1336,5 @@
         "to": "y"
       }
     ]
-  },
-  {
-    "id": "hevc",
-    "title": "HEVC/H.265 video format",
-    "type": "support",
-    "date": "2025-03-09T11:27:18-07:00",
-    "summary": "Update hevc.json (#7276)",
-    "usage": {
-      "fully_supported": 16.94,
-      "partially_supported": 76.59
-    },
-    "commit": {
-      "sha": "05451ef6c499c8013bf6148546585fc73f3b2be6",
-      "url": "https://github.com/Fyrd/caniuse/commit/05451ef6c499c8013bf6148546585fc73f3b2be6"
-    },
-    "improved_count": 2,
-    "changes": [
-      {
-        "browser": "firefox",
-        "version": "137",
-        "from": "n d #7",
-        "to": "a #8"
-      },
-      {
-        "browser": "firefox",
-        "version": "138",
-        "from": "n d #7",
-        "to": "a #8"
-      }
-    ]
   }
 ]

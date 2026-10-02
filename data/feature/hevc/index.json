@@ -51,38 +51,15 @@
     "fully_supported": 16.94,
     "partially_supported": 76.59
   },
-  "latest_event": {
-    "type": "support",
-    "date": "2025-03-09T11:27:18-07:00",
-    "summary": "Update hevc.json (#7276)",
-    "commit": {
-      "sha": "05451ef6c499c8013bf6148546585fc73f3b2be6",
-      "url": "https://github.com/Fyrd/caniuse/commit/05451ef6c499c8013bf6148546585fc73f3b2be6"
-    },
-    "improved_count": 2,
-    "changes": [
-      {
-        "browser": "firefox",
-        "version": "137",
-        "from": "n d #7",
-        "to": "a #8"
-      },
-      {
-        "browser": "firefox",
-        "version": "138",
-        "from": "n d #7",
-        "to": "a #8"
-      }
-    ]
-  },
+  "latest_event": null,
   "hot": {
-    "rank": 471,
-    "score": 48.92,
+    "rank": 476,
+    "score": 44.96,
     "signals": {
       "coverage_score": 19.96,
       "breadth_score": 25,
       "freshness_score": 0,
-      "momentum_score": 3.96,
+      "momentum_score": 0,
       "added_score": 0,
       "current_supported_browsers": 10
     }
@@ -1061,6 +1038,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "4c276be8460f477d100e55cf39639478951e64d1"
+    "commit": "ce66e8e69a513ca92944077c646dd6cdc34f6f98"
   }
 }
