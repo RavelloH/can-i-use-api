@@ -42,6 +42,10 @@
     {
       "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=822898",
       "title": "Bugzilla@Mozilla: Bug 822898 - Implement pointer events"
+    },
+    {
+      "url": "https://inputprobe.com/polling-and-coalesced-events/",
+      "title": "How pointermove batches device reports, and reading them with getCoalescedEvents()"
     }
   ],
   "notes": "Firefox, starting with version 28, provides the 'dom.w3c_pointer_events.enabled' flag to support this specification.",
@@ -1046,6 +1050,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "ce66e8e69a513ca92944077c646dd6cdc34f6f98"
+    "commit": "e7ddc557408a5caa830e3e2949a302361f5b37c6"
   }
 }
