@@ -26,6 +26,10 @@
     {
       "url": "https://bugs.webkit.org/show_bug.cgi?id=149584",
       "title": "WebKit feature request bug"
+    },
+    {
+      "url": "https://inputprobe.com/keyboard-tester/",
+      "title": "Keyboard tester that shows event.code and event.key live for each key pressed"
     }
   ],
   "notes": "[\"Some key events, or their values, might be suppressed by the IME in use\"](https://www.w3.org/TR/2019/WD-uievents-20190530/#keys-IME). On mobile (virtual keyboard), all keys are reported as empty (\"\").",
@@ -35,15 +39,15 @@
   "parent": null,
   "chrome_id": "5228092293382144",
   "usage": {
-    "fully_supported": 49.81,
+    "fully_supported": 50.87,
     "partially_supported": 0
   },
   "latest_event": null,
   "hot": {
-    "rank": 481,
-    "score": 42.41,
+    "rank": 480,
+    "score": 42.93,
     "signals": {
-      "coverage_score": 24.91,
+      "coverage_score": 25.43,
       "breadth_score": 17.5,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -61,7 +65,7 @@
         "type": "desktop",
         "current_version": "11",
         "current_status": "n",
-        "current_global_usage": 0.24,
+        "current_global_usage": 0.21,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -82,7 +86,7 @@
         "type": "desktop",
         "current_version": "154",
         "current_status": "y",
-        "current_global_usage": 0,
+        "current_global_usage": 0.61,
         "first_partial_version": "79",
         "first_full_version": "79",
         "stats": {
@@ -178,7 +182,7 @@
         "type": "desktop",
         "current_version": "157",
         "current_status": "y",
-        "current_global_usage": 0,
+        "current_global_usage": 0.02,
         "first_partial_version": "38",
         "first_full_version": "38",
         "stats": {
@@ -353,7 +357,7 @@
         "type": "desktop",
         "current_version": "154",
         "current_status": "y",
-        "current_global_usage": 0,
+        "current_global_usage": 1.44,
         "first_partial_version": "48",
         "first_full_version": "48",
         "stats": {
@@ -520,7 +524,7 @@
         "type": "desktop",
         "current_version": "27",
         "current_status": "y",
-        "current_global_usage": 0.01,
+        "current_global_usage": 0.12,
         "first_partial_version": "11",
         "first_full_version": "11",
         "stats": {
@@ -593,7 +597,7 @@
         "type": "desktop",
         "current_version": "135",
         "current_status": "y",
-        "current_global_usage": 0.01,
+        "current_global_usage": 0.58,
         "first_partial_version": "35",
         "first_full_version": "35",
         "stats": {
@@ -734,7 +738,7 @@
         "type": "mobile",
         "current_version": "27.0",
         "current_status": "y",
-        "current_global_usage": 0,
+        "current_global_usage": 0.64,
         "first_partial_version": "10.3",
         "first_full_version": "10.3",
         "stats": {
@@ -860,7 +864,7 @@
         "type": "mobile",
         "current_version": "80",
         "current_status": "n",
-        "current_global_usage": 0.97,
+        "current_global_usage": 0.85,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -881,7 +885,7 @@
         "type": "mobile",
         "current_version": "154",
         "current_status": "n d #1",
-        "current_global_usage": 44.02,
+        "current_global_usage": 42.79,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -896,7 +900,7 @@
         "type": "mobile",
         "current_version": "157",
         "current_status": "y",
-        "current_global_usage": 0.38,
+        "current_global_usage": 0.41,
         "first_partial_version": "157",
         "first_full_version": "157",
         "stats": {
@@ -927,7 +931,7 @@
         "type": "mobile",
         "current_version": "15.5",
         "current_status": "n",
-        "current_global_usage": 0.64,
+        "current_global_usage": 0.48,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -942,7 +946,7 @@
         "type": "mobile",
         "current_version": "30",
         "current_status": "n d #1",
-        "current_global_usage": 1.08,
+        "current_global_usage": 1.79,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -983,7 +987,7 @@
         "type": "mobile",
         "current_version": "14.9",
         "current_status": "n",
-        "current_global_usage": 0.09,
+        "current_global_usage": 0.13,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -1025,6 +1029,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "e7ddc557408a5caa830e3e2949a302361f5b37c6"
+    "commit": "6ed49c64cdbdfeb9cfae5481eef01ec57c2d6025"
   }
 }
