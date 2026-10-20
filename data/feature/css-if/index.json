@@ -65,12 +65,12 @@
     ]
   },
   "hot": {
-    "rank": 404,
-    "score": 68.53,
+    "rank": 406,
+    "score": 68.46,
     "signals": {
       "coverage_score": 34.47,
       "breadth_score": 12.5,
-      "freshness_score": 19.06,
+      "freshness_score": 18.99,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 5
@@ -105,9 +105,9 @@
         "short_name": "Edge",
         "browser": "Edge",
         "type": "desktop",
-        "current_version": "154",
+        "current_version": "155",
         "current_status": "y",
-        "current_global_usage": 0.61,
+        "current_global_usage": 0,
         "first_partial_version": "137",
         "first_full_version": "137",
         "stats": {
@@ -192,7 +192,8 @@
           "151": "y",
           "152": "y",
           "153": "y",
-          "154": "y"
+          "154": "y",
+          "155": "y"
         }
       },
       {
@@ -201,9 +202,9 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "157",
+        "current_version": "158",
         "current_status": "n",
-        "current_global_usage": 0.02,
+        "current_global_usage": 0,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -366,6 +367,7 @@
           "158": "n",
           "159": "n",
           "160": "n",
+          "161": "n",
           "3.5": "n",
           "3.6": "n"
         }
@@ -376,9 +378,9 @@
         "short_name": "Chr.",
         "browser": "Chrome",
         "type": "desktop",
-        "current_version": "154",
+        "current_version": "155",
         "current_status": "y",
-        "current_global_usage": 1.44,
+        "current_global_usage": 0.02,
         "first_partial_version": "137",
         "first_full_version": "137",
         "stats": {
@@ -534,7 +536,8 @@
           "154": "y",
           "155": "y",
           "156": "y",
-          "157": "y"
+          "157": "y",
+          "158": "y"
         }
       },
       {
@@ -843,15 +846,15 @@
         "short_name": "And.",
         "browser": "Android Browser",
         "type": "mobile",
-        "current_version": "154",
+        "current_version": "155",
         "current_status": "y",
         "current_global_usage": 0.03,
-        "first_partial_version": "154",
-        "first_full_version": "154",
+        "first_partial_version": "155",
+        "first_full_version": "155",
         "stats": {
           "3": "n",
           "4": "n",
-          "154": "y",
+          "155": "y",
           "2.1": "n",
           "2.2": "n",
           "2.3": "n",
@@ -904,13 +907,13 @@
         "short_name": "Chr/And.",
         "browser": "Chrome for Android",
         "type": "mobile",
-        "current_version": "154",
+        "current_version": "155",
         "current_status": "y",
         "current_global_usage": 42.79,
-        "first_partial_version": "154",
-        "first_full_version": "154",
+        "first_partial_version": "155",
+        "first_full_version": "155",
         "stats": {
-          "154": "y"
+          "155": "y"
         }
       },
       {
@@ -919,13 +922,13 @@
         "short_name": "FF/And.",
         "browser": "Firefox for Android",
         "type": "mobile",
-        "current_version": "157",
+        "current_version": "158",
         "current_status": "n",
         "current_global_usage": 0.41,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
-          "157": "n"
+          "158": "n"
         }
       },
       {
@@ -1050,6 +1053,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "6ed49c64cdbdfeb9cfae5481eef01ec57c2d6025"
+    "commit": "c6534d8d5ca7b1db5e071b87c27700dba1d0dffb"
   }
 }

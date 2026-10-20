@@ -156,7 +156,7 @@
     "date": "2026-09-23T19:59:21-07:00",
     "summary": "JPEG-XL is be enabled in Firefox 158 and Chrome 155 (#7565)",
     "usage": {
-      "fully_supported": 0.02,
+      "fully_supported": 43.26,
       "partially_supported": 16.93
     },
     "commit": {
