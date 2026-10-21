@@ -1,5 +1,59 @@
 [
   {
+    "id": "css-overflow-anchor",
+    "title": "CSS overflow-anchor (Scroll Anchoring)",
+    "type": "support",
+    "date": "2026-10-20T22:41:27-07:00",
+    "summary": "Mark overflow-anchor supported in Safari 27 and iOS 27 (#7593)",
+    "usage": {
+      "fully_supported": 80.14,
+      "partially_supported": 0
+    },
+    "commit": {
+      "sha": "e99ebeb137f553376430cc25aa8a39fb56c457d8",
+      "url": "https://github.com/Fyrd/caniuse/commit/e99ebeb137f553376430cc25aa8a39fb56c457d8"
+    },
+    "improved_count": 6,
+    "changes": [
+      {
+        "browser": "safari",
+        "version": "27",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "27.1",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "safari",
+        "version": "27.2",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "27.0",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "27.1",
+        "from": "n",
+        "to": "y"
+      },
+      {
+        "browser": "ios_saf",
+        "version": "27.2",
+        "from": "n",
+        "to": "y"
+      }
+    ]
+  },
+  {
     "id": "wake-lock",
     "title": "Screen Wake Lock API",
     "type": "support",
@@ -498,30 +552,6 @@
     "commit": {
       "sha": "934ed5854ed49c4a511974c308a79c68e59aee16",
       "url": "https://github.com/Fyrd/caniuse/commit/934ed5854ed49c4a511974c308a79c68e59aee16"
-    },
-    "improved_count": 1,
-    "changes": [
-      {
-        "browser": "safari",
-        "version": "TP",
-        "from": "n",
-        "to": "y"
-      }
-    ]
-  },
-  {
-    "id": "css-overflow-anchor",
-    "title": "CSS overflow-anchor (Scroll Anchoring)",
-    "type": "support",
-    "date": "2026-02-28T15:40:30-08:00",
-    "summary": "Update css-overflow-anchor.json (#7484)",
-    "usage": {
-      "fully_supported": 79.36,
-      "partially_supported": 0
-    },
-    "commit": {
-      "sha": "d5ab6024690ed993e1092f8f2e3d17b43ea3a5a2",
-      "url": "https://github.com/Fyrd/caniuse/commit/d5ab6024690ed993e1092f8f2e3d17b43ea3a5a2"
     },
     "improved_count": 1,
     "changes": [
