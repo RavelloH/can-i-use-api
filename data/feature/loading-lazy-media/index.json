@@ -91,11 +91,11 @@
   },
   "hot": {
     "rank": 442,
-    "score": 60.51,
+    "score": 60.45,
     "signals": {
       "coverage_score": 33.61,
       "breadth_score": 12.5,
-      "freshness_score": 10.44,
+      "freshness_score": 10.38,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 5
@@ -403,9 +403,9 @@
         "short_name": "Chr.",
         "browser": "Chrome",
         "type": "desktop",
-        "current_version": "155",
+        "current_version": "156",
         "current_status": "y",
-        "current_global_usage": 0.02,
+        "current_global_usage": 0,
         "first_partial_version": "148",
         "first_full_version": "148",
         "stats": {
@@ -562,7 +562,8 @@
           "155": "y",
           "156": "y",
           "157": "y",
-          "158": "y"
+          "158": "y",
+          "159": "y"
         }
       },
       {
@@ -871,15 +872,15 @@
         "short_name": "And.",
         "browser": "Android Browser",
         "type": "mobile",
-        "current_version": "155",
+        "current_version": "156",
         "current_status": "y",
         "current_global_usage": 0.03,
-        "first_partial_version": "155",
-        "first_full_version": "155",
+        "first_partial_version": "156",
+        "first_full_version": "156",
         "stats": {
           "3": "n",
           "4": "n",
-          "155": "y",
+          "156": "y",
           "2.1": "n",
           "2.2": "n",
           "2.3": "n",
@@ -932,13 +933,13 @@
         "short_name": "Chr/And.",
         "browser": "Chrome for Android",
         "type": "mobile",
-        "current_version": "155",
+        "current_version": "156",
         "current_status": "y",
         "current_global_usage": 42.79,
-        "first_partial_version": "155",
-        "first_full_version": "155",
+        "first_partial_version": "156",
+        "first_full_version": "156",
         "stats": {
-          "155": "y"
+          "156": "y"
         }
       },
       {
@@ -1078,6 +1079,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "7cbc6c33ec3201001b3858b760cae5d72d522875"
+    "commit": "664a78d75bcf581e1c6279144ad66b797a1635ab"
   }
 }

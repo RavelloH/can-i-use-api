@@ -176,11 +176,11 @@
   },
   "hot": {
     "rank": 479,
-    "score": 43.72,
+    "score": 43.65,
     "signals": {
       "coverage_score": 8.54,
       "breadth_score": 5,
-      "freshness_score": 22.18,
+      "freshness_score": 22.11,
       "momentum_score": 8,
       "added_score": 0,
       "current_supported_browsers": 2
@@ -488,9 +488,9 @@
         "short_name": "Chr.",
         "browser": "Chrome",
         "type": "desktop",
-        "current_version": "155",
+        "current_version": "156",
         "current_status": "n",
-        "current_global_usage": 0.02,
+        "current_global_usage": 0,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -647,7 +647,8 @@
           "155": "n",
           "156": "n",
           "157": "n",
-          "158": "n"
+          "158": "n",
+          "159": "n"
         }
       },
       {
@@ -956,7 +957,7 @@
         "short_name": "And.",
         "browser": "Android Browser",
         "type": "mobile",
-        "current_version": "155",
+        "current_version": "156",
         "current_status": "n",
         "current_global_usage": 0.03,
         "first_partial_version": null,
@@ -964,7 +965,7 @@
         "stats": {
           "3": "n",
           "4": "n",
-          "155": "n",
+          "156": "n",
           "2.1": "n",
           "2.2": "n",
           "2.3": "n",
@@ -1017,13 +1018,13 @@
         "short_name": "Chr/And.",
         "browser": "Chrome for Android",
         "type": "mobile",
-        "current_version": "155",
+        "current_version": "156",
         "current_status": "n",
         "current_global_usage": 42.79,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
-          "155": "n"
+          "156": "n"
         }
       },
       {
@@ -1163,6 +1164,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "7cbc6c33ec3201001b3858b760cae5d72d522875"
+    "commit": "664a78d75bcf581e1c6279144ad66b797a1635ab"
   }
 }

@@ -342,9 +342,9 @@
         "short_name": "Chr.",
         "browser": "Chrome",
         "type": "desktop",
-        "current_version": "155",
+        "current_version": "156",
         "current_status": "y",
-        "current_global_usage": 0.02,
+        "current_global_usage": 0,
         "first_partial_version": "9",
         "first_full_version": "9",
         "stats": {
@@ -501,7 +501,8 @@
           "155": "y",
           "156": "y",
           "157": "y",
-          "158": "y"
+          "158": "y",
+          "159": "y"
         }
       },
       {
@@ -810,7 +811,7 @@
         "short_name": "And.",
         "browser": "Android Browser",
         "type": "mobile",
-        "current_version": "155",
+        "current_version": "156",
         "current_status": "a",
         "current_global_usage": 0.03,
         "first_partial_version": "3",
@@ -818,7 +819,7 @@
         "stats": {
           "3": "a",
           "4": "a",
-          "155": "a",
+          "156": "a",
           "2.1": "a",
           "2.2": "a",
           "2.3": "a",
@@ -871,13 +872,13 @@
         "short_name": "Chr/And.",
         "browser": "Chrome for Android",
         "type": "mobile",
-        "current_version": "155",
+        "current_version": "156",
         "current_status": "a",
         "current_global_usage": 42.79,
-        "first_partial_version": "155",
+        "first_partial_version": "156",
         "first_full_version": null,
         "stats": {
-          "155": "a"
+          "156": "a"
         }
       },
       {
@@ -1017,6 +1018,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "7cbc6c33ec3201001b3858b760cae5d72d522875"
+    "commit": "664a78d75bcf581e1c6279144ad66b797a1635ab"
   }
 }
