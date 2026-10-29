@@ -202,7 +202,7 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "158",
+        "current_version": "159",
         "current_status": "a #7",
         "current_global_usage": 0,
         "first_partial_version": "2",
@@ -368,6 +368,7 @@
           "159": "a #7",
           "160": "a #7",
           "161": "a #7",
+          "162": "a #7",
           "3.5": "p",
           "3.6": "p"
         }
@@ -923,13 +924,13 @@
         "short_name": "FF/And.",
         "browser": "Firefox for Android",
         "type": "mobile",
-        "current_version": "158",
+        "current_version": "159",
         "current_status": "n",
         "current_global_usage": 0.41,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
-          "158": "n"
+          "159": "n"
         }
       },
       {
@@ -1054,6 +1055,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "664a78d75bcf581e1c6279144ad66b797a1635ab"
+    "commit": "dfffa8fdef1b8b5896b85717c7d86df11644187d"
   }
 }
