@@ -61,7 +61,7 @@
         "type": "desktop",
         "current_version": "11",
         "current_status": "n",
-        "current_global_usage": 0.21,
+        "current_global_usage": 0.17,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -80,9 +80,9 @@
         "short_name": "Edge",
         "browser": "Edge",
         "type": "desktop",
-        "current_version": "155",
+        "current_version": "156",
         "current_status": "n",
-        "current_global_usage": 0,
+        "current_global_usage": 0.86,
         "first_partial_version": "12",
         "first_full_version": "12",
         "stats": {
@@ -168,7 +168,8 @@
           "152": "n",
           "153": "n",
           "154": "n",
-          "155": "n"
+          "155": "n",
+          "156": "n"
         }
       },
       {
@@ -179,7 +180,7 @@
         "type": "desktop",
         "current_version": "159",
         "current_status": "n",
-        "current_global_usage": 0,
+        "current_global_usage": 0.1,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -354,9 +355,9 @@
         "short_name": "Chr.",
         "browser": "Chrome",
         "type": "desktop",
-        "current_version": "156",
+        "current_version": "157",
         "current_status": "n",
-        "current_global_usage": 0,
+        "current_global_usage": 0.03,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -514,7 +515,8 @@
           "156": "n",
           "157": "n",
           "158": "n",
-          "159": "n"
+          "159": "n",
+          "160": "n"
         }
       },
       {
@@ -523,9 +525,9 @@
         "short_name": "Saf.",
         "browser": "Safari",
         "type": "desktop",
-        "current_version": "27",
+        "current_version": "27.2",
         "current_status": "n",
-        "current_global_usage": 0.12,
+        "current_global_usage": 0.02,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -587,6 +589,7 @@
           "26.6": "n",
           "27.1": "n",
           "27.2": "n",
+          "27.3": "n",
           "TP": "n"
         }
       },
@@ -596,9 +599,9 @@
         "short_name": "Op.",
         "browser": "Opera",
         "type": "desktop",
-        "current_version": "135",
+        "current_version": "139",
         "current_status": "n",
-        "current_global_usage": 0.58,
+        "current_global_usage": 0,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -721,6 +724,10 @@
           "133": "n",
           "134": "n",
           "135": "n",
+          "136": "n",
+          "137": "n",
+          "138": "n",
+          "139": "n",
           "9.5-9.6": "n",
           "10.0-10.1": "n",
           "10.5": "n",
@@ -739,7 +746,7 @@
         "type": "mobile",
         "current_version": "27.0",
         "current_status": "n",
-        "current_global_usage": 0.64,
+        "current_global_usage": 2.19,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -823,15 +830,15 @@
         "short_name": "And.",
         "browser": "Android Browser",
         "type": "mobile",
-        "current_version": "156",
+        "current_version": "157",
         "current_status": "n",
-        "current_global_usage": 0.03,
+        "current_global_usage": 0.02,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
           "3": "n",
           "4": "n",
-          "156": "n",
+          "157": "n",
           "2.1": "n",
           "2.2": "n",
           "2.3": "n",
@@ -865,7 +872,7 @@
         "type": "mobile",
         "current_version": "80",
         "current_status": "n",
-        "current_global_usage": 0.85,
+        "current_global_usage": 1.16,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -884,13 +891,13 @@
         "short_name": "Chr/And.",
         "browser": "Chrome for Android",
         "type": "mobile",
-        "current_version": "156",
+        "current_version": "157",
         "current_status": "n",
-        "current_global_usage": 42.79,
+        "current_global_usage": 44.02,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
-          "156": "n"
+          "157": "n"
         }
       },
       {
@@ -901,7 +908,7 @@
         "type": "mobile",
         "current_version": "159",
         "current_status": "n",
-        "current_global_usage": 0.41,
+        "current_global_usage": 0.38,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -932,7 +939,7 @@
         "type": "mobile",
         "current_version": "15.5",
         "current_status": "n",
-        "current_global_usage": 0.48,
+        "current_global_usage": 0.58,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -945,9 +952,9 @@
         "short_name": "SS",
         "browser": "Samsung Internet",
         "type": "mobile",
-        "current_version": "30",
+        "current_version": "31",
         "current_status": "n",
-        "current_global_usage": 1.79,
+        "current_global_usage": 0.01,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -963,6 +970,7 @@
           "28": "n",
           "29": "n",
           "30": "n",
+          "31": "n",
           "5.0-5.4": "n",
           "6.2-6.4": "n",
           "7.2-7.4": "n",
@@ -988,7 +996,7 @@
         "type": "mobile",
         "current_version": "14.9",
         "current_status": "n",
-        "current_global_usage": 0.13,
+        "current_global_usage": 0.09,
         "first_partial_version": null,
         "first_full_version": null,
         "stats": {
@@ -1030,6 +1038,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "dfffa8fdef1b8b5896b85717c7d86df11644187d"
+    "commit": "5c3262aa56eb2f92c4dd32f077a67651d3c7eb16"
   }
 }
