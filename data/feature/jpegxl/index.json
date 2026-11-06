@@ -84,48 +84,30 @@
   },
   "latest_event": {
     "type": "support",
-    "date": "2026-09-23T19:59:21-07:00",
-    "summary": "JPEG-XL is be enabled in Firefox 158 and Chrome 155 (#7565)",
+    "date": "2026-11-05T22:11:48-08:00",
+    "summary": "Update jpegxl.json (#7604)",
     "commit": {
-      "sha": "fb6a1146df6be389edd48554cae731b14b385ca1",
-      "url": "https://github.com/Fyrd/caniuse/commit/fb6a1146df6be389edd48554cae731b14b385ca1"
+      "sha": "abb9d2ea930013d79f9210ac80cbc27e3db03340",
+      "url": "https://github.com/Fyrd/caniuse/commit/abb9d2ea930013d79f9210ac80cbc27e3db03340"
     },
-    "improved_count": 4,
+    "improved_count": 1,
     "changes": [
       {
-        "browser": "firefox",
-        "version": "158",
-        "from": "n d #8",
-        "to": "y"
-      },
-      {
-        "browser": "firefox",
-        "version": "159",
-        "from": "n d #8",
-        "to": "y"
-      },
-      {
-        "browser": "chrome",
-        "version": "155",
-        "from": "n d #6",
-        "to": "y"
-      },
-      {
-        "browser": "chrome",
-        "version": "156",
+        "browser": "opera",
+        "version": "139",
         "from": "n d #6",
         "to": "y"
       }
     ]
   },
   "hot": {
-    "rank": 147,
-    "score": 73.75,
+    "rank": 358,
+    "score": 73.26,
     "signals": {
       "coverage_score": 29.28,
       "breadth_score": 17.5,
-      "freshness_score": 21.17,
-      "momentum_score": 5.8,
+      "freshness_score": 23.98,
+      "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 7
     }
@@ -1117,6 +1099,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "5c3262aa56eb2f92c4dd32f077a67651d3c7eb16"
+    "commit": "32ebc6d130ecd780d3fdd18c5b14a71dd1469e3f"
   }
 }

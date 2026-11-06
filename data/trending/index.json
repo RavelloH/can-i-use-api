@@ -1,5 +1,29 @@
 [
   {
+    "id": "jpegxl",
+    "title": "JPEG XL (JXL) image format",
+    "type": "support",
+    "date": "2026-11-05T22:11:48-08:00",
+    "summary": "Update jpegxl.json (#7604)",
+    "usage": {
+      "fully_supported": 53.99,
+      "partially_supported": 15.26
+    },
+    "commit": {
+      "sha": "abb9d2ea930013d79f9210ac80cbc27e3db03340",
+      "url": "https://github.com/Fyrd/caniuse/commit/abb9d2ea930013d79f9210ac80cbc27e3db03340"
+    },
+    "improved_count": 1,
+    "changes": [
+      {
+        "browser": "opera",
+        "version": "139",
+        "from": "n d #6",
+        "to": "y"
+      }
+    ]
+  },
+  {
     "id": "css-overflow-anchor",
     "title": "CSS overflow-anchor (Scroll Anchoring)",
     "type": "support",
@@ -199,48 +223,6 @@
         "browser": "safari",
         "version": "26.1",
         "from": "a #1",
-        "to": "y"
-      }
-    ]
-  },
-  {
-    "id": "jpegxl",
-    "title": "JPEG XL (JXL) image format",
-    "type": "support",
-    "date": "2026-09-23T19:59:21-07:00",
-    "summary": "JPEG-XL is be enabled in Firefox 158 and Chrome 155 (#7565)",
-    "usage": {
-      "fully_supported": 53.99,
-      "partially_supported": 15.26
-    },
-    "commit": {
-      "sha": "fb6a1146df6be389edd48554cae731b14b385ca1",
-      "url": "https://github.com/Fyrd/caniuse/commit/fb6a1146df6be389edd48554cae731b14b385ca1"
-    },
-    "improved_count": 4,
-    "changes": [
-      {
-        "browser": "firefox",
-        "version": "158",
-        "from": "n d #8",
-        "to": "y"
-      },
-      {
-        "browser": "firefox",
-        "version": "159",
-        "from": "n d #8",
-        "to": "y"
-      },
-      {
-        "browser": "chrome",
-        "version": "155",
-        "from": "n d #6",
-        "to": "y"
-      },
-      {
-        "browser": "chrome",
-        "version": "156",
-        "from": "n d #6",
         "to": "y"
       }
     ]
