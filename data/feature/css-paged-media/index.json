@@ -35,20 +35,21 @@
   "notes": "Currently no browsers appear to support the `marks` & `bleed` properties from the latest version of the specification.\r\n\r\n",
   "notes_by_num": {
     "1": "Does not support the `size` property",
-    "2": "Does not appear to have a way to print web pages"
+    "2": "Does not appear to have a way to print web pages",
+    "3": "Printing ignores the `size` descriptor and lays the page out in the printable area that the iOS print dialog provides. `margin` cannot remove that area's margins or the footer Safari adds."
   },
   "parent": null,
   "chrome_id": null,
   "usage": {
-    "fully_supported": 95.61,
-    "partially_supported": 0.18
+    "fully_supported": 83.33,
+    "partially_supported": 12.46
   },
   "latest_event": null,
   "hot": {
-    "rank": 394,
-    "score": 70.33,
+    "rank": 429,
+    "score": 66.03,
     "signals": {
-      "coverage_score": 47.83,
+      "coverage_score": 43.53,
       "breadth_score": 22.5,
       "freshness_score": 0,
       "momentum_score": 0,
@@ -183,9 +184,9 @@
         "short_name": "FF",
         "browser": "Firefox",
         "type": "desktop",
-        "current_version": "159",
+        "current_version": "160",
         "current_status": "y",
-        "current_global_usage": 0.1,
+        "current_global_usage": 0,
         "first_partial_version": "19",
         "first_full_version": "95",
         "stats": {
@@ -350,6 +351,7 @@
           "160": "y",
           "161": "y",
           "162": "y",
+          "163": "y",
           "3.5": "n",
           "3.6": "n"
         }
@@ -750,10 +752,10 @@
         "browser": "Safari on iOS",
         "type": "mobile",
         "current_version": "27.0",
-        "current_status": "y",
+        "current_status": "a #3",
         "current_global_usage": 2.19,
         "first_partial_version": "18.2",
-        "first_full_version": "18.2",
+        "first_full_version": null,
         "stats": {
           "8": "n",
           "3.2": "n",
@@ -798,20 +800,20 @@
           "17.6-17.7": "n",
           "18.0": "n",
           "18.1": "n",
-          "18.2": "y",
-          "18.3": "y",
-          "18.4": "y",
-          "18.5-18.7": "y",
-          "26.0": "y",
-          "26.1": "y",
-          "26.2": "y",
-          "26.3": "y",
-          "26.4": "y",
-          "26.5": "y",
-          "26.6": "y",
-          "27.0": "y",
-          "27.1": "y",
-          "27.2": "y"
+          "18.2": "a #3",
+          "18.3": "a #3",
+          "18.4": "a #3",
+          "18.5-18.7": "a #3",
+          "26.0": "a #3",
+          "26.1": "a #3",
+          "26.2": "a #3",
+          "26.3": "a #3",
+          "26.4": "a #3",
+          "26.5": "a #3",
+          "26.6": "a #3",
+          "27.0": "a #3",
+          "27.1": "a #3",
+          "27.2": "a #3"
         }
       },
       {
@@ -911,13 +913,13 @@
         "short_name": "FF/And.",
         "browser": "Firefox for Android",
         "type": "mobile",
-        "current_version": "159",
+        "current_version": "160",
         "current_status": "y",
         "current_global_usage": 0.38,
-        "first_partial_version": "159",
-        "first_full_version": "159",
+        "first_partial_version": "160",
+        "first_full_version": "160",
         "stats": {
-          "159": "y"
+          "160": "y"
         }
       },
       {
@@ -1043,6 +1045,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "32ebc6d130ecd780d3fdd18c5b14a71dd1469e3f"
+    "commit": "98dc02319a8e7013684a785f4fbf30eedea55e63"
   }
 }
