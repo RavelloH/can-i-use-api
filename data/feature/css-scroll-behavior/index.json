@@ -48,7 +48,7 @@
   },
   "latest_event": null,
   "hot": {
-    "rank": 317,
+    "rank": 316,
     "score": 73.63,
     "signals": {
       "coverage_score": 48.63,
@@ -88,9 +88,9 @@
         "short_name": "Edge",
         "browser": "Edge",
         "type": "desktop",
-        "current_version": "156",
+        "current_version": "157",
         "current_status": "y #1",
-        "current_global_usage": 0.86,
+        "current_global_usage": 0,
         "first_partial_version": "79",
         "first_full_version": "79",
         "stats": {
@@ -177,7 +177,8 @@
           "153": "y #1",
           "154": "y #1",
           "155": "y #1",
-          "156": "y #1"
+          "156": "y #1",
+          "157": "y #1"
         }
       },
       {
@@ -364,9 +365,9 @@
         "short_name": "Chr.",
         "browser": "Chrome",
         "type": "desktop",
-        "current_version": "157",
+        "current_version": "158",
         "current_status": "y #1",
-        "current_global_usage": 0.03,
+        "current_global_usage": 0,
         "first_partial_version": "61",
         "first_full_version": "61",
         "stats": {
@@ -525,7 +526,8 @@
           "157": "y #1",
           "158": "y #1",
           "159": "y #1",
-          "160": "y #1"
+          "160": "y #1",
+          "161": "y #1"
         }
       },
       {
@@ -608,7 +610,7 @@
         "short_name": "Op.",
         "browser": "Opera",
         "type": "desktop",
-        "current_version": "139",
+        "current_version": "140",
         "current_status": "y #1",
         "current_global_usage": 0,
         "first_partial_version": "48",
@@ -737,6 +739,7 @@
           "137": "y #1",
           "138": "y #1",
           "139": "y #1",
+          "140": "y #1",
           "9.5-9.6": "n",
           "10.0-10.1": "n",
           "10.5": "n",
@@ -1047,6 +1050,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "98dc02319a8e7013684a785f4fbf30eedea55e63"
+    "commit": "f54df7771189bc2b04f3653160d83ac7c81457fb"
   }
 }

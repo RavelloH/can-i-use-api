@@ -77,11 +77,11 @@
   },
   "hot": {
     "rank": 440,
-    "score": 60.85,
+    "score": 60.77,
     "signals": {
       "coverage_score": 37.12,
       "breadth_score": 15,
-      "freshness_score": 6.23,
+      "freshness_score": 6.15,
       "momentum_score": 2.5,
       "added_score": 0,
       "current_supported_browsers": 6
@@ -116,9 +116,9 @@
         "short_name": "Edge",
         "browser": "Edge",
         "type": "desktop",
-        "current_version": "156",
+        "current_version": "157",
         "current_status": "y",
-        "current_global_usage": 0.86,
+        "current_global_usage": 0,
         "first_partial_version": "135",
         "first_full_version": "135",
         "stats": {
@@ -205,7 +205,8 @@
           "153": "y",
           "154": "y",
           "155": "y",
-          "156": "y"
+          "156": "y",
+          "157": "y"
         }
       },
       {
@@ -392,9 +393,9 @@
         "short_name": "Chr.",
         "browser": "Chrome",
         "type": "desktop",
-        "current_version": "157",
+        "current_version": "158",
         "current_status": "y",
-        "current_global_usage": 0.03,
+        "current_global_usage": 0,
         "first_partial_version": "135",
         "first_full_version": "135",
         "stats": {
@@ -553,7 +554,8 @@
           "157": "y",
           "158": "y",
           "159": "y",
-          "160": "y"
+          "160": "y",
+          "161": "y"
         }
       },
       {
@@ -636,7 +638,7 @@
         "short_name": "Op.",
         "browser": "Opera",
         "type": "desktop",
-        "current_version": "139",
+        "current_version": "140",
         "current_status": "y",
         "current_global_usage": 0,
         "first_partial_version": "120",
@@ -765,6 +767,7 @@
           "137": "y",
           "138": "y",
           "139": "y",
+          "140": "y",
           "9.5-9.6": "n",
           "10.0-10.1": "n",
           "10.5": "n",
@@ -1075,6 +1078,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "98dc02319a8e7013684a785f4fbf30eedea55e63"
+    "commit": "f54df7771189bc2b04f3653160d83ac7c81457fb"
   }
 }

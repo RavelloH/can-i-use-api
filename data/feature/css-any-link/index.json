@@ -72,9 +72,9 @@
         "short_name": "Edge",
         "browser": "Edge",
         "type": "desktop",
-        "current_version": "156",
+        "current_version": "157",
         "current_status": "y",
-        "current_global_usage": 0.86,
+        "current_global_usage": 0,
         "first_partial_version": "79",
         "first_full_version": "79",
         "stats": {
@@ -161,7 +161,8 @@
           "153": "y",
           "154": "y",
           "155": "y",
-          "156": "y"
+          "156": "y",
+          "157": "y"
         }
       },
       {
@@ -348,9 +349,9 @@
         "short_name": "Chr.",
         "browser": "Chrome",
         "type": "desktop",
-        "current_version": "157",
+        "current_version": "158",
         "current_status": "y",
-        "current_global_usage": 0.03,
+        "current_global_usage": 0,
         "first_partial_version": "15",
         "first_full_version": "15",
         "stats": {
@@ -509,7 +510,8 @@
           "157": "y",
           "158": "y",
           "159": "y",
-          "160": "y"
+          "160": "y",
+          "161": "y"
         }
       },
       {
@@ -592,7 +594,7 @@
         "short_name": "Op.",
         "browser": "Opera",
         "type": "desktop",
-        "current_version": "139",
+        "current_version": "140",
         "current_status": "y",
         "current_global_usage": 0,
         "first_partial_version": "15",
@@ -721,6 +723,7 @@
           "137": "y",
           "138": "y",
           "139": "y",
+          "140": "y",
           "9.5-9.6": "n",
           "10.0-10.1": "n",
           "10.5": "n",
@@ -1031,6 +1034,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "98dc02319a8e7013684a785f4fbf30eedea55e63"
+    "commit": "f54df7771189bc2b04f3653160d83ac7c81457fb"
   }
 }

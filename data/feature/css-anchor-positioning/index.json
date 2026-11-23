@@ -87,11 +87,11 @@
   },
   "hot": {
     "rank": 479,
-    "score": 43.49,
+    "score": 43.42,
     "signals": {
       "coverage_score": 14.15,
       "breadth_score": 25,
-      "freshness_score": 0.38,
+      "freshness_score": 0.31,
       "momentum_score": 3.96,
       "added_score": 0,
       "current_supported_browsers": 10
@@ -126,9 +126,9 @@
         "short_name": "Edge",
         "browser": "Edge",
         "type": "desktop",
-        "current_version": "156",
+        "current_version": "157",
         "current_status": "a #5",
-        "current_global_usage": 0.86,
+        "current_global_usage": 0,
         "first_partial_version": "125",
         "first_full_version": null,
         "stats": {
@@ -215,7 +215,8 @@
           "153": "a #5",
           "154": "a #5",
           "155": "a #5",
-          "156": "a #5"
+          "156": "a #5",
+          "157": "a #5"
         }
       },
       {
@@ -402,9 +403,9 @@
         "short_name": "Chr.",
         "browser": "Chrome",
         "type": "desktop",
-        "current_version": "157",
+        "current_version": "158",
         "current_status": "a #5",
-        "current_global_usage": 0.03,
+        "current_global_usage": 0,
         "first_partial_version": "125",
         "first_full_version": null,
         "stats": {
@@ -563,7 +564,8 @@
           "157": "a #5",
           "158": "a #5",
           "159": "a #5",
-          "160": "a #5"
+          "160": "a #5",
+          "161": "a #5"
         }
       },
       {
@@ -646,7 +648,7 @@
         "short_name": "Op.",
         "browser": "Opera",
         "type": "desktop",
-        "current_version": "139",
+        "current_version": "140",
         "current_status": "a #3 #5",
         "current_global_usage": 0,
         "first_partial_version": "111",
@@ -775,6 +777,7 @@
           "137": "a #3 #5",
           "138": "a #3 #5",
           "139": "a #3 #5",
+          "140": "a #3 #5",
           "9.5-9.6": "n",
           "10.0-10.1": "n",
           "10.5": "n",
@@ -1085,6 +1088,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "98dc02319a8e7013684a785f4fbf30eedea55e63"
+    "commit": "f54df7771189bc2b04f3653160d83ac7c81457fb"
   }
 }
