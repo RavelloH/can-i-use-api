@@ -27,6 +27,10 @@
     {
       "url": "https://gist.github.com/paullewis/55efe5d6f05434a96c36",
       "title": "Shim"
+    },
+    {
+      "url": "https://bugs.webkit.org/show_bug.cgi?id=285049",
+      "title": "WebKit bug 285049: Enable requestIdleCallback"
     }
   ],
   "notes": "",
@@ -1044,6 +1048,6 @@
   },
   "source": {
     "repository": "https://github.com/Fyrd/caniuse.git",
-    "commit": "f54df7771189bc2b04f3653160d83ac7c81457fb"
+    "commit": "35b1416de3999ce658aaf7a1e10ebdc8e6aa11a8"
   }
 }

@@ -1300,41 +1300,5 @@
         "to": "y"
       }
     ]
-  },
-  {
-    "id": "css-nesting",
-    "title": "CSS Nesting",
-    "type": "support",
-    "date": "2025-04-15T22:41:36-07:00",
-    "summary": "Samsung Internet fully supports CSS nesting (#7306)",
-    "usage": {
-      "fully_supported": 93.39,
-      "partially_supported": 1.35
-    },
-    "commit": {
-      "sha": "e1d1a74ce28b535f97276e4f632397119563460c",
-      "url": "https://github.com/Fyrd/caniuse/commit/e1d1a74ce28b535f97276e4f632397119563460c"
-    },
-    "improved_count": 3,
-    "changes": [
-      {
-        "browser": "samsung",
-        "version": "25",
-        "from": "a #3",
-        "to": "y"
-      },
-      {
-        "browser": "samsung",
-        "version": "26",
-        "from": "a #3",
-        "to": "y"
-      },
-      {
-        "browser": "samsung",
-        "version": "27",
-        "from": "a #3",
-        "to": "y"
-      }
-    ]
   }
 ]
